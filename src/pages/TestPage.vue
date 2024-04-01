@@ -1,10 +1,7 @@
 <template>
-  <q-page
-    padding
-    @keydown.enter="onEnterKeydown"
-    @keydown.tab.prevent="nextSentence"
-  >
-    <div class="flex flex-center">
+  <q-page @keydown.enter="onEnterKeydown" @keydown.tab.prevent="nextSentence">
+    <div class="flex flex-center bg-grey-3 q-pa-sm">
+      <q-btn flat round dense icon="home" to="/" class="on-left" />
       <span class="text-h4" style="margin-right: 240px">{{ id }}</span>
       <q-btn
         v-for="(part, i) in parts"
@@ -29,7 +26,7 @@
 
     <div
       id="waveform"
-      class="q-my-md bg-grey-2 shadow-6"
+      class="q-mb-md shadow-3"
       style="height: 200px; padding: 16px"
     ></div>
 
