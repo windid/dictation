@@ -1,7 +1,11 @@
 <template>
-  <q-page padding>
+  <q-page
+    padding
+    @keydown.enter="onEnterKeydown"
+    @keydown.tab.prevent="nextSentence"
+  >
     <div class="flex flex-center">
-      <span class="text-h4" style="margin-right: 200px">{{ id }}</span>
+      <span class="text-h4" style="margin-right: 240px">{{ id }}</span>
       <q-btn
         v-for="(part, i) in parts"
         :key="i"
@@ -12,18 +16,39 @@
         {{ i + 1 }}
       </q-btn>
       <q-checkbox v-model="loopSentence" label="Loop" class="on-right" />
+      <q-input
+        type="number"
+        v-model="delay"
+        class="on-right"
+        dense
+        outlined
+        label="Delay"
+        style="width: 80px"
+      />
     </div>
 
-    <div id="waveform" class="q-ma-md" style="height: 176px"></div>
+    <div
+      id="waveform"
+      class="q-my-md bg-grey-2 shadow-6"
+      style="height: 200px; padding: 16px"
+    ></div>
 
-    <div class="flex flex-center bg-grey-2 q-pa-sm">
+    <div class="flex flex-center q-pa-md">
+      <span class="text-h6 on-left"
+        >{{ currentSentenceId + 1 }} / {{ sentences.length }}</span
+      >
+      <q-btn icon="refresh" round @click="reset" />
+
       <q-btn
         :icon="playing ? 'pause' : 'play_arrow'"
         round
         color="primary"
         size="lg"
+        class="q-mx-lg"
         @click="playOrPause"
       />
+
+      <q-btn icon="skip_next" round @click="nextSentence" />
     </div>
 
     <div class="flex flex-center q-my-md">
@@ -31,9 +56,37 @@
         v-model="text"
         filled
         type="textarea"
-        rows="6"
-        style="width: 720px"
+        rows="5"
+        spellcheck="false"
+        style="width: 600px"
+        @keypress.enter.prevent
       />
+    </div>
+    <div class="flex flex-center q-my-md">
+      <q-btn
+        color="primary"
+        label="Compare"
+        @click="compare"
+        style="margin-left: 16px"
+      />
+    </div>
+    <div v-if="showResult" class="text-center">
+      <p>
+        <span
+          v-for="(change, i) in diff"
+          :key="i"
+          :class="
+            change.added
+              ? 'text-positive'
+              : change.removed
+                ? 'text-negative'
+                : ''
+          "
+          >{{ change.value }}</span
+        >
+      </p>
+      <p>{{ currentSentence.englishDetail }}</p>
+      <p>{{ currentSentence.translateDetail }}</p>
     </div>
   </q-page>
 </template>
@@ -47,6 +100,7 @@ import WaveSurfer from 'wavesurfer.js'
 import Regions from 'wavesurfer.js/dist/plugins/regions.esm.js'
 import Minimap from 'wavesurfer.js/dist/plugins/minimap.esm.js'
 import ZoomPlugin from 'wavesurfer.js/dist/plugins/zoom.esm.js'
+import * as Diff from 'diff'
 
 defineOptions({
   name: 'TestPage',
@@ -89,10 +143,21 @@ const playOrPause = () => {
   playing.value ? pause() : play()
 }
 
+const onEnterKeydown = (e: KeyboardEvent) => {
+  if (e.shiftKey) {
+    compare()
+  } else {
+    playOrPause()
+  }
+}
+
 const play = () => {
   playing.value = true
-  regionPlaying.value ? ws.play() : activeRegion.play()
-  regionPlaying.value = true
+  !regionPlaying.value && ws.seekTo(activeRegion.start / ws.getDuration())
+  setTimeout(() => {
+    ws.play()
+    regionPlaying.value = true
+  }, 10)
 }
 
 const pause = () => {
@@ -100,17 +165,48 @@ const pause = () => {
   ws.pause()
 }
 
+const nextSentence = () => {
+  if (!showResult.value) {
+    return
+  }
+  if (currentSentenceId.value < sentences.value.length) {
+    showResult.value = false
+    text.value = ''
+    pause()
+    currentSentenceId.value++
+    addRegion()
+    regionPlaying.value = false
+    play()
+  } else {
+    console.log('End of the part')
+  }
+}
+
+const reset = () => {
+  textResult.value = []
+  currentSentenceId.value = 0
+  showResult.value = false
+  text.value = ''
+  addRegion()
+  ws.seekTo(activeRegion.start / ws.getDuration())
+  regionPlaying.value = false
+}
+
+const delay = useLocalStorage('delay', 0)
+
 const addRegion = () => {
   wsRegions.clearRegions()
   activeRegion = wsRegions.addRegion({
-    start: currentSentence.value.startTime / 1000,
-    end: currentSentence.value.endTime / 1000,
+    start: (currentSentence.value.startTime + delay.value) / 1000,
+    end: (currentSentence.value.endTime + delay.value) / 1000,
     color: 'rgba(255, 255, 0, 0.15)',
   })
 }
 
 const createWaveSurfer = () => {
   ws && ws.destroy()
+  regionPlaying.value = false
+  playing.value = false
   ws = WaveSurfer.create({
     container: '#waveform',
     waveColor: 'rgb(200, 0, 50)',
@@ -122,11 +218,15 @@ const createWaveSurfer = () => {
     plugins: [
       // Register the plugin
       Minimap.create({
-        height: 48,
+        height: 40,
         waveColor: '#ccc',
         progressColor: '#999',
       }),
     ],
+  })
+
+  ws.on('interaction', () => {
+    ws.play()
   })
 
   ws.registerPlugin(
@@ -139,7 +239,7 @@ const createWaveSurfer = () => {
   )
 
   ws.on('interaction', () => {
-    ws.pause()
+    ws.play()
   })
 
   wsRegions = ws.registerPlugin(Regions.create())
@@ -152,6 +252,20 @@ const createWaveSurfer = () => {
   ws.on('decode', () => {
     addRegion()
   })
+}
+
+const showResult = ref(false)
+const diff = ref<Diff.Change[]>([])
+
+const textResult = useLocalStorage<Diff.Change[][]>(
+  `textResult-${id}-${currentPartId}`,
+  [],
+)
+
+const compare = () => {
+  diff.value = Diff.diffWords(text.value, currentSentence.value.englishDetail)
+  textResult.value.push(diff.value)
+  showResult.value = true
 }
 
 watch(audioUrl, () => {
@@ -173,4 +287,11 @@ const text = ref('')
 .active
   background: $primary !important
   color: white
+
+.text-positive
+  color: $green
+
+.text-negative
+  color: $red
+  text-decoration: line-through
 </style>
