@@ -1,0 +1,1477 @@
+{
+  "status": 0,
+  "message": "success",
+  "content": [
+    {
+      "listeningId": "120211012105306",
+      "topicId": "91",
+      "topicName": "生活",
+      "part": 1,
+      "listenQuestion": "C15-Test 4-Section 1",
+      "subjectData": {
+        "listenDetailList": [
+          {
+            "englishDetail": "Hello. Do you mind if I ask you some questions about your journey today? We're doing a customer satisfaction survey. ",
+            "translateDetail": "您好。您介不介意我问您一些关于今天的旅行的问题?我们正在做客户满意度调查。",
+            "startTime": 95410,
+            "endTime": 103500
+          },
+          {
+            "englishDetail": "Yes. OK. I've got about ten minutes before my train home leaves. I'm on a day trip. ",
+            "translateDetail": "没问题。你问吧。十分钟后我要搭乘火车回家。我参加的是一日行。",
+            "startTime": 103500,
+            "endTime": 109100
+          },
+          {
+            "englishDetail": "Great. Thank you. So first of all, could you tell me your name? ",
+            "translateDetail": "太好了。谢谢您。首先,请问您叫什么名字?",
+            "startTime": 109100,
+            "endTime": 113670
+          },
+          {
+            "englishDetail": "It's Sophie Bird.  ",
+            "translateDetail": "我叫苏菲·伯德",
+            "startTime": 113670,
+            "endTime": 115730
+          },
+          {
+            "englishDetail": "Thank you. And would you mind telling me what you do? ",
+            "translateDetail": "谢谢。请问您可以告诉我您的职业吗?",
+            "startTime": 115730,
+            "endTime": 119370
+          },
+          {
+            "englishDetail": "I'm a journalist.  ",
+            "translateDetail": "我是个记者。",
+            "startTime": 119370,
+            "endTime": 120860
+          },
+          {
+            "englishDetail": "Oh really? That must be interesting. ",
+            "translateDetail": "真的吗?那一定很有趣。",
+            "startTime": 120860,
+            "endTime": 123050
+          },
+          {
+            "englishDetail": "Yes. It is.  ",
+            "translateDetail": "是的。的确是这样。",
+            "startTime": 123050,
+            "endTime": 124510
+          },
+          {
+            "englishDetail": "So was the reason for your visit here today work? ",
+            "translateDetail": "您今天来这里是为了工作吗?",
+            "startTime": 124510,
+            "endTime": 128450
+          },
+          {
+            "englishDetail": "Actually, it's my day off. I came here to do some shopping.  ",
+            "translateDetail": "实际上,今天我休班。我来这里是为了购物。",
+            "startTime": 128450,
+            "endTime": 132250
+          },
+          {
+            "englishDetail": "Oh right. ",
+            "translateDetail": "知道了。",
+            "startTime": 132250,
+            "endTime": 133420
+          },
+          {
+            "englishDetail": "But I do sometimes come here for work.  ",
+            "translateDetail": "但是我偶尔到这里工作。",
+            "startTime": 133420,
+            "endTime": 136100
+          },
+          {
+            "englishDetail": "OK. Now I'd like to ask some questions about your journey today, if that's OK. ",
+            "translateDetail": "嗯。现在如果可以的话,我想问您一些关于今天旅行的问题。",
+            "startTime": 136100,
+            "endTime": 141360
+          },
+          {
+            "englishDetail": "Yes. No problem.  ",
+            "translateDetail": "你说吧。没问题。",
+            "startTime": 141360,
+            "endTime": 142500
+          },
+          {
+            "englishDetail": "Right, so can you tell me which station you're travelling back to? ",
+            "translateDetail": "好的,您能告诉我您要回到哪个车站吗?",
+            "startTime": 142500,
+            "endTime": 146920
+          },
+          {
+            "englishDetail": "Staunfirth, where I live.  ",
+            "translateDetail": "斯当佛斯,我在那里住。",
+            "startTime": 146920,
+            "endTime": 149230
+          },
+          {
+            "englishDetail": "Can I just check the spelling? S-T-A-U-N-F-I-R-T-H? ",
+            "translateDetail": "请问是这么拼吗?S-T-A-U-N-F-I-R-T-H对吗",
+            "startTime": 149230,
+            "endTime": 158910
+          },
+          {
+            "englishDetail": "That's right.  ",
+            "translateDetail": "是的。",
+            "startTime": 158910,
+            "endTime": 159930
+          },
+          {
+            "englishDetail": "And you travelled from there this morning? ",
+            "translateDetail": "您是这个早上过来的吗?",
+            "startTime": 159930,
+            "endTime": 163400
+          },
+          {
+            "englishDetail": "Yes.  ",
+            "translateDetail": "是的。",
+            "startTime": 163400,
+            "endTime": 164190
+          },
+          {
+            "englishDetail": "OK, good. Next, can I ask what kind of ticket you bought? I assume it wasn't a season ticket, as you don't travel every day. ",
+            "translateDetail": "好的,知道了。接下来,能问下您买的哪种票?我猜不是季票,因为您也不是每天都来。",
+            "startTime": 164190,
+            "endTime": 172610
+          },
+          {
+            "englishDetail": "That's right. No, I just got a normal return ticket. I don't have a rail card so I didn't get any discount. I keep meaning to get one because it's a lot cheaper. ",
+            "translateDetail": "是的。我买的就是普通的往返票。我没有铁路卡所以没有打折。我一直想要弄一张因为那样会便宜很多。",
+            "startTime": 172610,
+            "endTime": 184010
+          },
+          {
+            "englishDetail": "Yes - you'd have saved 20% on your ticket today. So you paid the full price for your ticket? ",
+            "translateDetail": "是的。如果有的话,您的票价今天可以打八折。所以您买的是全价票了?",
+            "startTime": 184010,
+            "endTime": 190690
+          },
+          {
+            "englishDetail": "I paid £23.70.  ",
+            "translateDetail": "我花了23.70磅。",
+            "startTime": 190690,
+            "endTime": 193210
+          },
+          {
+            "englishDetail": "OK. Do you think that's good value for money? ",
+            "translateDetail": "知道了。您觉得物有所值吗?",
+            "startTime": 193210,
+            "endTime": 196080
+          },
+          {
+            "englishDetail": "Not really. I think it's too much for a journey that only takes 45 minutes.  ",
+            "translateDetail": "并没有。我觉得对于一趟只有45分钟的行程来说太贵了",
+            "startTime": 196080,
+            "endTime": 200600
+          },
+          {
+            "englishDetail": "Yes, that's one of the main complaints we get. So, you didn't buy your ticket in advance? ",
+            "translateDetail": "是的,我们收到的最多的抱怨也是这个。那么,您没有提前买票吗?",
+            "startTime": 200600,
+            "endTime": 206270
+          },
+          {
+            "englishDetail": "No. I know it's cheaper if you buy a week in advance but I didn't know I was coming then. ",
+            "translateDetail": "没有。我知道提前一周买票会更便宜但是我那时候并不知道我会来。",
+            "startTime": 206270,
+            "endTime": 211650
+          },
+          {
+            "englishDetail": "I know. You can't always plan ahead. So, did you buy it this morning?  ",
+            "translateDetail": "了解了。有的事儿很难提前计划。那么,您是今天早上买的票吗",
+            "startTime": 211650,
+            "endTime": 217200
+          },
+          {
+            "englishDetail": "No, it was yesterday. ",
+            "translateDetail": "不是,是昨天。",
+            "startTime": 217200,
+            "endTime": 219480
+          },
+          {
+            "englishDetail": "Right. And do you usually buy your tickets at the station? ",
+            "translateDetail": "好的。您经常在车站买票吗?",
+            "startTime": 219480,
+            "endTime": 223700
+          },
+          {
+            "englishDetail": "Well, I do usually but the ticket office closes early and I hate using ticket machines. I think ticket offices should be open for longer hours. There's always a queue for the machines and they're often out of order. ",
+            "translateDetail": "我确实经常在售票处买票,但是售票处很早就关门。我不喜欢用售票机。我觉得售票处的营业时间应该更长。售票机前很多人排队,有时很没有秩序。",
+            "startTime": 223700,
+            "endTime": 236400
+          },
+          {
+            "englishDetail": "A lot of customers are saying the same thing.  ",
+            "translateDetail": "很多顾客和您说的一样。",
+            "startTime": 236400,
+            "endTime": 239320
+          },
+          {
+            "englishDetail": "So to answer your question ... I got an e-ticket online. ",
+            "translateDetail": "至于你刚才的问题。我在网上买的电子票。",
+            "startTime": 239320,
+            "endTime": 247020
+          },
+          {
+            "englishDetail": "OK. Thank you. Now I'd like to ask you about your satisfaction with your journey. So what would you say you were most satisfied with today? ",
+            "translateDetail": "了解了。谢谢您。现在我想问您一些关于旅行满意度的问题。今天的旅行您最满意的是什么?",
+            "startTime": 280060,
+            "endTime": 290650
+          },
+          {
+            "englishDetail": "Well, I like the wifi on the train. It's improved a lot. It makes it easier for me to work if I want to. ",
+            "translateDetail": "火车上提供无线网络,我很喜欢。网速提高很多。如果我要工作的话也更方便。",
+            "startTime": 290650,
+            "endTime": 298680
+          },
+          {
+            "englishDetail": "That's the first time today anyone's mentioned that. It's good to get some positive feedback on that. ",
+            "translateDetail": "今天还没有人说到这个。能得到一些积极的反馈真好。",
+            "startTime": 298680,
+            "endTime": 303780
+          },
+          {
+            "englishDetail": "Mmm.  ",
+            "translateDetail": "嗯。",
+            "startTime": 303780,
+            "endTime": 304520
+          },
+          {
+            "englishDetail": "And, is there anything you weren't satisfied with? ",
+            "translateDetail": "今天有什么不满意的吗?",
+            "startTime": 304520,
+            "endTime": 308630
+          },
+          {
+            "englishDetail": "Well, normally, the trains run on time and are pretty reliable but today there was a delay: the train was about 15 minutes behind schedule. ",
+            "translateDetail": "平时火车总是准时到站,这一点很值得信赖。但是今天火车晚点了,晚了15分钟。",
+            "startTime": 308630,
+            "endTime": 319700
+          },
+          {
+            "englishDetail": "OK. I'll put that down. Now I'd also like to ask about the facilities at this station . You've probably noticed that the whole station's been upgraded. What are you most satisfied with? ",
+            "translateDetail": "好的。我会记下来。现在我想知道有关火车站设施的情况。您也许已经注意到了整个火车站已经翻新升级了。您最满意的是什么?",
+            "startTime": 319700,
+            "endTime": 332810
+          },
+          {
+            "englishDetail": "I think the best thing is that they've improved the amount of information about train times etc. that's given to passengers - it's much clearer - before there was only one board and I couldn't always see it properly- which was frustrating. ",
+            "translateDetail": "我觉得最好的就是他们增加了有关火车班次时间等等的信息。旅客们看时间看得更清楚了。之前只有一个板子,我经常看不清上面的字,这很令人沮丧。",
+            "startTime": 332810,
+            "endTime": 348660
+          },
+          {
+            "englishDetail": "That's good. And is there anything you're not satisfied with? ",
+            "translateDetail": "那就好。有什么不满意的吗?",
+            "startTime": 348660,
+            "endTime": 352710
+          },
+          {
+            "englishDetail": "Let's see ... I think things have generally improved a lot. The trains are much more modern and I like the new cafe. But one thing is that there aren't enough places to sit down, especially on the platforms. ",
+            "translateDetail": "我想想。我觉得普遍来说已经完善了很多。火车更加现代化了,我也喜欢新的咖啡厅。但是确实有一个不满意的地方,那就是车站,尤其是站台上的座椅不够。",
+            "startTime": 352710,
+            "endTime": 367810
+          },
+          {
+            "englishDetail": "OK - so I'll put 'seating' down, shall I, as the thing you're least satisfied with?  ",
+            "translateDetail": "好的,我把它记成您最不满意的事项?",
+            "startTime": 367810,
+            "endTime": 373360
+          },
+          {
+            "englishDetail": "Yes. OK. ",
+            "translateDetail": "可以。没问题",
+            "startTime": 373360,
+            "endTime": 374970
+          },
+          {
+            "englishDetail": "Can I ask your opinion about some of the other facilities? We'd like feedback on whether people are satisfied, dissatisfied or neither satisfied nor dissatisfied. ",
+            "translateDetail": " 我能问问您对其他设施的看法吗?我们希望得到客户的回应,不管是满意还是不满意还是无意见。",
+            "startTime": 374970,
+            "endTime": 386290
+          },
+          {
+            "englishDetail": "OK. ",
+            "translateDetail": "可以。",
+            "startTime": 386290,
+            "endTime": 387430
+          },
+          {
+            "englishDetail": "What about the parking at the station?  ",
+            "translateDetail": "车站停车方便吗?",
+            "startTime": 387430,
+            "endTime": 390600
+          },
+          {
+            "englishDetail": "Well to be honest, I don't really have an opinion as I never use it. ",
+            "translateDetail": "说实话,因为我没用过,我也没什么看法。",
+            "startTime": 390600,
+            "endTime": 395300
+          },
+          {
+            "englishDetail": "So, neither satisfied nor dissatisfied for that then.  ",
+            "translateDetail": "那就是无意见",
+            "startTime": 395300,
+            "endTime": 398970
+          },
+          {
+            "englishDetail": "Yes, I suppose so ...  ",
+            "translateDetail": "是的，我觉得是",
+            "startTime": 398970,
+            "endTime": 401110
+          },
+          {
+            "englishDetail": "OK, and what about ... ? ",
+            "translateDetail": "好的，那……",
+            "startTime": 401110,
+            "endTime": 406110
+          }
+        ]
+      },
+      "listenContent": "<div>MAN:Hello. Do you mind if I ask you some questions about your journey today? We're doing a customer satisfaction survey.</div>\n<div>&nbsp;</div>\n<div>&nbsp;</div>\n<div>SOPHIE:Yes. OK. I've got about ten minutes before my train home leaves. I'm on a day trip.</div>\n<div>&nbsp;</div>\n<div>&nbsp;</div>\n<div>MAN:Great. Thank you. So first of all, could you tell me your name?</div>\n<div>&nbsp;</div>\n<div>&nbsp;</div>\n<div>SOPHIE:It's Sophie Bird.&nbsp;</div>\n<div>&nbsp;</div>\n<div>MAN:Thank you. And would you mind telling me what you do?</div>\n<div>&nbsp;</div>\n<div>&nbsp;</div>\n<div>SOPHIE:I'm a journalist.&nbsp;<br /><br /></div>\n<div>MAN:Oh really? That must be interesting.</div>\n<div>&nbsp;</div>\n<div>&nbsp;</div>\n<div>SOPHIE:Yes. It is.&nbsp;</div>\n<div>&nbsp;</div>\n<div>&nbsp;</div>\n<div>MAN:So was the reason for your visit here today work?</div>\n<div>&nbsp;</div>\n<div>&nbsp;</div>\n<div>SOPHIE:Actual ly, it's my day off. I came here to do some shopping.&nbsp;</div>\n<div>&nbsp;</div>\n<div>&nbsp;</div>\n<div>MAN:Oh right.</div>\n<div>&nbsp;</div>\n<div>&nbsp;</div>\n<div>SOPHIE:But I do sometimes come here for work.&nbsp;</div>\n<div>&nbsp;</div>\n<div>&nbsp;</div>\n<div>MAN:OK. Now I'd like to ask some quest ions about your journey today, if that's OK.</div>\n<div>&nbsp;</div>\n<div>&nbsp;</div>\n<div>SOPHIE:Yes. No problem.&nbsp;</div>\n<div>&nbsp;</div>\n<div>&nbsp;</div>\n<div>MAN:Right, so can you tell me which station you're travelling back to?</div>\n<div>&nbsp;</div>\n<div>&nbsp;</div>\n<div>SOPHIE:Staunfirth, where I live.&nbsp;</div>\n<div>&nbsp;</div>\n<div>&nbsp;</div>\n<div>MAN:Can I just check the spelling? S-T-A-U-N-F-1-R-T-H?</div>\n<div>&nbsp;</div>\n<div>&nbsp;</div>\n<div>SOPHIE:That's right.&nbsp;</div>\n<div>&nbsp;</div>\n<div>&nbsp;</div>\n<div>MAN:And you travelled from there this morning?</div>\n<div>&nbsp;</div>\n<div>&nbsp;</div>\n<div>SOPHIE:Yes.&nbsp;</div>\n<div>&nbsp;</div>\n<div>&nbsp;</div>\n<div>MAN:OK, good. Next, can I ask what kind of ticket you bought? I assume it wasn't a season ticket, as you don't travel every day.</div>\n<div>&nbsp;</div>\n<div>&nbsp;</div>\n<div>SOPHIE:That's right. No, I just got a normal return ticket. I don't have a rail card so I didn't&nbsp;</div>\n<div>get any discount. I keep meaning to get one because it's a lot cheaper.</div>\n<div>&nbsp;</div>\n<div>&nbsp;</div>\n<div>MAN:Yes - you'd have saved 20% on your ticket today. So you paid the full price for your ticket?</div>\n<div>&nbsp;</div>\n<div>&nbsp;</div>\n<div>SOPHIE:I paid &pound;23.70.&nbsp;</div>\n<div>&nbsp;</div>\n<div>&nbsp;</div>\n<div>MAN:OK. Do you think that's good value for money?</div>\n<div>&nbsp;</div>\n<div>&nbsp;</div>\n<div>SOPHIE:Not really. I think it's too much for a journey that only takes 45 minutes.&nbsp;</div>\n<div>&nbsp;</div>\n<div>&nbsp;</div>\n<div>MAN:Yes, that's one of the main complaints we get. So, you didn't buy your ticket in advance?</div>\n<div>&nbsp;</div>\n<div>&nbsp;</div>\n<div>SOPHIE:No. I know it's cheaper if you buy a week in advance but I didn't know I was coming then.</div>\n<div>&nbsp;</div>\n<div>&nbsp;</div>\n<div>MAN:I know. You can't always plan ahead. So, did you buy it this morning?&nbsp;</div>\n<div>&nbsp;</div>\n<div>&nbsp;</div>\n<div>SOPHIE:No, it was yesterday.</div>\n<div>&nbsp;</div>\n<div>&nbsp;</div>\n<div>MAN:Right. And do you usually buy your tickets at the station?</div>\n<div>&nbsp;</div>\n<div>&nbsp;</div>\n<div>SOPHIE:Well, I do usually but the ticket office closes early and I hate using ticket machines. I think ticket offices shou ld be open for longer hours. There's always a queue for the machines and they're often out of order.</div>\n<div>&nbsp;</div>\n<div>&nbsp;</div>\n<div>MAN:A lot of customers are saying the same thing.&nbsp;</div>\n<div>&nbsp;</div>\n<div>&nbsp;</div>\n<div>SOPHIE:So to answer your question ... I got an e-ticket online.</div>\n<div>&nbsp;</div>\n<div>&nbsp;</div>\n<div>MAN:OK. Thank you. Now I'd like to ask you about your satisfaction with your journey. So what would you say you were most satisfied with today?</div>\n<div>&nbsp;</div>\n<div>&nbsp;</div>\n<div>SOPHIE:Well, I like the wifi on the train. It's improved a lot. It makes it easier for me to&nbsp;</div>\n<div>work if I want to.</div>\n<div>&nbsp;</div>\n<div>&nbsp;</div>\n<div>MAN:That's the first time today anyone's mentioned that. It's good to get some positive feedback on that.</div>\n<div>&nbsp;</div>\n<div>&nbsp;</div>\n<div>SOPHIE:Mmm.&nbsp;</div>\n<div>&nbsp;</div>\n<div>&nbsp;</div>\n<div>MAN:And, is there anyth ing you weren't satisfied with?</div>\n<div>&nbsp;</div>\n<div>&nbsp;</div>\n<div>SOPHIE:Well, normally, the trains run on time and are pretty reliable but today there was a&nbsp;</div>\n<div>delay: the train was about 15 minutes behind schedule.</div>\n<div>&nbsp;</div>\n<div>&nbsp;</div>\n<div>MAN:OK. I'll put that down. Now I'd also like to ask about the facil ities at this station .&nbsp;</div>\n<div>You've probably noticed that the whole station's been upgraded. What are you most satisfied with?</div>\n<div>&nbsp;</div>\n<div>&nbsp;</div>\n<div>SOPHIE:I think the best thing is that they've improved the amount of informat ion about train times etc. that's given to passengers - it's much clearer - before there was only one board and I couldn't always see it properly- which was frustrating.</div>\n<div>&nbsp;</div>\n<div>&nbsp;</div>\n<div>MAN:That's good. And is there anything you're not satisfied with?</div>\n<div>&nbsp;</div>\n<div>&nbsp;</div>\n<div>SOPHIE:Let's see ... I think things have genera lly improved a lot. The trains are much&nbsp;</div>\n<div>more modern and I like the new cafe. But one thing is that there aren't enough places to sit down, especially on the platforms.</div>\n<div>&nbsp;</div>\n<div>&nbsp;</div>\n<div>MAN:OK - so I'll put 'seating' down, shall 1, as the thing you're least satisfied with?&nbsp;</div>\n<div>&nbsp;</div>\n<div>&nbsp;</div>\n<div>SOPHIE:Yes. OK.</div>\n<div>&nbsp;</div>\n<div>&nbsp;</div>\n<div>MAN:Can I ask your opinion about some of the other facilities? We'd like feedback on&nbsp;</div>\n<div>whether people are satisfied, dissatisfied or neither satisfied nor dissatisfied.&nbsp;</div>\n<div>&nbsp;</div>\n<div>&nbsp;</div>\n<div>SOPHIE:OK.</div>\n<div>&nbsp;</div>\n<div>&nbsp;</div>\n<div>MAN:What about the parking at the station?&nbsp;</div>\n<div>&nbsp;</div>\n<div>&nbsp;</div>\n<div>SOPHIE:Well to be honest, I don't really have an opinion as I never use it.</div>\n<div>&nbsp;</div>\n<div>&nbsp;</div>\n<div>MAN:So, neither satisfied nor dissatisfied for that then.&nbsp;</div>\n<div>&nbsp;</div>\n<div>&nbsp;</div>\n<div>SOPHIE:Yes, I suppose so ...&nbsp;</div>\n<div>&nbsp;</div>\n<div>&nbsp;</div>\n<div>MAN:OK, and what about ... ?</div>\n<div>&nbsp;</div>\n<div>&nbsp;</div>",
+      "listenDetail": "[01:35.41]Hello. Do you mind if I ask you some questions about your journey today? We're doing a customer satisfaction survey. ##您好。您介不介意我问您一些关于今天的旅行的问题?我们正在做客户满意度调查。\n[01:43.50]Yes. OK. I've got about ten minutes before my train home leaves. I'm on a day trip. ##没问题。你问吧。十分钟后我要搭乘火车回家。我参加的是一日行。\n[01:49.10]Great. Thank you. So first of all, could you tell me your name? ##太好了。谢谢您。首先,请问您叫什么名字?\n[01:53.67]It's Sophie Bird.  ##我叫苏菲·伯德\n[01:55.73]Thank you. And would you mind telling me what you do? ##谢谢。请问您可以告诉我您的职业吗?\n[01:59.37]I'm a journalist.  ##我是个记者。\n[02:00.86]Oh really? That must be interesting. ##真的吗?那一定很有趣。\n[02:03.05]Yes. It is.  ##是的。的确是这样。\n[02:04.51]So was the reason for your visit here today work? ##您今天来这里是为了工作吗?\n[02:08.45]Actually, it's my day off. I came here to do some shopping.  ##实际上,今天我休班。我来这里是为了购物。\n[02:12.25]Oh right. ##知道了。\n[02:13.42]But I do sometimes come here for work.  ##但是我偶尔到这里工作。\n[02:16.10]OK. Now I'd like to ask some questions about your journey today, if that's OK. ##嗯。现在如果可以的话,我想问您一些关于今天旅行的问题。\n[02:21.36]Yes. No problem.  ##你说吧。没问题。\n[02:22.50]Right, so can you tell me which station you're travelling back to? ##好的,您能告诉我您要回到哪个车站吗?\n[02:26.92]Staunfirth, where I live.  ##斯当佛斯,我在那里住。\n[02:29.23]Can I just check the spelling? S-T-A-U-N-F-I-R-T-H? ##请问是这么拼吗?S-T-A-U-N-F-I-R-T-H对吗\n[02:38.91]That's right.  ##是的。\n[02:39.93]And you travelled from there this morning? ##您是这个早上过来的吗?\n[02:43.40]Yes.  ##是的。\n[02:44.19]OK, good. Next, can I ask what kind of ticket you bought? I assume it wasn't a season ticket, as you don't travel every day. ##好的,知道了。接下来,能问下您买的哪种票?我猜不是季票,因为您也不是每天都来。\n[02:52.61]That's right. No, I just got a normal return ticket. I don't have a rail card so I didn't get any discount. I keep meaning to get one because it's a lot cheaper. ##是的。我买的就是普通的往返票。我没有铁路卡所以没有打折。我一直想要弄一张因为那样会便宜很多。\n[03:04.01]Yes - you'd have saved 20% on your ticket today. So you paid the full price for your ticket? ##是的。如果有的话,您的票价今天可以打八折。所以您买的是全价票了?\n[03:10.69]I paid £23.70.  ##我花了23.70磅。\n[03:13.21]OK. Do you think that's good value for money? ##知道了。您觉得物有所值吗?\n[03:16.08]Not really. I think it's too much for a journey that only takes 45 minutes.  ##并没有。我觉得对于一趟只有45分钟的行程来说太贵了\n[03:20.60]Yes, that's one of the main complaints we get. So, you didn't buy your ticket in advance? ##是的,我们收到的最多的抱怨也是这个。那么,您没有提前买票吗?\n[03:26.27]No. I know it's cheaper if you buy a week in advance but I didn't know I was coming then. ##没有。我知道提前一周买票会更便宜但是我那时候并不知道我会来。\n[03:31.65]I know. You can't always plan ahead. So, did you buy it this morning?  ##了解了。有的事儿很难提前计划。那么,您是今天早上买的票吗\n[03:37.20]No, it was yesterday. ##不是,是昨天。\n[03:39.48]Right. And do you usually buy your tickets at the station? ##好的。您经常在车站买票吗?\n[03:43.70]Well, I do usually but the ticket office closes early and I hate using ticket machines. I think ticket offices should be open for longer hours. There's always a queue for the machines and they're often out of order. ##我确实经常在售票处买票,但是售票处很早就关门。我不喜欢用售票机。我觉得售票处的营业时间应该更长。售票机前很多人排队,有时很没有秩序。\n[03:56.40]A lot of customers are saying the same thing.  ##很多顾客和您说的一样。\n[03:59.32]So to answer your question ... I got an e-ticket online. ##至于你刚才的问题。我在网上买的电子票。\n[04:07.02]\n[04:40.06]OK. Thank you. Now I'd like to ask you about your satisfaction with your journey. So what would you say you were most satisfied with today? ##了解了。谢谢您。现在我想问您一些关于旅行满意度的问题。今天的旅行您最满意的是什么?\n[04:50.65]Well, I like the wifi on the train. It's improved a lot. It makes it easier for me to work if I want to. ##火车上提供无线网络,我很喜欢。网速提高很多。如果我要工作的话也更方便。\n[04:58.68]That's the first time today anyone's mentioned that. It's good to get some positive feedback on that. ##今天还没有人说到这个。能得到一些积极的反馈真好。\n[05:03.78]Mmm.  ##嗯。\n[05:04.52]And, is there anything you weren't satisfied with? ##今天有什么不满意的吗?\n[05:08.63]Well, normally, the trains run on time and are pretty reliable but today there was a delay: the train was about 15 minutes behind schedule. ##平时火车总是准时到站,这一点很值得信赖。但是今天火车晚点了,晚了15分钟。\n[05:19.70]OK. I'll put that down. Now I'd also like to ask about the facilities at this station . You've probably noticed that the whole station's been upgraded. What are you most satisfied with? ##好的。我会记下来。现在我想知道有关火车站设施的情况。您也许已经注意到了整个火车站已经翻新升级了。您最满意的是什么?\n[05:32.81]I think the best thing is that they've improved the amount of information about train times etc. that's given to passengers - it's much clearer - before there was only one board and I couldn't always see it properly- which was frustrating. ##我觉得最好的就是他们增加了有关火车班次时间等等的信息。旅客们看时间看得更清楚了。之前只有一个板子,我经常看不清上面的字,这很令人沮丧。\n[05:48.66]That's good. And is there anything you're not satisfied with? ##那就好。有什么不满意的吗?\n[05:52.71]Let's see ... I think things have generally improved a lot. The trains are much more modern and I like the new cafe. But one thing is that there aren't enough places to sit down, especially on the platforms. ##我想想。我觉得普遍来说已经完善了很多。火车更加现代化了,我也喜欢新的咖啡厅。但是确实有一个不满意的地方,那就是车站,尤其是站台上的座椅不够。\n[06:07.81]OK - so I'll put 'seating' down, shall I, as the thing you're least satisfied with?  ##好的,我把它记成您最不满意的事项?\n[06:13.36]Yes. OK. ##可以。没问题\n[06:14.97]Can I ask your opinion about some of the other facilities? We'd like feedback on whether people are satisfied, dissatisfied or neither satisfied nor dissatisfied. ## 我能问问您对其他设施的看法吗?我们希望得到客户的回应,不管是满意还是不满意还是无意见。\n[06:26.29]OK. ##可以。\n[06:27.43]What about the parking at the station?  ##车站停车方便吗?\n[06:30.60]Well to be honest, I don't really have an opinion as I never use it. ##说实话,因为我没用过,我也没什么看法。\n[06:35.30]So, neither satisfied nor dissatisfied for that then.  ##那就是无意见\n[06:38.97]Yes, I suppose so ...  ##是的，我觉得是\n[06:41.11]OK, and what about ... ? ##好的，那……\n[06:46.11]",
+      "audioUrl": "https://static.ieltsbro.com/section/audio_file/1634006369549.mp3",
+      "seconds": 473,
+      "difficulty": 1,
+      "status": 0,
+      "answerCharge": 0,
+      "averageTimeSpent": null,
+      "averageAccuracyRate": null,
+      "exercisesCount": null,
+      "sortIndex": null,
+      "updateId": "dc9ff2e6dbde4af6975969a8ea90dd29",
+      "updateName": "测试组-贺鑫",
+      "createDate": "2021-10-12T10:54:37.000+0800",
+      "updateDate": "2022-06-09T18:34:00.000+0800",
+      "id": 464,
+      "questionCount": null,
+      "questions": [
+        {
+          "questionId": "6202111251139308",
+          "subjectType": 1,
+          "subjectId": 120211012105306,
+          "questionNavigation": "Question1-10",
+          "questionCount": 10,
+          "questionType": 0,
+          "question": null,
+          "answer": null,
+          "updateId": "6a6bab5f7a814a16b632732f3b07e60d",
+          "updateName": "邓泌",
+          "createDate": "2022-11-03T10:32:26.000+0800",
+          "updateDate": "2022-11-03T10:32:26.000+0800",
+          "checkState": null,
+          "sortIndex": 0,
+          "questionJson": {
+            "questionType": "0",
+            "descriptions": "<p class=\"MsoNormal\"><span style=\"mso-spacerun: 'yes'; font-family: Cambria; mso-fareast-font-family: 'MS Mincho'; mso-bidi-font-family: 'Times New Roman'; font-size: 11.0000pt;\">Questions 1-10 &nbsp;</span></p>\n<p class=\"MsoNormal\"><span style=\"mso-spacerun: 'yes'; font-family: Cambria; mso-fareast-font-family: 'MS Mincho'; mso-bidi-font-family: 'Times New Roman'; font-size: 11.0000pt;\">Complete the form below. <br />Write ONE WORD AND/OR A NUMBER for each answer.</span></p>",
+            "startIndex": 1,
+            "endIndex": 10,
+            "questionNum": 10,
+            "questionsContent": "<p class=\"MsoNormal\" style=\"text-align: center;\"><span style=\"mso-spacerun: 'yes'; font-family: Cambria; mso-fareast-font-family: 'MS Mincho'; mso-bidi-font-family: 'Times New Roman'; font-size: 11.0000pt;\">&nbsp; <strong>&nbsp; &nbsp; Customer Satisfaction Survey</strong></span></p>\n<p class=\"MsoNormal\"><span style=\"mso-spacerun: 'yes'; font-family: Cambria; mso-fareast-font-family: 'MS Mincho'; mso-bidi-font-family: 'Times New Roman'; font-size: 11.0000pt;\"><strong>Customer details</strong> <br />Name: Sophie Bird <br />Occupation:&nbsp; ......<br />Reason for travel today:&nbsp; ......<br /><strong>Journey information</strong> <br />Name of station returning to: ......<br />Type of ticket purchased: standard ...... ticket<br />Cost of ticket:&nbsp; &pound; ....... <br />When ticket was purchased: yesterday<br />Where ticket was bought:&nbsp; ......<br /><strong>Satisfaction with journey</strong> <br />Most satisfied with: the wifi<br />Least satisfied with: the ...... this morning <br /><strong>Satisfaction with station facilities</strong> <br />Most satisfied with: how much ...... was provided <br />Least satisfied with: lack of seats, particularly on the ....... <br />Neither satisfied nor dissatisfied with: the ...... available</span></p>"
+          },
+          "answerJson": [
+            {
+              "explain": "职业为记者，故填journalist。",
+              "correctValue": "journalist",
+              "sentenceList": [
+                6
+              ]
+            },
+            {
+              "explain": "来购物，需注意shopping的拼写。",
+              "correctValue": "shopping",
+              "sentenceList": [
+                10
+              ]
+            },
+            {
+              "explain": "根据录音进行字母拼写即可。",
+              "correctValue": "Staunfirth",
+              "sentenceList": [
+                16
+              ]
+            },
+            {
+              "explain": "买了往返票，故填return。",
+              "correctValue": "return",
+              "sentenceList": [
+                22
+              ]
+            },
+            {
+              "explain": "付了23.70镑，需要对数字敏感。",
+              "correctValue": "23.70",
+              "sentenceList": [
+                24
+              ]
+            },
+            {
+              "explain": "在网上买的票，故填online。",
+              "correctValue": "online",
+              "sentenceList": [
+                34
+              ]
+            },
+            {
+              "explain": "对火车延误了不满意，故填delay。",
+              "correctValue": "delay",
+              "sentenceList": [
+                40
+              ]
+            },
+            {
+              "explain": "best对应most satisfied，how much对应the amount of，故填information。",
+              "correctValue": "information",
+              "sentenceList": [
+                42
+              ]
+            },
+            {
+              "explain": "particularly对应especially，根据介词on可知填platform/platforms。",
+              "correctValue": "platform/platforms",
+              "sentenceList": [
+                44
+              ]
+            },
+            {
+              "explain": "对于停车没有意见，故填parking。",
+              "correctValue": "parking",
+              "sentenceList": [
+                49
+              ]
+            }
+          ],
+          "source": null
+        }
+      ],
+      "source": null,
+      "showDetailTitle": null,
+      "taskCount": 0,
+      "useFor": 1,
+      "answerShowFlag": null,
+      "type": 0
+    },
+    {
+      "listeningId": "120211012105949",
+      "topicId": "92",
+      "topicName": "介绍",
+      "part": 2,
+      "listenQuestion": "C15-Test 4-Section 2",
+      "subjectData": {
+        "listenDetailList": [
+          {
+            "englishDetail": "As chair of the town council subcommittee on park facilities, I'd like to bring you up to date on some of the changes that have been made recently to the Croft Valley Park. So if you could just take a look at the map I handed out, let's begin with a general overview.",
+            "translateDetail": " 作为镇政会关于停车场的小组委员会的委员长,我想要带大家了解一下克罗夫特山谷公园的最近的变化。请您看下我刚才发给您的地图,我先整体介绍一下概况.",
+            "startTime": 55000,
+            "endTime": 74960
+          },
+          {
+            "englishDetail": "So the basic arrangement of the park hasn't changed - it still has two gates, north and south, and a lake in the middle.",
+            "translateDetail": "关于公园的基本规划没有改变,公园里还是有两个入口,在北面和南面。公园的中间有个湖。",
+            "startTime": 74960,
+            "endTime": 86040
+          },
+          {
+            "englishDetail": "The cafe continues to serve an assortment of drinks and snacks and is still in the same place, looking out over the lake and next to the old museum.",
+            "translateDetail": "咖啡店还会提供各种各样的小吃和饮品。还是在老位置,紧挨着老博物馆,俯瞰中心湖。",
+            "startTime": 86040,
+            "endTime": 97780
+          },
+          {
+            "englishDetail": "We're hoping to change the location of the toilets, and bring them nearer to the centre of the park as they're a bit out of the way at present, near the adventure playground, in the corner of your map.",
+            "translateDetail": "我们希望能够改变洗手间的位置,挪到离着公园中心更近的位置来。它们现在离得有点远,在探险游乐场附近,就在你地图的角落里。",
+            "startTime": 97780,
+            "endTime": 111790
+          },
+          {
+            "englishDetail": "The formal gardens have been replanted and should be at their best in a month or two. They used to be behind the old museum, but we've now used the space near the south gate - between the park boundary and the path that goes past the lake towards the old museum .",
+            "translateDetail": "我们在规则式花园里重新种上了植物,一两个月之后正是长得好的时候。这些花园原来在老博物馆后面,但是现在挪到靠近南门的地方了。在湖的一侧有一条通往老博物馆的小路。花园就在小路和公园外墙中间。",
+            "startTime": 111790,
+            "endTime": 134200
+          },
+          {
+            "englishDetail": "We have a new outdoor gym for adults and children, which is already proving very popular. It's by the glass houses, just to the right of the path from the south gate. ",
+            "translateDetail": "对大人和儿童新开放的户外健身馆已经很有人气了。健身馆在玻璃房旁边,在从南门进来的小路的右边。",
+            "startTime": 134200,
+            "endTime": 149920
+          },
+          {
+            "englishDetail": "You have to look for it as it's a bit hidden in the trees.",
+            "translateDetail": "因为健身房前面有树遮挡,您需要特别找一下。",
+            "startTime": 149920,
+            "endTime": 155340
+          },
+          {
+            "englishDetail": "One very successful introduction has been our skateboard ramp. It's in constant use during the evenings and holidays. ",
+            "translateDetail": "初次投入使用的滑板坡道特别成功。它经常在晚上和节假日使用。",
+            "startTime": 155340,
+            "endTime": 166130
+          },
+          {
+            "englishDetail": "It's near the old museum. at the end of a little path that leads off from the main path between the lake and museum.",
+            "translateDetail": "坡道靠近老博物馆。有条小径从博物馆和湖泊中间的主路中拐出来。坡道就在小路的尽头。",
+            "startTime": 166130,
+            "endTime": 177660
+          },
+          {
+            "englishDetail": "We've also introduced a new area for wild flowers, to attract bees and butterflies. It's on a bend in the path that goes round the east side of the lake, just south of the adventure playground.",
+            "translateDetail": "为了吸引蝴蝶和蜜蜂,我们还为野花开辟了一个新的区域。就在湖泊东侧小路的拐弯处,在探险游乐场的南侧。",
+            "startTime": 177660,
+            "endTime": 197240
+          },
+          {
+            "englishDetail": "Now let me tell you a bit more about some of the changes to Croft Valley Park.",
+            "translateDetail": "现在让我为您介绍一些关于克罗夫特山谷公园的其它变化。",
+            "startTime": 231260,
+            "endTime": 236900
+          },
+          {
+            "englishDetail": "One of our most exciting developments has been the adventure playground. We were aware that we had nowhere for children to let off steam, and decided to use our available funds to set up a completely new facility in a large space to the north of the park. ",
+            "translateDetail": "最让人激动的改造之一就是探险游乐场了。我们意识到公园里没有地方能让孩子们来疯玩儿疯闹,所以决定使用现有资金在公园北侧的空地建造个全新的场所。",
+            "startTime": 236900,
+            "endTime": 258510
+          },
+          {
+            "englishDetail": "It's open year-round, though it closes early in the winter months, and entrance is completely free. Children can choose whatever activities they want to do, irrespective of their age, but we do ask adults not to leave them on their own there. ",
+            "translateDetail": "游乐场一整年都开放,但是在冬天的时候营业时间短。门票是完全免费的。不论什么年龄的孩子都可以选择想玩儿任何项目。但是我们要求家长们不要让孩子独自在那里玩耍。",
+            "startTime": 258510,
+            "endTime": 278390
+          },
+          {
+            "englishDetail": "There are plenty of seats where parents can relax and keep an eye on their children at the same time.",
+            "translateDetail": "游乐场里有很多座椅,可以让家长休息的同时看护孩子。",
+            "startTime": 278390,
+            "endTime": 285710
+          },
+          {
+            "englishDetail": "Lastly, the glass houses. A huge amount of work has been done on them to repair the damage following the disastrous fire that recently destroyed their western side. ",
+            "translateDetail": "最后,为您介绍玻璃房。最近的一场灾难性的大火烧毁了玻璃房的西侧。为了修复被破坏的部分我们做了大量的工作。",
+            "startTime": 285710,
+            "endTime": 299460
+          },
+          {
+            "englishDetail": "Over £80,000 was spent on replacing the glass walls and the metal supports, as well as the plants that had been destroyed, although unfortunately the collection of tropical palm trees has proved too expensive to replace up to now. At present the glass houses are open from 1 0am to 3pm Mondays to Thursdays. ",
+            "translateDetail": "我们更换玻璃墙面和金属支架,还有重新栽种被烧毁的植物,花费超过八万英镑。但是很不幸的是,被破坏的热带棕榈树因为价格昂贵现在也没有重新栽种。现在玻璃房每周一到周四上午十点到下午三点开放。",
+            "startTime": 299460,
+            "endTime": 326430
+          },
+          {
+            "englishDetail": "And it's hoped to extend this to the weekend soon. We're grateful to all those who helped us by contributing their time and money to this achievement.",
+            "translateDetail": "希望不久之后营业时间可以延长到周末。非常感谢为了这次修缮为我们提供了帮助、贡献了时和资金的人们。",
+            "startTime": 326430,
+            "endTime": 337790
+          },
+          {
+            "englishDetail": "The gardens have ...",
+            "translateDetail": "花园有",
+            "startTime": 337790,
+            "endTime": 343790
+          }
+        ]
+      },
+      "listenContent": "<div>As chair of the town counc il subcomm ittee on park fac ilities, I'd like to bring you up to date on some of the changes that have been made recently to the Croft Valley Park. So if you could just take a look at the map I handed out, let's begin with a general overview. So the basic arrangement of the park hasn't changed - it still has two gates, north and south, and a lake in the middle.</div>\n<div>&nbsp;</div>\n<div>&nbsp;</div>\n<div>The cafe continues to serve an assortment of drinks and snacks and is still in the same place, looking out over the lake and next to the old museum.</div>\n<div>&nbsp;</div>\n<div>&nbsp;</div>\n<div>We're hoping to change the location of the toilets, and bring them nearer to the centre of the park as they're a bit out of the way at present, near the adventure playground, in the corner of your map.</div>\n<div>&nbsp;</div>\n<div>&nbsp;</div>\n<div>The formal gardens have been replanted and should be at their best in a month or two. They&nbsp;</div>\n<div>used to be behind the old museum, but we've now used the space near the south gate - between the park boundary and the path that goes past the lake towards the old museum .</div>\n<div>&nbsp;</div>\n<div>&nbsp;</div>\n<div>We have a new outdoor gym for adults and children, which is already proving very popular. It's by the glass houses, just to the right of the path from the south gate. You have to look for it as it's a bit hidden in the trees.</div>\n<div>&nbsp;</div>\n<div>&nbsp;</div>\n<div>One very successful introduction has been our skateboard ramp. It's in constant use during&nbsp;</div>\n<div>the even ings and holidays. It's near the old museum. at the end of a little path that leads off from the main path between the lake and the museum.</div>\n<div>&nbsp;</div>\n<div>&nbsp;</div>\n<div>We've also introduced a new area for wild flowers, to attract bees and butterflies. It's on a bend in the path that goes round the east side of the lake. just south of the adventure playground.</div>\n<div>&nbsp;</div>\n<div>&nbsp;</div>\n<div>Now let me tell you a bit more about some of the changes to Croft Valley Park.</div>\n<div>&nbsp;</div>\n<div>&nbsp;</div>\n<div>One of our most exciting developments has been the adventure playground. We were aware that we had nowhere for children to let off steam, and decided to use our avai lable funds to set up a completely new facility in a large space to the north of the park. It's open year-round, though it closes early in the winter months, and entrance is completely free. Children can choose whatever activities they want to do, irrespective of their age, but we do ask adults not to leave them on their own there. There are plenty of seats where parents can relax and keep an eye on their children at the same time.</div>\n<div>&nbsp;</div>\n<div>&nbsp;</div>\n<div>Lastly, the glass houses. A huge amount of work has been done on them to repair the damage following the disastrous fire that recently destroyed their western side. Over &pound;80,000 was spent on replacing the glass walls and the metal supports, as well as the plants that had been destroyed, although unfortunate ly the collect ion of tropical palm trees has proved too expensive to replace up to now. At present the glass houses are open from 1 0am to 3pm Mondays to Thursdays. and it's hoped to extend this to the weekend soon. We're grateful to all those who helped us by contributing their time and money to this achievement.</div>\n<div>&nbsp;</div>\n<div>&nbsp;</div>\n<div>The gardens have ...</div>\n<div>&nbsp;</div>\n<div>&nbsp;</div>",
+      "listenDetail": "[00:55.00]As chair of the town council subcommittee on park facilities, I'd like to bring you up to date on some of the changes that have been made recently to the Croft Valley Park. So if you could just take a look at the map I handed out, let's begin with a general overview.## 作为镇政会关于停车场的小组委员会的委员长,我想要带大家了解一下克罗夫特山谷公园的最近的变化。请您看下我刚才发给您的地图,我先整体介绍一下概况.\n[01:14.96]So the basic arrangement of the park hasn't changed - it still has two gates, north and south, and a lake in the middle.##关于公园的基本规划没有改变,公园里还是有两个入口,在北面和南面。公园的中间有个湖。\n[01:26.04]The cafe continues to serve an assortment of drinks and snacks and is still in the same place, looking out over the lake and next to the old museum.##咖啡店还会提供各种各样的小吃和饮品。还是在老位置,紧挨着老博物馆,俯瞰中心湖。\n[01:37.78]We're hoping to change the location of the toilets, and bring them nearer to the centre of the park as they're a bit out of the way at present, near the adventure playground, in the corner of your map.##我们希望能够改变洗手间的位置,挪到离着公园中心更近的位置来。它们现在离得有点远,在探险游乐场附近,就在你地图的角落里。\n[01:51.79]The formal gardens have been replanted and should be at their best in a month or two. They used to be behind the old museum, but we've now used the space near the south gate - between the park boundary and the path that goes past the lake towards the old museum .##我们在规则式花园里重新种上了植物,一两个月之后正是长得好的时候。这些花园原来在老博物馆后面,但是现在挪到靠近南门的地方了。在湖的一侧有一条通往老博物馆的小路。花园就在小路和公园外墙中间。\n[02:14.20]We have a new outdoor gym for adults and children, which is already proving very popular. It's by the glass houses, just to the right of the path from the south gate. ##对大人和儿童新开放的户外健身馆已经很有人气了。健身馆在玻璃房旁边,在从南门进来的小路的右边。\n[02:29.92]You have to look for it as it's a bit hidden in the trees.##因为健身房前面有树遮挡,您需要特别找一下。\n[02:35.34]One very successful introduction has been our skateboard ramp. It's in constant use during the evenings and holidays. ##初次投入使用的滑板坡道特别成功。它经常在晚上和节假日使用。  \n[02:46.13]It's near the old museum. at the end of a little path that leads off from the main path between the lake and museum.##坡道靠近老博物馆。有条小径从博物馆和湖泊中间的主路中拐出来。坡道就在小路的尽头。\n[02:57.66]We've also introduced a new area for wild flowers, to attract bees and butterflies. It's on a bend in the path that goes round the east side of the lake, just south of the adventure playground.##为了吸引蝴蝶和蜜蜂,我们还为野花开辟了一个新的区域。就在湖泊东侧小路的拐弯处,在探险游乐场的南侧。\n[03:17.24]\n[03:51.26]Now let me tell you a bit more about some of the changes to Croft Valley Park.##现在让我为您介绍一些关于克罗夫特山谷公园的其它变化。\n[03:56.90]One of our most exciting developments has been the adventure playground. We were aware that we had nowhere for children to let off steam, and decided to use our available funds to set up a completely new facility in a large space to the north of the park. ##最让人激动的改造之一就是探险游乐场了。我们意识到公园里没有地方能让孩子们来疯玩儿疯闹,所以决定使用现有资金在公园北侧的空地建造个全新的场所。\n[04:18.51]It's open year-round, though it closes early in the winter months, and entrance is completely free. Children can choose whatever activities they want to do, irrespective of their age, but we do ask adults not to leave them on their own there. ##游乐场一整年都开放,但是在冬天的时候营业时间短。门票是完全免费的。不论什么年龄的孩子都可以选择想玩儿任何项目。但是我们要求家长们不要让孩子独自在那里玩耍。\n[04:38.39]There are plenty of seats where parents can relax and keep an eye on their children at the same time.##游乐场里有很多座椅,可以让家长休息的同时看护孩子。\n[04:45.71]Lastly, the glass houses. A huge amount of work has been done on them to repair the damage following the disastrous fire that recently destroyed their western side. ##最后,为您介绍玻璃房。最近的一场灾难性的大火烧毁了玻璃房的西侧。为了修复被破坏的部分我们做了大量的工作。\n[04:59.46]Over £80,000 was spent on replacing the glass walls and the metal supports, as well as the plants that had been destroyed, although unfortunately the collection of tropical palm trees has proved too expensive to replace up to now. At present the glass houses are open from 1 0am to 3pm Mondays to Thursdays. ##我们更换玻璃墙面和金属支架,还有重新栽种被烧毁的植物,花费超过八万英镑。但是很不幸的是,被破坏的热带棕榈树因为价格昂贵现在也没有重新栽种。现在玻璃房每周一到周四上午十点到下午三点开放。\n[05:26.43]And it's hoped to extend this to the weekend soon. We're grateful to all those who helped us by contributing their time and money to this achievement.##希望不久之后营业时间可以延长到周末。非常感谢为了这次修缮为我们提供了帮助、贡献了时和资金的人们。\n[05:37.79]The gardens have ...##花园有\n[05:43.79]",
+      "audioUrl": "https://static.ieltsbro.com/section/audio_file/1634007605249.mp3",
+      "seconds": 379,
+      "difficulty": 1,
+      "status": 0,
+      "answerCharge": 0,
+      "averageTimeSpent": null,
+      "averageAccuracyRate": null,
+      "exercisesCount": null,
+      "sortIndex": null,
+      "updateId": "6a6bab5f7a814a16b632732f3b07e60d",
+      "updateName": "邓泌",
+      "createDate": "2021-10-12T11:01:20.000+0800",
+      "updateDate": "2022-08-25T17:51:54.000+0800",
+      "id": 465,
+      "questionCount": null,
+      "questions": [
+        {
+          "questionId": "6202110121414219",
+          "subjectType": 1,
+          "subjectId": 120211012105949,
+          "questionNavigation": "Question11-16",
+          "questionCount": 6,
+          "questionType": 0,
+          "question": null,
+          "answer": null,
+          "updateId": "dc9ff2e6dbde4af6975969a8ea90dd29",
+          "updateName": "测试组-贺鑫",
+          "createDate": "2022-11-19T15:06:15.000+0800",
+          "updateDate": "2022-11-19T15:06:15.000+0800",
+          "checkState": null,
+          "sortIndex": 0,
+          "questionJson": {
+            "questionType": "0",
+            "descriptions": "<p class=\"MsoNormal\"><span style=\"mso-spacerun: 'yes'; font-family: Cambria; mso-fareast-font-family: 'MS Mincho'; mso-bidi-font-family: 'Times New Roman'; font-size: 11.0000pt;\">Questions 11-16</span><span style=\"mso-spacerun: 'yes'; font-family: Cambria; mso-fareast-font-family: 'MS Mincho'; mso-bidi-font-family: 'Times New Roman'; font-size: 11.0000pt;\"><br /></span><span style=\"mso-spacerun: 'yes'; font-family: Cambria; mso-fareast-font-family: 'MS Mincho'; mso-bidi-font-family: 'Times New Roman'; font-size: 11.0000pt;\">Label the map below.</span><span style=\"mso-spacerun: 'yes'; font-family: Cambria; mso-fareast-font-family: 'MS Mincho'; mso-bidi-font-family: 'Times New Roman'; font-size: 11.0000pt;\"><br /></span><span style=\"mso-spacerun: 'yes'; font-family: Cambria; mso-fareast-font-family: 'MS Mincho'; mso-bidi-font-family: 'Times New Roman'; font-size: 11.0000pt;\">Write the correct letter, A-H, next to Questions 11-16.</span><span style=\"mso-spacerun: 'yes'; font-family: Cambria; mso-fareast-font-family: 'MS Mincho'; mso-bidi-font-family: 'Times New Roman'; font-size: 11.0000pt;\"><br /></span></p>",
+            "startIndex": 11,
+            "endIndex": 16,
+            "questionNum": 6,
+            "questionsContent": "<p class=\"MsoNormal\"><span style=\"mso-spacerun: 'yes'; font-family: Cambria; mso-fareast-font-family: 'MS Mincho'; mso-bidi-font-family: 'Times New Roman'; font-size: 11.0000pt;\"><img style=\"max-width: 100%; display: block;\" src=\"https://static.ieltsbro.com/uploads/prod/study_abroad/school/1668841566553.png\" />11.&nbsp; caf&eacute; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; ...... &nbsp; &nbsp;</span></p>\n<p class=\"MsoNormal\"><span style=\"mso-spacerun: 'yes'; font-family: Cambria; mso-fareast-font-family: 'MS Mincho'; mso-bidi-font-family: 'Times New Roman'; font-size: 11.0000pt;\">12. toilets &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;...... &nbsp; &nbsp; &nbsp;&nbsp;</span></p>\n<p class=\"MsoNormal\"><span style=\"mso-spacerun: 'yes'; font-family: Cambria; mso-fareast-font-family: 'MS Mincho'; mso-bidi-font-family: 'Times New Roman'; font-size: 11.0000pt;\">13. formal gardens &nbsp; &nbsp; &nbsp; &nbsp;...... &nbsp; &nbsp; &nbsp;&nbsp;</span></p>\n<p class=\"MsoNormal\"><span style=\"mso-spacerun: 'yes'; font-family: Cambria; mso-fareast-font-family: 'MS Mincho'; mso-bidi-font-family: 'Times New Roman'; font-size: 11.0000pt;\">14. outdoor gym &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;...... &nbsp; &nbsp;</span></p>\n<p class=\"MsoNormal\"><span style=\"mso-spacerun: 'yes'; font-family: Cambria; mso-fareast-font-family: 'MS Mincho'; mso-bidi-font-family: 'Times New Roman'; font-size: 11.0000pt;\">15. skateboard ramp &nbsp; ...... &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;</span></p>\n<p class=\"MsoNormal\"><span style=\"mso-spacerun: 'yes'; font-family: Cambria; mso-fareast-font-family: 'MS Mincho'; mso-bidi-font-family: 'Times New Roman'; font-size: 11.0000pt;\">16. wild flowers &nbsp; &nbsp; &nbsp; &nbsp; ...... &nbsp; &nbsp; &nbsp;&nbsp;</span></p>"
+          },
+          "answerJson": [
+            {
+              "explain": "可以看到湖，在老博物馆旁边，故D。",
+              "correctValue": "D",
+              "sentenceList": [
+                3
+              ]
+            },
+            {
+              "explain": "目前还在冒险游乐区附近，在地图的角落里，故C。",
+              "correctValue": "C",
+              "sentenceList": [
+                4
+              ]
+            },
+            {
+              "explain": "现在位于南门附近的空地，在公园边缘以及穿过湖前往老博物馆的道路中间，故G。",
+              "correctValue": "G",
+              "sentenceList": [
+                5
+              ]
+            },
+            {
+              "explain": "位于玻璃房附近，由南门而来的路右边，且藏在树丛里，故H。",
+              "correctValue": "H",
+              "sentenceList": [
+                6,
+                7
+              ]
+            },
+            {
+              "explain": "位于老博物馆附近，在主路分出来的小路尽头，故A。",
+              "correctValue": "A",
+              "sentenceList": [
+                9
+              ]
+            },
+            {
+              "explain": "位于环湖小路的转弯处，冒险游乐区的南边，故E。",
+              "correctValue": "E",
+              "sentenceList": [
+                10
+              ]
+            }
+          ],
+          "source": null
+        },
+        {
+          "questionId": "6202110121414215",
+          "subjectType": 1,
+          "subjectId": 120211012105949,
+          "questionNavigation": "Question17-18",
+          "questionCount": 2,
+          "questionType": 2,
+          "question": null,
+          "answer": null,
+          "updateId": "dc9ff2e6dbde4af6975969a8ea90dd29",
+          "updateName": "测试组-贺鑫",
+          "createDate": "2022-11-19T15:06:15.000+0800",
+          "updateDate": "2022-11-19T15:06:15.000+0800",
+          "checkState": null,
+          "sortIndex": 1,
+          "questionJson": {
+            "questionType": "2",
+            "descriptions": "<p class=\"MsoNormal\"><span style=\"mso-spacerun: 'yes'; font-family: Cambria; mso-fareast-font-family: 'MS Mincho'; mso-bidi-font-family: 'Times New Roman'; font-size: 11.0000pt;\">Questions 17 and 18</span><span style=\"mso-spacerun: 'yes'; font-family: Cambria; mso-fareast-font-family: 'MS Mincho'; mso-bidi-font-family: 'Times New Roman'; font-size: 11.0000pt;\"><br /></span><span style=\"mso-spacerun: 'yes'; font-family: Cambria; mso-fareast-font-family: 'MS Mincho'; mso-bidi-font-family: 'Times New Roman'; font-size: 11.0000pt;\">Choose TWO letters<span style=\"font-family: MS Mincho;\">，</span><span style=\"font-family: Cambria;\">A-E.</span></span><span style=\"mso-spacerun: 'yes'; font-family: Cambria; mso-fareast-font-family: 'MS Mincho'; mso-bidi-font-family: 'Times New Roman'; font-size: 11.0000pt;\"><br /></span></p>",
+            "startIndex": 17,
+            "endIndex": 18,
+            "questions": [
+              {
+                "number": 2,
+                "content": "What does the speaker say about the adventure playground?",
+                "options": [
+                  {
+                    "content": "Children must be supervised."
+                  },
+                  {
+                    "content": "It costs more in winter.  "
+                  },
+                  {
+                    "content": "Some activities are only for younger children.  "
+                  },
+                  {
+                    "content": "No payment is required.  "
+                  },
+                  {
+                    "content": "It was recently expanded.  "
+                  }
+                ]
+              }
+            ],
+            "questionNum": 2
+          },
+          "answerJson": [
+            {
+              "correctValue": [
+                0,
+                3
+              ],
+              "explain": "not to leave them on their own对应be supervised，故A。completely free对应no payment is required，故D。",
+              "sentenceList": [
+                13
+              ]
+            }
+          ],
+          "source": null
+        },
+        {
+          "questionId": "6202110121414218",
+          "subjectType": 1,
+          "subjectId": 120211012105949,
+          "questionNavigation": "Question19-20",
+          "questionCount": 2,
+          "questionType": 2,
+          "question": null,
+          "answer": null,
+          "updateId": "dc9ff2e6dbde4af6975969a8ea90dd29",
+          "updateName": "测试组-贺鑫",
+          "createDate": "2022-11-19T15:06:15.000+0800",
+          "updateDate": "2022-11-19T15:06:15.000+0800",
+          "checkState": null,
+          "sortIndex": 2,
+          "questionJson": {
+            "questionType": "2",
+            "descriptions": "<p class=\"MsoNormal\"><span style=\"mso-spacerun: 'yes'; font-family: Cambria; mso-fareast-font-family: 'MS Mincho'; mso-bidi-font-family: 'Times New Roman'; font-size: 11.0000pt;\">Questions 19 and 20<br />Choose TWO letters</span><span style=\"mso-spacerun: 'yes'; font-family: 宋体; mso-ascii-font-family: Cambria; mso-hansi-font-family: Cambria; mso-bidi-font-family: 'Times New Roman'; font-size: 11.0000pt;\"><span style=\"font-family: Cambria;\">,</span></span><span style=\"mso-spacerun: 'yes'; font-family: Cambria; mso-fareast-font-family: 宋体; mso-bidi-font-family: 'Times New Roman'; font-size: 11.0000pt;\">&nbsp;</span><span style=\"mso-spacerun: 'yes'; font-family: Cambria; mso-fareast-font-family: 'MS Mincho'; mso-bidi-font-family: 'Times New Roman'; font-size: 11.0000pt;\">A-E.</span><span style=\"mso-spacerun: 'yes'; font-family: Cambria; mso-fareast-font-family: 'MS Mincho'; mso-bidi-font-family: 'Times New Roman'; font-size: 11.0000pt;\"><br /></span></p>",
+            "startIndex": 19,
+            "endIndex": 20,
+            "questions": [
+              {
+                "number": 2,
+                "content": "What does the speaker say about the glass houses?",
+                "options": [
+                  {
+                    "content": "They are closed at weekends.  "
+                  },
+                  {
+                    "content": "Volunteers are needed to work there. "
+                  },
+                  {
+                    "content": "They were badly damaged by fire.  "
+                  },
+                  {
+                    "content": "More money is needed to repair some of the glass.  "
+                  },
+                  {
+                    "content": "Visitors can see palm trees from tropical regions.  "
+                  }
+                ]
+              }
+            ],
+            "questionNum": 2
+          },
+          "answerJson": [
+            {
+              "correctValue": [
+                0,
+                2
+              ],
+              "explain": "希望能在周末开放，即周末现在还未开放，故A。fire that recently destroyed their western side对应badly damaged by fire，故C。",
+              "sentenceList": [
+                15,
+                16,
+                17
+              ]
+            }
+          ],
+          "source": null
+        }
+      ],
+      "source": null,
+      "showDetailTitle": null,
+      "taskCount": 0,
+      "useFor": 1,
+      "answerShowFlag": null,
+      "type": 0
+    },
+    {
+      "listeningId": "120211012111353",
+      "topicId": "93",
+      "topicName": "讨论",
+      "part": 3,
+      "listenQuestion": "C15-Test 4-Section 3",
+      "subjectData": {
+        "listenDetailList": [
+          {
+            "englishDetail": "OK, Jack. Before we plan our presentation about refrigeration, let's discuss what we've discovered so far.",
+            "translateDetail": "好了杰克。在我们准备关于冰箱的展示之前让我们讨论一下我们目前找到的信息吧。",
+            "startTime": 54150,
+            "endTime": 61830
+          },
+          {
+            "englishDetail": "Fine, Annie. Though I have to admit I haven't done much research yet.",
+            "translateDetail": "好的,安妮。但是我得承认我还没有做很多的研究。",
+            "startTime": 61830,
+            "endTime": 65510
+          },
+          {
+            "englishDetail": "Nor me. But I found an interesting article about icehouses. I'd seen some 18th and 19th-century ones here in the UK, so I knew they were often built in a shady area or underground, close to lakes that might freeze in the winter. Then blocks of ice could be cut and stored in the icehouse. But I didn't realise that insulating the blocks with straw or sawdust meant they didn't melt for months. The ancient Romans had refrigeration, too. ",
+            "translateDetail": "我也没有。但是我发现了一篇关于冰室的文章,很有趣。我已经看了一些英国的18世纪和19世纪的冰室。所以我知道冰室经常建于阴凉的地方或者地下,靠近冬季可能结冰的湖泊。然后冰块可以被切割并且储存在冰室中。但是我没想到用稻草或者锯末来隔热可以使冰数月不化。古罗马也有制冷术。",
+            "startTime": 65510,
+            "endTime": 96860
+          },
+          {
+            "englishDetail": "I didn't know that.",
+            "translateDetail": "我还不知道。",
+            "startTime": 96860,
+            "endTime": 97900
+          },
+          {
+            "englishDetail": "Yes, pits were dug in the ground, and snow was imported from the mountains—even though they were at quite a distance. The snow was stored in the pits. Ice formed at the bottom of it. Both the ice and the snow were then sold. The ice cost more than the snow and my guess is that only the wealthy members of society could afford it.",
+            "translateDetail": "是的,先在地面挖坑,将远处山上的雪移过来。雪被储存在土坑中，在底部会形成冰。冰和雪之后会被卖掉。冰比雪的价格更贵。我猜测只有社会上的富裕阶层可以用得起。",
+            "startTime": 97900,
+            "endTime": 121030
+          },
+          {
+            "englishDetail": "I wouldn't be surprised. I also came across an article about modern domestic fridges. Several different technologies are used, but they were too complex for me to understand.",
+            "translateDetail": "我觉得也不惊奇。我还看到一篇关于现代家用冰箱的文章。用到了许多不同的科技,但是对我来说很难理解。",
+            "startTime": 121030,
+            "endTime": 131560
+          },
+          {
+            "englishDetail": "You have to wonder what happens when people get rid of old ones.",
+            "translateDetail": " 你必须考虑一下旧冰箱被废弃的时候会发生什么。",
+            "startTime": 131560,
+            "endTime": 135120
+          },
+          {
+            "englishDetail": "You mean because the gases in them are harmful for the environment?",
+            "translateDetail": "你的意思是因为冰箱中的气体会污染环境?",
+            "startTime": 135120,
+            "endTime": 138250
+          },
+          {
+            "englishDetail": "Exactly. At least there are now plenty of organisations that will recycle most of the components safely, but of course some people just dump old fridges in the countryside.",
+            "translateDetail": "是的。至少现在有不少的组织都会安全回收其中的大部分零件,当然也有人直接把旧冰箱丢在乡下。",
+            "startTime": 138250,
+            "endTime": 149350
+          },
+          {
+            "englishDetail": "It's hard to see how they can be stopped unfortunately. In the UK we get rid of three million a year altogether!",
+            "translateDetail": "糟糕的是很难明确应该如何阻止他们。在英国一年间一共要丢弃300万台冰箱。",
+            "startTime": 149350,
+            "endTime": 156310
+          },
+          {
+            "englishDetail": "That sounds a lot, especially because fridges hardly ever break down.",
+            "translateDetail": "听起来真不少,尤其是因为冰箱几乎不会坏掉。",
+            "startTime": 156310,
+            "endTime": 160970
+          },
+          {
+            "englishDetail": "That's right. In this country we keep domestic fridges for 11 years on average , and a lot last for 20 or more. So if you divide the cost by the number of years you can use a fridge. they're not expensive. compared with some household appliances.",
+            "translateDetail": "你说得对。在英国本地,平均每台冰箱的使用时间是11年,很多能用20年或者更久。所以如果把成本平均到冰箱的使用时间上,和其他家用电器比起来,冰箱的价格并不贵。",
+            "startTime": 160970,
+            "endTime": 174790
+          },
+          {
+            "englishDetail": "True. I suppose manufacturers encourage people to spend more by making them different colours and designs. l\"m sure when my parents bought their first fridge they had hardly any choice!",
+            "translateDetail": "是的。我觉得制造厂商通过制造不同颜色和设计的冰箱来鼓励大家购买。我确定我父母买第一个冰箱的时候几乎没有选择。",
+            "startTime": 174790,
+            "endTime": 186690
+          },
+          {
+            "englishDetail": "Yes, there's been quite a change.",
+            "translateDetail": "是的,这确实是一个相当大的变化。",
+            "startTime": 186690,
+            "endTime": 191390
+          },
+          {
+            "englishDetail": "Right. let's make a list of topics to cover in our presentation. and decide who\"s going to do more research on them. Then later. we can get together and plan the next step.",
+            "translateDetail": "好了,让我们来列一个关于我们展示要谈到的话题的单子,然后决定谁将要再多做些研究。之后,我们再一起做下一步计划。",
+            "startTime": 235780,
+            "endTime": 244820
+          },
+          {
+            "englishDetail": "OK. How about starting with how useful refrigeration is. and the range of goods that are refrigerated nowadays? Because of course it's not just food and drinks.",
+            "translateDetail": "好的。展示以冰箱的用途开始怎么样?再说下现在需要冷藏的各个种类的商品。因为冰箱里放的当然不止是食物和饮料。",
+            "startTime": 244820,
+            "endTime": 256700
+          },
+          {
+            "englishDetail": "No, I suppose flowers and medicines are refrigerated, too. ",
+            "translateDetail": "是的,我想鲜花和药品也要冷藏。",
+            "startTime": 256700,
+            "endTime": 260460
+          },
+          {
+            "englishDetail": "And computers. I could do that, unless you particularly want to.",
+            "translateDetail": "还有电脑。我可以讲这个,除非你特别想做。",
+            "startTime": 260460,
+            "endTime": 265450
+          },
+          {
+            "englishDetail": "No, that's fine by me. What about the effects of refrigeration on people's health? After all, some of the chemicals used in the 19th century were pretty harmful, but there have been lots of benefits too, like always having access to fresh food. Do you fancy dealing with that?",
+            "translateDetail": "我就不用了。聊聊冰箱对人的健康的影响怎么样?毕竟19世纪的冰箱用到的化学物质对人身体伤害特别大,但是冰箱也有很多好处,比如总能让人们吃到新鲜的食物。你想要做这个吗?",
+            "startTime": 265450,
+            "endTime": 281310
+          },
+          {
+            "englishDetail": "I'm not terribly keen, to be honest.",
+            "translateDetail": "说实话,我不是很想做。",
+            "startTime": 281310,
+            "endTime": 284550
+          },
+          {
+            "englishDetail": "Nor me. My mind just goes blank when I read anything about chemicals.",
+            "translateDetail": "我也不想。我一读到和化学的东西脑子就一片空白。",
+            "startTime": 284550,
+            "endTime": 288900
+          },
+          {
+            "englishDetail": "Oh, all right then. I'll do you a favour. But you owe me. Jack. OK. What about the effects on food producers, like farmers in poorer countries being able to export their produce to developed countries? Something for you , maybe?",
+            "translateDetail": "噢,那就算了,我帮你这个忙吧。但是杰克,记得你欠我一次啊。我来做吧。关于冰箱对食品制作者的影响呢?比如较为贫穷国家的农民能够把他们的产品出口到发达国家去?也许你来做这个？",
+            "startTime": 288900,
+            "endTime": 306290
+          },
+          {
+            "englishDetail": "I don't mind. It should be quite interesting . ",
+            "translateDetail": "我没问题。应该还挺有趣的。",
+            "startTime": 306290,
+            "endTime": 308950
+          },
+          {
+            "englishDetail": "I think we should also look at how refrigeration has helped whole cities - like Las Vegas, which couldn't exist without refrigeration because it's in the middle of a desert.",
+            "translateDetail": "我认为我们应该聊一下冰箱是如何帮助整个城市的,比如拉斯维加斯。如果无法制冷,拉斯维加斯就不会存在了,因为它是位于沙漠中的城市。",
+            "startTime": 308950,
+            "endTime": 319450
+          },
+          {
+            "englishDetail": "Right. I had a quick look at an economics book in the library that's got a chapter about this sort of thing. I could give you the title. if you want to do this section.",
+            "translateDetail": "好的。我之前在图书馆翻阅过一本经济学的书,里面有一章就是讲这个的。如果你想负责这个部分的话,我可以把书名给你。",
+            "startTime": 319450,
+            "endTime": 327940
+          },
+          {
+            "englishDetail": "Not particularly, to be honest. I find economics books pretty heavy going, as a rule. ",
+            "translateDetail": "说实话,我并不是很想做。我发现通常来说经济学的书籍很难读。",
+            "startTime": 327940,
+            "endTime": 333570
+          },
+          {
+            "englishDetail": "OK. leave it to me. then.",
+            "translateDetail": "那就交给我吧。",
+            "startTime": 333570,
+            "endTime": 335080
+          },
+          {
+            "englishDetail": "Thanks. Then there's transport, and the difference that refrigerated trucks have made. I wouldn't mind having a go at that.",
+            "translateDetail": "谢谢啦。还有交通方面。冷藏车带来的变化。我愿意做这一部分。",
+            "startTime": 335080,
+            "endTime": 344370
+          },
+          {
+            "englishDetail": "Don't forget trains. too. I read something about milk and butter being transported in refrigerated railroad cars in the USA, right back in the 1840s.",
+            "translateDetail": "别忘了还有火车。我之前读到早在19世纪40年代的美国,牛奶和黄油是用带有冷藏功能的火车运输的。",
+            "startTime": 344370,
+            "endTime": 353720
+          },
+          {
+            "englishDetail": "I hadn't thought of trains . Thanks.",
+            "translateDetail": " 我之前没想到火车。谢谢。",
+            "startTime": 353720,
+            "endTime": 356470
+          },
+          {
+            "englishDetail": "Shall we have a separate section on domestic fridges? After all, they're something everyone's familiar with.",
+            "translateDetail": "我们要不要单用一个部分讲家用冰箱?毕竟,这是大家都熟悉的内容。",
+            "startTime": 356470,
+            "endTime": 361390
+          },
+          {
+            "englishDetail": "What about spliting it into two? You could investigate 19th- and 20th century fridges, and I'll concentrate on what's available these days, and how manufacturers differentiate their products from those of their competitors . ",
+            "translateDetail": "咱们把它分成两部分怎么样?你可以调查一下19和20世纪的冰箱。我来负责现代冰箱,还有冰箱制造厂商如何制造与竞争者不同的产品。",
+            "startTime": 361390,
+            "endTime": 376070
+          },
+          {
+            "englishDetail": "OK, that'd suit me.",
+            "translateDetail": "可以，这个很适合我。",
+            "startTime": 376070,
+            "endTime": 380570
+          }
+        ]
+      },
+      "listenContent": "<div>ANNIE:OK, Jack. Before we plan our presentation about refrigeration, let's discuss what we've discovered so far.</div>\n<div>&nbsp;</div>\n<div>&nbsp;</div>\n<div>JACK:Fine, Annie. Though I have to admit I haven't done much research yet.</div>\n<div>&nbsp;</div>\n<div>&nbsp;</div>\n<div>ANNIE:Nor me. But I found an interesting article about icehouses. I'd seen some 18th\u0002and 19th-century ones here in the UK, so I knew they were often built in a shady area or underground, close to lakes that might freeze in the winter. Then blocks of ice could be cut and stored in the icehouse. But I didn't realise that insulating the blocks with straw or sawdust meant they didn't melt for months. The ancient Romans had refrigeration, too.</div>\n<div>&nbsp;</div>\n<div>&nbsp;</div>\n<div>JACK:I didn't know that.</div>\n<div>&nbsp;</div>\n<div>ANNIE:Yes, pits were dug in the ground, and snow was imported from the mountains -even though they were at quite a distance. The snow was stored in the pits. Ice formed at the bottom of it. Both the ice and the snow were then sold. The ice cost more than the snow and my guess is that only the wealthy members of society could afford it.</div>\n<div>&nbsp;</div>\n<div>&nbsp;</div>\n<div>JACK:I wouldn't be surprised. I also came across an article about modern domestic fridges. Several different technologies are used, but they were too complex for me to understand.</div>\n<div>&nbsp;</div>\n<div>&nbsp;</div>\n<div>ANNIE:You have to wonder what happens when people get rid of old ones.&nbsp;</div>\n<div>&nbsp;</div>\n<div>&nbsp;</div>\n<div>JACK:You mean because the gases in them are harmful for the environment?</div>\n<div>&nbsp;</div>\n<div>&nbsp;</div>\n<div>ANNIE:Exactly. At least there are now plenty of orga nisations that will recyc le most of the components safely, but of course some people just dump old fridges in the countryside.</div>\n<div>&nbsp;</div>\n<div>&nbsp;</div>\n<div>JACK:It's hard to see how they can be stopped unfortunate ly. In the UK we get rid of three million a year altogether!</div>\n<div>&nbsp;</div>\n<div>&nbsp;</div>\n<div>ANNIE:That sounds a lot, especia lly because fridges hardly ever break down.</div>\n<div>&nbsp;</div>\n<div>&nbsp;</div>\n<div>JACK:That's right. In this country we keep domestic fridges for 11 years on average , and a lot last for 20 or more. So if you divide the cost by the number of years you can use a fridge. they're not expensive. compared with some household appliances.</div>\n<div>&nbsp;</div>\n<div>&nbsp;</div>\n<div>ANNIE:True. I suppose manufacturers encourage people to spend more by making them different colours and designs. l\"m sure when my parents bought their first fridge they had hardly any choice!</div>\n<div>&nbsp;</div>\n<div>&nbsp;</div>\n<div>JACK:Yes, there\"s been quite a change.</div>\n<div>&nbsp;</div>\n<div>&nbsp;</div>\n<div>JACK:Right. let's make a list of topics to cover in our presentation. and decide who\"s going to do more research on them. Then later. we can get together and plan the next step.</div>\n<div>&nbsp;</div>\n<div>&nbsp;</div>\n<div>ANNIE:OK. How about starting with how useful refrigeration is. and the range of goods that are refrigera ted nowadays? Because of course it's not just food and drinks.</div>\n<div>&nbsp;</div>\n<div>&nbsp;</div>\n<div>JACK:No, I suppose flowers and medicines are refrigerated, too.&nbsp;</div>\n<div>&nbsp;</div>\n<div>&nbsp;</div>\n<div>ANNIE:And computers. I could do that . unless you particularly want to.</div>\n<div>&nbsp;</div>\n<div>&nbsp;</div>\n<div>JACK:No, that\"s fine by me. What about the effects of refrigeration on people's health? After all. some of the chemicals used in the 19th century were pretty harmful, but there have been lots of benefits too, like always having access to fresh food. Do you fancy dealing with that?</div>\n<div>&nbsp;</div>\n<div>ANNIE:I\"m not terribly keen, to be honest.</div>\n<div>&nbsp;</div>\n<div>&nbsp;</div>\n<div>JACK:Nor me. My mind just goes blank when I read anything about chemicals.</div>\n<div>&nbsp;</div>\n<div>ANNIE:Oh, all right then. I\"ll do you a favour. But you owe me. Jack. OK. What about the effects on food produce rs, like farmers in poorer countries being able to export their produce to developed countries? Something for you , maybe?</div>\n<div>&nbsp;</div>\n<div>&nbsp;</div>\n<div>JACK:I don't mind. It should be quite interesting .&nbsp;</div>\n<div>&nbsp;</div>\n<div>&nbsp;</div>\n<div>ANNIE:I think we should also look at how refrigeration has helped whole cities - like Las Vegas, which couldn't exist without refrigerat ion because it's in the middle of a desert.</div>\n<div>&nbsp;</div>\n<div>&nbsp;</div>\n<div>JACK:Right. I had a quick look at an econom ics book in the library that's got a chapter about this sort of thing. I could give you the title. if you want to do this section.</div>\n<div>&nbsp;</div>\n<div>&nbsp;</div>\n<div>ANNIE:Not particularly, to be honest. I find econom ics books pretty heavy going. as a rule.&nbsp;</div>\n<div>&nbsp;</div>\n<div>&nbsp;</div>\n<div>JACK:OK. leave it to me. then.</div>\n<div>&nbsp;</div>\n<div>&nbsp;</div>\n<div>ANNIE:Thanks . Then there\"s transport, and the difference that refrigerated trucks have made. I wouldn \"t mind having a go at that.</div>\n<div>&nbsp;</div>\n<div>&nbsp;</div>\n<div>JACK:Don\"t forget trains. too. I read someth ing about milk and butter being transported&nbsp;</div>\n<div>in refrigerated railroad cars in the USA, right back in the 1840s.</div>\n<div>&nbsp;</div>\n<div>&nbsp;</div>\n<div>ANNIE:I hadn\"t thought of trains . Thanks.&nbsp;</div>\n<div>&nbsp;</div>\n<div>&nbsp;</div>\n<div>JACK:Shall we have a separate section on domestic fridges? After all, they're something everyone's familiar with.</div>\n<div>&nbsp;</div>\n<div>&nbsp;</div>\n<div>ANNIE:What about spliting it into two? You could investigate 19th- and 20th century fridges, and I'll concentrate on what's available these days, and how manufacturers differentiate their products from those of their competitors .&nbsp;</div>\n<div>&nbsp;</div>\n<div>&nbsp;</div>\n<div>JACK:OK, that'd suit me.</div>\n<div>&nbsp;</div>\n<div>&nbsp;</div>",
+      "listenDetail": "[00:54.15]OK, Jack. Before we plan our presentation about refrigeration, let's discuss what we've discovered so far.##好了杰克。在我们准备关于冰箱的展示之前让我们讨论一下我们目前找到的信息吧。\n[01:01.83]Fine, Annie. Though I have to admit I haven't done much research yet.##好的,安妮。但是我得承认我还没有做很多的研究。\n[01:05.51]Nor me. But I found an interesting article about icehouses. I'd seen some 18th and 19th-century ones here in the UK, so I knew they were often built in a shady area or underground, close to lakes that might freeze in the winter. Then blocks of ice could be cut and stored in the icehouse. But I didn't realise that insulating the blocks with straw or sawdust meant they didn't melt for months. The ancient Romans had refrigeration, too. ##我也没有。但是我发现了一篇关于冰室的文章,很有趣。我已经看了一些英国的18世纪和19世纪的冰室。所以我知道冰室经常建于阴凉的地方或者地下,靠近冬季可能结冰的湖泊。然后冰块可以被切割并且储存在冰室中。但是我没想到用稻草或者锯末来隔热可以使冰数月不化。古罗马也有制冷术。\n[01:36.86]I didn't know that.##我还不知道。\n[01:37.90]Yes, pits were dug in the ground, and snow was imported from the mountains—even though they were at quite a distance. The snow was stored in the pits. Ice formed at the bottom of it. Both the ice and the snow were then sold. The ice cost more than the snow and my guess is that only the wealthy members of society could afford it.##是的,先在地面挖坑,将远处山上的雪移过来。雪被储存在土坑中，在底部会形成冰。冰和雪之后会被卖掉。冰比雪的价格更贵。我猜测只有社会上的富裕阶层可以用得起。\n[02:01.03]I wouldn't be surprised. I also came across an article about modern domestic fridges. Several different technologies are used, but they were too complex for me to understand.##我觉得也不惊奇。我还看到一篇关于现代家用冰箱的文章。用到了许多不同的科技,但是对我来说很难理解。\n[02:11.56]You have to wonder what happens when people get rid of old ones.## 你必须考虑一下旧冰箱被废弃的时候会发生什么。\n[02:15.12]You mean because the gases in them are harmful for the environment?##你的意思是因为冰箱中的气体会污染环境?\n[02:18.25]Exactly. At least there are now plenty of organisations that will recycle most of the components safely, but of course some people just dump old fridges in the countryside.##是的。至少现在有不少的组织都会安全回收其中的大部分零件,当然也有人直接把旧冰箱丢在乡下。\n[02:29.35]It's hard to see how they can be stopped unfortunately. In the UK we get rid of three million a year altogether!##糟糕的是很难明确应该如何阻止他们。在英国一年间一共要丢弃300万台冰箱。\n[02:36.31]That sounds a lot, especially because fridges hardly ever break down.##听起来真不少,尤其是因为冰箱几乎不会坏掉。\n[02:40.97]That's right. In this country we keep domestic fridges for 11 years on average , and a lot last for 20 or more. So if you divide the cost by the number of years you can use a fridge. they're not expensive. compared with some household appliances.##你说得对。在英国本地,平均每台冰箱的使用时间是11年,很多能用20年或者更久。所以如果把成本平均到冰箱的使用时间上,和其他家用电器比起来,冰箱的价格并不贵。\n[02:54.79]True. I suppose manufacturers encourage people to spend more by making them different colours and designs. l\"m sure when my parents bought their first fridge they had hardly any choice!##是的。我觉得制造厂商通过制造不同颜色和设计的冰箱来鼓励大家购买。我确定我父母买第一个冰箱的时候几乎没有选择。\n[03:06.69]Yes, there's been quite a change.##是的,这确实是一个相当大的变化。\n[03:11.39]\n[03:55.78]Right. let's make a list of topics to cover in our presentation. and decide who\"s going to do more research on them. Then later. we can get together and plan the next step.##好了,让我们来列一个关于我们展示要谈到的话题的单子,然后决定谁将要再多做些研究。之后,我们再一起做下一步计划。\n[04:04.82]OK. How about starting with how useful refrigeration is. and the range of goods that are refrigerated nowadays? Because of course it's not just food and drinks.##好的。展示以冰箱的用途开始怎么样?再说下现在需要冷藏的各个种类的商品。因为冰箱里放的当然不止是食物和饮料。\n[04:16.70]No, I suppose flowers and medicines are refrigerated, too. ##是的,我想鲜花和药品也要冷藏。\n[04:20.46]And computers. I could do that, unless you particularly want to.##还有电脑。我可以讲这个,除非你特别想做。\n[04:25.45]No, that's fine by me. What about the effects of refrigeration on people's health? After all, some of the chemicals used in the 19th century were pretty harmful, but there have been lots of benefits too, like always having access to fresh food. Do you fancy dealing with that?##我就不用了。聊聊冰箱对人的健康的影响怎么样?毕竟19世纪的冰箱用到的化学物质对人身体伤害特别大,但是冰箱也有很多好处,比如总能让人们吃到新鲜的食物。你想要做这个吗?\n[04:41.31]I'm not terribly keen, to be honest.##说实话,我不是很想做。\n[04:44.55]Nor me. My mind just goes blank when I read anything about chemicals.##我也不想。我一读到和化学的东西脑子就一片空白。\n[04:48.90]Oh, all right then. I'll do you a favour. But you owe me. Jack. OK. What about the effects on food producers, like farmers in poorer countries being able to export their produce to developed countries? Something for you , maybe?##噢,那就算了,我帮你这个忙吧。但是杰克,记得你欠我一次啊。我来做吧。关于冰箱对食品制作者的影响呢?比如较为贫穷国家的农民能够把他们的产品出口到发达国家去?也许你来做这个？\n[05:06.29]I don't mind. It should be quite interesting . ##我没问题。应该还挺有趣的。\n[05:08.95]I think we should also look at how refrigeration has helped whole cities - like Las Vegas, which couldn't exist without refrigeration because it's in the middle of a desert.##我认为我们应该聊一下冰箱是如何帮助整个城市的,比如拉斯维加斯。如果无法制冷,拉斯维加斯就不会存在了,因为它是位于沙漠中的城市。\n[05:19.45]Right. I had a quick look at an economics book in the library that's got a chapter about this sort of thing. I could give you the title. if you want to do this section.##好的。我之前在图书馆翻阅过一本经济学的书,里面有一章就是讲这个的。如果你想负责这个部分的话,我可以把书名给你。\n[05:27.94]Not particularly, to be honest. I find economics books pretty heavy going, as a rule. ##说实话,我并不是很想做。我发现通常来说经济学的书籍很难读。\n[05:33.57]OK. leave it to me. then.##那就交给我吧。\n[05:35.08]Thanks. Then there's transport, and the difference that refrigerated trucks have made. I wouldn't mind having a go at that.##谢谢啦。还有交通方面。冷藏车带来的变化。我愿意做这一部分。\n[05:44.37]Don't forget trains. too. I read something about milk and butter being transported in refrigerated railroad cars in the USA, right back in the 1840s.##别忘了还有火车。我之前读到早在19世纪40年代的美国,牛奶和黄油是用带有冷藏功能的火车运输的。\n[05:53.72]I hadn't thought of trains . Thanks.## 我之前没想到火车。谢谢。\n[05:56.47]Shall we have a separate section on domestic fridges? After all, they're something everyone's familiar with.##我们要不要单用一个部分讲家用冰箱?毕竟,这是大家都熟悉的内容。\n[06:01.39]What about spliting it into two? You could investigate 19th- and 20th century fridges, and I'll concentrate on what's available these days, and how manufacturers differentiate their products from those of their competitors . ##咱们把它分成两部分怎么样?你可以调查一下19和20世纪的冰箱。我来负责现代冰箱,还有冰箱制造厂商如何制造与竞争者不同的产品。\n[06:16.07]OK, that'd suit me.##可以，这个很适合我。\n[06:20.57]",
+      "audioUrl": "https://static.ieltsbro.com/section/audio_file/1708224363846.mp3",
+      "seconds": 417,
+      "difficulty": 1,
+      "status": 0,
+      "answerCharge": 0,
+      "averageTimeSpent": null,
+      "averageAccuracyRate": null,
+      "exercisesCount": null,
+      "sortIndex": null,
+      "updateId": "170fb551b1f64a489fefca0222770170",
+      "updateName": "朱宁",
+      "createDate": "2021-10-12T11:15:24.000+0800",
+      "updateDate": "2024-02-18T10:46:27.000+0800",
+      "id": 466,
+      "questionCount": null,
+      "questions": [
+        {
+          "questionId": "6202110151517237",
+          "subjectType": 1,
+          "subjectId": 120211012111353,
+          "questionNavigation": "Question21-24",
+          "questionCount": 4,
+          "questionType": 1,
+          "question": null,
+          "answer": null,
+          "updateId": "6a6bab5f7a814a16b632732f3b07e60d",
+          "updateName": "邓泌",
+          "createDate": null,
+          "updateDate": "2022-08-22T14:55:00.000+0800",
+          "checkState": null,
+          "sortIndex": 0,
+          "questionJson": {
+            "questionType": "1",
+            "descriptions": "<p class=\"MsoNormal\"><span style=\"mso-spacerun: 'yes'; font-family: Cambria; mso-fareast-font-family: 'MS Mincho'; mso-bidi-font-family: 'Times New Roman'; font-size: 11.0000pt;\">Questions 21-24</span><span style=\"mso-spacerun: 'yes'; font-family: Cambria; mso-fareast-font-family: 'MS Mincho'; mso-bidi-font-family: 'Times New Roman'; font-size: 11.0000pt;\"><br /></span><span style=\"mso-spacerun: 'yes'; font-family: Cambria; mso-fareast-font-family: 'MS Mincho'; mso-bidi-font-family: 'Times New Roman'; font-size: 11.0000pt;\">Choose the correct letter</span><span style=\"mso-spacerun: 'yes'; font-family: 宋体; mso-ascii-font-family: Cambria; mso-hansi-font-family: Cambria; mso-bidi-font-family: 'Times New Roman'; font-size: 11.0000pt;\"><span style=\"font-family: Cambria;\">,</span></span><span style=\"mso-spacerun: 'yes'; font-family: Cambria; mso-fareast-font-family: 宋体; mso-bidi-font-family: 'Times New Roman'; font-size: 11.0000pt;\">&nbsp;</span><span style=\"mso-spacerun: 'yes'; font-family: Cambria; mso-fareast-font-family: 'MS Mincho'; mso-bidi-font-family: 'Times New Roman'; font-size: 11.0000pt;\">A, B or C.<br /></span><span style=\"mso-spacerun: 'yes'; font-family: Cambria; mso-fareast-font-family: 'MS Mincho'; mso-bidi-font-family: 'Times New Roman'; font-size: 11.0000pt;\">&nbsp; &nbsp; &nbsp; &nbsp; Presentation about refrigeration</span></p>",
+            "startIndex": 21,
+            "endIndex": 24,
+            "questions": [
+              {
+                "number": 1,
+                "content": "What did Annie discover from reading about icehouses?",
+                "options": [
+                  {
+                    "content": "why they were first created  "
+                  },
+                  {
+                    "content": "how the ice was kept frozen  "
+                  },
+                  {
+                    "content": "where they were located"
+                  }
+                ]
+              },
+              {
+                "number": 1,
+                "content": "What point does Annie make about refrigeration in ancient Rome?",
+                "options": [
+                  {
+                    "content": "It became a commercial business.  "
+                  },
+                  {
+                    "content": "It used snow from nearby.  "
+                  },
+                  {
+                    "content": "It took a long time to become popular.  "
+                  }
+                ]
+              },
+              {
+                "number": 1,
+                "content": "In connection with modern refrigerators, both Annie and Jack are worried about",
+                "options": [
+                  {
+                    "content": " the complexity of the technology.  "
+                  },
+                  {
+                    "content": "the fact that some are disposed of irresponsibly.  "
+                  },
+                  {
+                    "content": " the large number that quickly break down.  "
+                  }
+                ]
+              },
+              {
+                "number": 1,
+                "content": "What do Jack and Annie agree regarding domestic fridges?",
+                "options": [
+                  {
+                    "content": "They are generally good value for money.  "
+                  },
+                  {
+                    "content": "There are plenty of useful variations.  "
+                  },
+                  {
+                    "content": "They are more useful than other domestic appliances.  "
+                  }
+                ]
+              }
+            ],
+            "questionNum": 4
+          },
+          "answerJson": [
+            {
+              "correctValue": 1,
+              "explain": "她之前未意识到使用稻草和锯末隔热，冰块可以数月不融化，故B。",
+              "sentenceList": [
+                3
+              ]
+            },
+            {
+              "correctValue": 0,
+              "explain": "sold对应commercial business，故A。",
+              "sentenceList": [
+                5
+              ]
+            },
+            {
+              "correctValue": 1,
+              "explain": "Annie关于废弃冰箱处理的观点得到了Jack的认同，两人都担心这点，故B。",
+              "sentenceList": [
+                9
+              ]
+            },
+            {
+              "correctValue": 0,
+              "explain": "用冰箱价格除以使用年数，与其他家电相比就不贵了，故A。",
+              "sentenceList": [
+                12
+              ]
+            }
+          ],
+          "source": null
+        },
+        {
+          "questionId": "6202110151517238",
+          "subjectType": 1,
+          "subjectId": 120211012111353,
+          "questionNavigation": "Question25-30",
+          "questionCount": 6,
+          "questionType": 4,
+          "question": null,
+          "answer": null,
+          "updateId": "6a6bab5f7a814a16b632732f3b07e60d",
+          "updateName": "邓泌",
+          "createDate": null,
+          "updateDate": "2022-08-22T14:55:00.000+0800",
+          "checkState": null,
+          "sortIndex": 1,
+          "questionJson": {
+            "questionType": "4",
+            "descriptions": "<p class=\"MsoNormal\"><span style=\"mso-spacerun: 'yes'; font-family: Cambria; mso-fareast-font-family: 'MS Mincho'; mso-bidi-font-family: 'Times New Roman'; font-size: 11.0000pt;\">Questions 25-30<br />Who is going to do research into each topic</span><span style=\"mso-spacerun: 'yes'; font-family: 宋体; mso-ascii-font-family: Cambria; mso-hansi-font-family: Cambria; mso-bidi-font-family: 'Times New Roman'; font-size: 11.0000pt;\"><span style=\"font-family: Cambria;\">?</span></span><span style=\"mso-spacerun: 'yes'; font-family: Cambria; mso-fareast-font-family: 'MS Mincho'; mso-bidi-font-family: 'Times New Roman'; font-size: 11.0000pt;\"><br /></span><span style=\"mso-spacerun: 'yes'; font-family: Cambria; mso-fareast-font-family: 'MS Mincho'; mso-bidi-font-family: 'Times New Roman'; font-size: 11.0000pt;\">Write the correct letter, A, B or C<span style=\"font-family: MS Mincho;\">，</span><span style=\"font-family: Cambria;\">next to Questions 25-30.</span></span><span style=\"mso-spacerun: 'yes'; font-family: Cambria; mso-fareast-font-family: 'MS Mincho'; mso-bidi-font-family: 'Times New Roman'; font-size: 11.0000pt;\"><br /></span></p>",
+            "startIndex": 25,
+            "endIndex": 30,
+            "questionNum": 6,
+            "matchOptions": [
+              {
+                "index": "A",
+                "content": "Annie"
+              },
+              {
+                "index": "B",
+                "content": "Jack"
+              },
+              {
+                "index": "C",
+                "content": "both Annie and Jack"
+              }
+            ],
+            "questionsContent": "<h5>Topics</h5>\n<p class=\"MsoNormal\"><span style=\"mso-spacerun: 'yes'; font-family: Cambria; mso-fareast-font-family: 'MS Mincho'; mso-bidi-font-family: 'Times New Roman'; font-size: 11.0000pt;\">25. the goods that are refrigerated ...... &nbsp;</span></p>\n<p class=\"MsoNormal\"><span style=\"mso-spacerun: 'yes'; font-family: Cambria; mso-fareast-font-family: 'MS Mincho'; mso-bidi-font-family: 'Times New Roman'; font-size: 11.0000pt;\">26. the effects on health &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; ......</span></p>\n<p class=\"MsoNormal\"><span style=\"mso-spacerun: 'yes'; font-family: Cambria; mso-fareast-font-family: 'MS Mincho'; mso-bidi-font-family: 'Times New Roman'; font-size: 11.0000pt;\">27. the impact on food producers&nbsp; &nbsp;...... &nbsp; &nbsp; &nbsp; &nbsp;</span></p>\n<p class=\"MsoNormal\"><span style=\"mso-spacerun: 'yes'; font-family: Cambria; mso-fareast-font-family: 'MS Mincho'; mso-bidi-font-family: 'Times New Roman'; font-size: 11.0000pt;\">28. the impact on cities &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; ......</span></p>\n<p class=\"MsoNormal\"><span style=\"mso-spacerun: 'yes'; font-family: Cambria; mso-fareast-font-family: 'MS Mincho'; mso-bidi-font-family: 'Times New Roman'; font-size: 11.0000pt;\">29. refrigerated transport &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; ......</span></p>\n<p class=\"MsoNormal\"><span style=\"mso-spacerun: 'yes'; font-family: Cambria; mso-fareast-font-family: 'MS Mincho'; mso-bidi-font-family: 'Times New Roman'; font-size: 11.0000pt;\">30. domestic fridges &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;......</span></p>",
+            "renderOrder": 0,
+            "indexType": "en",
+            "optionsStyleType": 1,
+            "optionsTitle": "People",
+            "showIndex": 1
+          },
+          "answerJson": [
+            {
+              "explain": "Jack并没有很想做，只有Annie做，故A。",
+              "correctValue": 0,
+              "sentenceList": [
+                16,
+                18
+              ]
+            },
+            {
+              "explain": "Annie最后表示自己来做，Jack欠她一个人情，故A。",
+              "correctValue": 0,
+              "sentenceList": [
+                19,
+                22
+              ]
+            },
+            {
+              "explain": "Jack表示自己不介意做这个，即会做这个，故B。",
+              "correctValue": 1,
+              "sentenceList": [
+                22,
+                23
+              ]
+            },
+            {
+              "explain": "Jack表示把这部分留给他做，故B。",
+              "correctValue": 1,
+              "sentenceList": [
+                24,
+                27
+              ]
+            },
+            {
+              "explain": "Annie表示自己不介意做这个，即会做这个，故A。",
+              "correctValue": 0,
+              "sentenceList": [
+                28
+              ]
+            },
+            {
+              "explain": "Annie提议两人各做一部分，Jack赞同，即两人都做，故C。",
+              "correctValue": 2,
+              "sentenceList": [
+                31,
+                32,
+                33
+              ]
+            }
+          ],
+          "source": null
+        }
+      ],
+      "source": null,
+      "showDetailTitle": null,
+      "taskCount": 0,
+      "useFor": 1,
+      "answerShowFlag": null,
+      "type": 0
+    },
+    {
+      "listeningId": "120211012112921",
+      "topicId": "94",
+      "topicName": "讲座",
+      "part": 4,
+      "listenQuestion": "C15-Test 4-Section 4",
+      "subjectData": {
+        "listenDetailList": [
+          {
+            "englishDetail": "Hi everyone, in this session I'll be presenting my research about the social history of Britain during the Industrial Revolution. I particularly looked at how ordinary lives were affected by changes that happened at that time. ",
+            "translateDetail": "大家好。我将在这个环节给大家呈现关于工业革命时期英国的社会历史的研究。我特别关注了那一时期的变革对普通人的影响。",
+            "startTime": 74190,
+            "endTime": 90320
+          },
+          {
+            "englishDetail": "This was a time that saw the beginning of a new phenomenon: consumerism - where buying and selling goods became a major part of ordinary people's lives.",
+            "translateDetail": "工业革命时期见证了消费主义这种新现象的开端。消费主义是指购买和销售商品成为普通人生活的主要组成部分。",
+            "startTime": 90320,
+            "endTime": 101250
+          },
+          {
+            "englishDetail": "In fact, it was in the 19th century that the quantity and quality of people's possessions was used as an indication of the wealth of the country. Before this, the vast majority of people had very few possessions, but all that was changed by the Industrial Revolution. ",
+            "translateDetail": "事实上,在19世纪,居民所有物的数量和品质成为国家财富的指标。在此之前,大部分人只有很少的财产,但是这一都在工业革命时期发生了改变。",
+            "startTime": 101250,
+            "endTime": 120150
+          },
+          {
+            "englishDetail": "This was the era from the mid-18th to the late 19th century, when improvements in how goods were made as well as in technology triggered massive social changes that transformed life for just about everybody in several key areas.",
+            "translateDetail": "从18世纪中到19世纪末这段时期,产品制作工艺的提升、技术的进步促使很多领域发生了巨大社会变革在几个关键领域改变了几乎每个人的生活。",
+            "startTime": 120150,
+            "endTime": 136470
+          },
+          {
+            "englishDetail": "First let's look at manufacturing. When it comes to manufacturing, we tend to think of the Industrial Revolution in images of steam engines and coal. ",
+            "translateDetail": "首先,我们来聊聊制造业。提到制造业,人们倾向于将工业革命与蒸汽机和煤炭联想起来。",
+            "startTime": 136470,
+            "endTime": 148570
+          },
+          {
+            "englishDetail": "And it's true that the Industrial Revolution couldn't have taken place at all if it weren't for these new sources of power.They marked an important shift away from the traditional watermills and windmills that had dominated before this. ",
+            "translateDetail": "的确，如果没有这些新的能源，工业革命根本就不可能发生。它们标志着传统水磨坊和风车在此之前的主导地位发生了重大转变。",
+            "startTime": 148570,
+            "endTime": 164450
+          },
+          {
+            "englishDetail": "The most advanced industry for much of the 19th century was textiles. This meant that fashionable fabrics, and lace and ribbons were made available to everyone.",
+            "translateDetail": "在19世纪大部分时间里最先进的工业是纺织业。这意昧着任何人能都用时尚的材料、蕾丝和丝带。",
+            "startTime": 164450,
+            "endTime": 176830
+          },
+          {
+            "englishDetail": "Before the Industrial Revolution, most people made goods to sell in small workshops, often in their own homes. But enormous new machines were now being created that could produce the goods faster and on a larger scale, and these required a lot more space. ",
+            "translateDetail": "工业革命之前,大多数人都是在小作坊里,通常是在自己家里制造商品出售的。但是当时,巨大的新机器正在被创造出来,它们能够更快、更大规模地生产商品,而这需要更多的空间。",
+            "startTime": 176830,
+            "endTime": 196050
+          },
+          {
+            "englishDetail": "So large factories were built, replacing the workshops, and forcing workers to travel to work. In fact, large numbers of people migrated from villages into towns as a result.",
+            "translateDetail": "于是人们建造了大工厂,取代了小作坊,迫使工人们去上班。事实上,大量的人因此从村庄迁移到城镇。",
+            "startTime": 196050,
+            "endTime": 213880
+          },
+          {
+            "englishDetail": "As well as manufacturing, there were new technologies in transport, contributing to the growth of consumerism. The horse-drawn stagecoaches and carts of the 18th century, which carried very few people and goods, and travelled slowly along poorly surfaced roads, were gradually replaced by the numerous canals that were constructed. ",
+            "translateDetail": " 除了制造业,运输业也出现了新技术,促进了消费主义的发展。在18世纪时,驿站马车和马拉货车的运输能力很差,在粗糙的路面上行进速度很慢。这种交通方式逐渐被修建的众多运河取代。",
+            "startTime": 213880,
+            "endTime": 236830
+          },
+          {
+            "englishDetail": "These were particularly important for the transportation of goods. The canals gradually fell out of use, though, as railways were developed, becoming the main way of moving goods and people from one end of the country to the other.",
+            "translateDetail": " 运河对货物运输特别重要。因为铁路发展起来了,运河交通逐渐衰落。铁路跨越国土,从国家的一端跑到另一端,成为运输旅客和货物的主要方式。",
+            "startTime": 236830,
+            "endTime": 253490
+          },
+          {
+            "englishDetail": "And the goods they moved weren't just coal, iron, clothes, and so on - significantly, they included newspapers, which meant that thousands of people were not only more knowledgeable about what was going on in the country, but could also read about what was available in the shops. And that encouraged them to buy more. ",
+            "translateDetail": "运输的货物不仅仅是煤、铁、衣服等商品,更重要的是,报纸也在运输物品之列,这意味着成千上万的人不仅可以增加对这个国家的情况的了解,还可以阅读商店里商品的相关信息。这促进了销售。",
+            "startTime": 253490,
+            "endTime": 276010
+          },
+          {
+            "englishDetail": "So faster forms of transport resulted in distribution becoming far more efficient- goods could now be sold all over the country, instead of just in the local market.",
+            "translateDetail": "因此,更快的运输方式促使配送效率大大提高——不仅仅是在当地市场,还可以在全国各地销售商品。",
+            "startTime": 276010,
+            "endTime": 289320
+          },
+          {
+            "englishDetail": "The third main area that saw changes that contributed to consumerism was retailing. The number and quality of shops grew rapidly, and in particular, small shops suffered as customers flocked to the growing number of department stores - a form of retailing that was new in the 19th century.",
+            "translateDetail": "导致消费主义的第三个主要领域是零售业。商店的数量和品质迅速增加,小商店的情况更加糟糕,因为成群结队的顾客跑去百货商场购物。这是19世纪新出现的一种零售形式。",
+            "startTime": 289320,
+            "endTime": 311220
+          },
+          {
+            "englishDetail": "The entrepreneurs who opened these found new ways to stock them with goods, and to attract customers: for instance, improved lighting inside greatly increased the visibility of the goods for sale. Another development that made goods more visible from outside resulted from the use of plate glass, which made it possible for windows to be much larger than previously. ",
+            "translateDetail": "百货商店的老板们找到了新的方法来储存货物,招揽顾客。比如,增加室内照明来让售卖的商品变得更加显眼。另一个让商品从外面看起来更显眼的方式是使用平板玻璃。这使得窗户比以前大得多。",
+            "startTime": 311220,
+            "endTime": 340240
+          },
+          {
+            "englishDetail": "New ways of promoting goods were introduced, too. Previously, the focus had been on informing potential customers about the availability of goods; now there was an explosion in advertising trying to persuade people to go shopping.",
+            "translateDetail": "新的促销方式也被引入。以前,人们关注的焦点是向潜在客户告知商品的供应情况。现如今激增的广告试图说服顾客购买商品。",
+            "startTime": 340240,
+            "endTime": 357870
+          },
+          {
+            "englishDetail": "Flanders claims that one of the great effects of the Industrial Revolution was that it created choice. All sorts of things that had previously been luxuries - from sugar to cutlery - became conveniences, and before long they'd turned into necessities: life without sugar or cutlery was unimaginable. ",
+            "translateDetail": "弗兰德斯声称,工业革命的一个重大影响是它创造了选择。所有以前是奢侈品的东西——从糖到餐具—变得更加易得。而且它们很快就变成了必需品,没有糖和餐具的生活是难以想象的。",
+            "startTime": 357870,
+            "endTime": 381520
+          },
+          {
+            "englishDetail": "Rather like mobile phones these days!",
+            "translateDetail": "就像现在的手机。",
+            "startTime": 381520,
+            "endTime": 387380
+          }
+        ]
+      },
+      "listenContent": "<div>Hi everyone, in this session I'll be presenting my research about the social history of Britain during the Industrial Revolution. I particularly looked at how ordinary lives were affected by changes that happened at that time. This was a time that saw the beginning of a new phenomenon: consumerism - where buying and selling goods became a major part of ordinary people's lives.</div>\n<div>&nbsp;</div>\n<div>&nbsp;</div>\n<div>In fact, it was in the 19th century that the quantity and quality of people's possessions was used as an indication of the wealth of the country. Before this, the vast majority of people had very few possessions, but all that was changed by the Industrial Revolution. This was the era from the mid-18th to the late 19th century, when improvements in how goods were made as well as in technology triggered massive social changes that transformed life for just about everybody in several key areas.</div>\n<div>&nbsp;</div>\n<div>&nbsp;</div>\n<div>First let's look at manufactur ing. When it comes to manufacturing, we tend to think of the&nbsp;</div>\n<div>Industrial Revolution in images of steam engines and coa l. And it's true that the Industrial Revolution couldn't have taken place at all if it weren't for these new sources of power.They marked an important shift away from the trad itional watermills and windmills that had dominated before this. The most advanced industry for much of the 19th century was textiles . This meant that fash ionab le fabrics, and lace and ribbons were made available to everyone.</div>\n<div>&nbsp;</div>\n<div>&nbsp;</div>\n<div>Before the Industrial Revolution, most people made goods to sell in small workshops, often in their own homes. But enormous new machines were now being created that could produce the goods faster and on a larger scale, and these required a lot more space. So large factories were built, replacing the workshops, and forcing workers to travel to work . In fact, large numbers of people migrated from villages into towns as a result.</div>\n<div>&nbsp;</div>\n<div>&nbsp;</div>\n<div>As well as manufacturing, there were new technologies in transport, contributing to the growth of consumerism. The horse-drawn stagecoaches and carts of the 18th century, which carried very few people and goods, and travelled slowly along poorly surfaced roads, were gradually replaced by the numerous canals that were constructed. These were particularly important for the transportation of goods. The canals gradually fell out of use, though, as railways were developed, becoming the main way of moving goods and people from one end of the country to the other. And the goods they moved weren't just coal, iron, clothes, and so on - significantly, they included newspapers, which meant that thousands of people were not only more knowledgeable about what was going on in the country, but could also read about what was available in the shops. And that encouraged them to buy more. So faster forms of&nbsp;</div>\n<div>transport resulted in distribution becoming far more efficient- goods could now be sold all over the country, instead of just in the local market.</div>\n<div>&nbsp;</div>\n<div>&nbsp;</div>\n<div>The third main area that saw changes that contributed to consume rism was retailing. The number and quality of shops grew rapidly, and in particular, small shops suffered as customers flocked to the growing number of department stores - a form of retailing that was new in the 19th century. The entrepreneurs who opened these found new ways to stock them with goods, and to attract customers: for instance , improved lighting inside greatly increased the visibi lity of the goods for sale. Another development that made goods more visib le from outside resulted from the use of plate glass, which made it possible for windows to be much larger than previously. New ways of promoting goods were introduced, too. Previously, the focus had been on informing potential customers about the availability of goods; now there was an explosion in advertising trying to persuade people to go shopping.</div>\n<div>&nbsp;</div>\n<div>&nbsp;</div>\n<div>Flanders claims that one of the great effects of the Industrial Revolution was that it created choice. All sorts of things that had previously been luxuries - from sugar to cutlery - became conveniences, and before long they'd turned into necessities: life without sugar or cutlery was unimaginable. Rather like mobile phones these days!</div>\n<div>&nbsp;</div>\n<div>&nbsp;</div>",
+      "listenDetail": "[01:14.19]Hi everyone, in this session I'll be presenting my research about the social history of Britain during the Industrial Revolution. I particularly looked at how ordinary lives were affected by changes that happened at that time. ##大家好。我将在这个环节给大家呈现关于工业革命时期英国的社会历史的研究。我特别关注了那一时期的变革对普通人的影响。\n[01:30.32]This was a time that saw the beginning of a new phenomenon: consumerism - where buying and selling goods became a major part of ordinary people's lives.##工业革命时期见证了消费主义这种新现象的开端。消费主义是指购买和销售商品成为普通人生活的主要组成部分。\n[01:41.25]In fact, it was in the 19th century that the quantity and quality of people's possessions was used as an indication of the wealth of the country. Before this, the vast majority of people had very few possessions, but all that was changed by the Industrial Revolution. ##事实上,在19世纪,居民所有物的数量和品质成为国家财富的指标。在此之前,大部分人只有很少的财产,但是这一都在工业革命时期发生了改变。\n[02:00.15]This was the era from the mid-18th to the late 19th century, when improvements in how goods were made as well as in technology triggered massive social changes that transformed life for just about everybody in several key areas.##从18世纪中到19世纪末这段时期,产品制作工艺的提升、技术的进步促使很多领域发生了巨大社会变革在几个关键领域改变了几乎每个人的生活。\n[02:16.47]First let's look at manufacturing. When it comes to manufacturing, we tend to think of the Industrial Revolution in images of steam engines and coal. ##首先,我们来聊聊制造业。提到制造业,人们倾向于将工业革命与蒸汽机和煤炭联想起来。\n[02:28.57]And it's true that the Industrial Revolution couldn't have taken place at all if it weren't for these new sources of power.They marked an important shift away from the traditional watermills and windmills that had dominated before this. ##的确，如果没有这些新的能源，工业革命根本就不可能发生。它们标志着传统水磨坊和风车在此之前的主导地位发生了重大转变。\n[02:44.45]The most advanced industry for much of the 19th century was textiles. This meant that fashionable fabrics, and lace and ribbons were made available to everyone.##在19世纪大部分时间里最先进的工业是纺织业。这意昧着任何人能都用时尚的材料、蕾丝和丝带。\n[02:56.83]Before the Industrial Revolution, most people made goods to sell in small workshops, often in their own homes. But enormous new machines were now being created that could produce the goods faster and on a larger scale, and these required a lot more space. ##工业革命之前,大多数人都是在小作坊里,通常是在自己家里制造商品出售的。但是当时,巨大的新机器正在被创造出来,它们能够更快、更大规模地生产商品,而这需要更多的空间。\n[03:16.05]So large factories were built, replacing the workshops, and forcing workers to travel to work. In fact, large numbers of people migrated from villages into towns as a result.##于是人们建造了大工厂,取代了小作坊,迫使工人们去上班。事实上,大量的人因此从村庄迁移到城镇。\n[03:33.88]As well as manufacturing, there were new technologies in transport, contributing to the growth of consumerism. The horse-drawn stagecoaches and carts of the 18th century, which carried very few people and goods, and travelled slowly along poorly surfaced roads, were gradually replaced by the numerous canals that were constructed. ## 除了制造业,运输业也出现了新技术,促进了消费主义的发展。在18世纪时,驿站马车和马拉货车的运输能力很差,在粗糙的路面上行进速度很慢。这种交通方式逐渐被修建的众多运河取代。\n[03:56.83]These were particularly important for the transportation of goods. The canals gradually fell out of use, though, as railways were developed, becoming the main way of moving goods and people from one end of the country to the other.## 运河对货物运输特别重要。因为铁路发展起来了,运河交通逐渐衰落。铁路跨越国土,从国家的一端跑到另一端,成为运输旅客和货物的主要方式。\n[04:13.49]And the goods they moved weren't just coal, iron, clothes, and so on - significantly, they included newspapers, which meant that thousands of people were not only more knowledgeable about what was going on in the country, but could also read about what was available in the shops. And that encouraged them to buy more. ##运输的货物不仅仅是煤、铁、衣服等商品,更重要的是,报纸也在运输物品之列,这意味着成千上万的人不仅可以增加对这个国家的情况的了解,还可以阅读商店里商品的相关信息。这促进了销售。\n[04:36.01]So faster forms of transport resulted in distribution becoming far more efficient- goods could now be sold all over the country, instead of just in the local market.##因此,更快的运输方式促使配送效率大大提高——不仅仅是在当地市场,还可以在全国各地销售商品。\n[04:49.32]The third main area that saw changes that contributed to consumerism was retailing. The number and quality of shops grew rapidly, and in particular, small shops suffered as customers flocked to the growing number of department stores - a form of retailing that was new in the 19th century.##导致消费主义的第三个主要领域是零售业。商店的数量和品质迅速增加,小商店的情况更加糟糕,因为成群结队的顾客跑去百货商场购物。这是19世纪新出现的一种零售形式。\n[05:11.22]The entrepreneurs who opened these found new ways to stock them with goods, and to attract customers: for instance, improved lighting inside greatly increased the visibility of the goods for sale. Another development that made goods more visible from outside resulted from the use of plate glass, which made it possible for windows to be much larger than previously. ##百货商店的老板们找到了新的方法来储存货物,招揽顾客。比如,增加室内照明来让售卖的商品变得更加显眼。另一个让商品从外面看起来更显眼的方式是使用平板玻璃。这使得窗户比以前大得多。\n[05:40.24]New ways of promoting goods were introduced, too. Previously, the focus had been on informing potential customers about the availability of goods; now there was an explosion in advertising trying to persuade people to go shopping.##新的促销方式也被引入。以前,人们关注的焦点是向潜在客户告知商品的供应情况。现如今激增的广告试图说服顾客购买商品。\n[05:57.87]Flanders claims that one of the great effects of the Industrial Revolution was that it created choice. All sorts of things that had previously been luxuries - from sugar to cutlery - became conveniences, and before long they'd turned into necessities: life without sugar or cutlery was unimaginable. ##弗兰德斯声称,工业革命的一个重大影响是它创造了选择。所有以前是奢侈品的东西——从糖到餐具—变得更加易得。而且它们很快就变成了必需品,没有糖和餐具的生活是难以想象的。\n[06:21.52]Rather like mobile phones these days!##就像现在的手机。\n[06:27.38]",
+      "audioUrl": "https://static.ieltsbro.com/section/audio_file/1667281774780.mp3",
+      "seconds": 459,
+      "difficulty": 1,
+      "status": 0,
+      "answerCharge": 0,
+      "averageTimeSpent": null,
+      "averageAccuracyRate": null,
+      "exercisesCount": null,
+      "sortIndex": null,
+      "updateId": "170fb551b1f64a489fefca0222770170",
+      "updateName": "朱宁",
+      "createDate": "2021-10-12T11:30:52.000+0800",
+      "updateDate": "2023-11-28T09:45:43.000+0800",
+      "id": 467,
+      "questionCount": null,
+      "questions": [
+        {
+          "questionId": "6202110121455069",
+          "subjectType": 1,
+          "subjectId": 120211012112921,
+          "questionNavigation": "Question31-40",
+          "questionCount": 10,
+          "questionType": 0,
+          "question": null,
+          "answer": null,
+          "updateId": "6a6bab5f7a814a16b632732f3b07e60d",
+          "updateName": "邓泌",
+          "createDate": "2022-11-02T09:49:56.000+0800",
+          "updateDate": "2022-11-02T09:49:56.000+0800",
+          "checkState": null,
+          "sortIndex": 0,
+          "questionJson": {
+            "questionType": "0",
+            "descriptions": "<p class=\"MsoNormal\"><span style=\"mso-spacerun: 'yes'; font-family: Cambria; mso-fareast-font-family: 'MS Mincho'; mso-bidi-font-family: 'Times New Roman'; font-size: 11.0000pt;\">Questions 31-40 &nbsp;</span></p>\n<p class=\"MsoNormal\"><span style=\"mso-spacerun: 'yes'; font-family: Cambria; mso-fareast-font-family: 'MS Mincho'; mso-bidi-font-family: 'Times New Roman'; font-size: 11.0000pt;\">Complete the notes below. &nbsp;<br />Write ONE WORD ONLY for each answer.</span></p>",
+            "startIndex": 31,
+            "endIndex": 40,
+            "questionNum": 10,
+            "questionsContent": "<p class=\"MsoNormal\" style=\"text-align: center;\"><strong><span style=\"mso-spacerun: 'yes'; font-family: Cambria; mso-fareast-font-family: 'MS Mincho'; mso-bidi-font-family: 'Times New Roman'; font-size: 11.0000pt;\">How the Industrial Revolution affected life in Britain &nbsp;</span></strong></p>\n<p class=\"MsoNormal\"><span style=\"mso-spacerun: 'yes'; font-family: Cambria; mso-fareast-font-family: 'MS Mincho'; mso-bidi-font-family: 'Times New Roman'; font-size: 11.0000pt;\"><strong>19th century</strong> <br />&bull; For the first time, people's possessions were used to measure Britain's ...... . <br />&bull; Developments in production of goods and in&nbsp; ...... greatly changed lives. <br /><strong>MAIN AREAS OF CHANGE</strong> <br /><strong>Manufacturing</strong> <br />&bull; The Industrial Revolution would not have happened without the new types of&nbsp; ...... &nbsp;that were used then. <br />&bull; The leading industry was&nbsp; ...... &nbsp;(its products became widely available). <br />&bull; New ...... made factories necessary and so more people moved into towns. <br /><strong>Transport</strong> <br />&bull; The railways took the place of canals. <br />&bull; Because of the new transport: <br />&nbsp;-greater access to ...... made people more aware of what they could buy in shops. &nbsp;<br />-when shopping, people were not limited to buying ...... goods. &nbsp;<br /><strong>Retailing</strong> <br />&bull; The first department stores were opened. <br />&bull; The displays of goods were more visible: <br />-inside stores because of better ...... . &nbsp;<br />-outside stores, because ...... were bigger. <br />&bull; ...... that was persuasive became much more common.&nbsp;<br /><br /><span style=\"font-family: -apple-system, 'PingFang SC', BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif; font-size: 14px;\">温馨提示：纸考Part 4结束后有10分钟时间誊写答案，机考Part 4结束后有2分钟时间检查。</span><br /></span></p>"
+          },
+          "answerJson": [
+            {
+              "explain": "由people’s possessions定位，the country对应Britain，故填wealth。",
+              "correctValue": "wealth",
+              "sentenceList": [
+                3
+              ]
+            },
+            {
+              "explain": "and对应as well as，根据介词in可知填technology。",
+              "correctValue": "technology",
+              "sentenceList": [
+                4
+              ]
+            },
+            {
+              "explain": "由Industrial Revolution定位，types对应sources，故填power。",
+              "correctValue": "power",
+              "sentenceList": [
+                6
+              ]
+            },
+            {
+              "explain": "most advanced对应leading，故填textile/textiles。",
+              "correctValue": "textile/textiles",
+              "sentenceList": [
+                7
+              ]
+            },
+            {
+              "explain": "new原词复现，故填machines。",
+              "correctValue": "machines",
+              "sentenceList": [
+                8
+              ]
+            },
+            {
+              "explain": "significantly提示newspapers的重要性，故填newspapers。",
+              "correctValue": "newspapers",
+              "sentenceList": [
+                12
+              ]
+            },
+            {
+              "explain": "instead of对应not limited to，故填local。",
+              "correctValue": "local",
+              "sentenceList": [
+                13
+              ]
+            },
+            {
+              "explain": "better对应improved，故填lighting。",
+              "correctValue": "lighting",
+              "sentenceList": [
+                15
+              ]
+            },
+            {
+              "explain": "larger对应bigger，故填windows。",
+              "correctValue": "windows",
+              "sentenceList": [
+                15
+              ]
+            },
+            {
+              "explain": "persuade对应persuasive，故填advertising。",
+              "correctValue": "Advertising",
+              "sentenceList": [
+                16
+              ]
+            }
+          ],
+          "source": null
+        }
+      ],
+      "source": null,
+      "showDetailTitle": null,
+      "taskCount": 0,
+      "useFor": 1,
+      "answerShowFlag": null,
+      "type": 0
+    }
+  ],
+  "showMessage": null
+}
