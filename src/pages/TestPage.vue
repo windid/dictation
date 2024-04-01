@@ -62,7 +62,7 @@
     <div class="flex flex-center q-my-md">
       <q-btn
         color="primary"
-        label="Compare"
+        label="Compare (Shift + Enter)"
         @click="compare"
         style="margin-left: 16px"
       />
@@ -84,6 +84,23 @@
       </p>
       <p>{{ currentSentence.englishDetail }}</p>
       <p>{{ currentSentence.translateDetail }}</p>
+    </div>
+    <div v-if="showResult && currentSentenceId === sentences.length - 1">
+      <p v-for="(diff, i) in textResult" :key="i">
+        {{ i + 1 }}.
+        <span
+          v-for="(change, j) in diff"
+          :key="j"
+          :class="
+            change.added
+              ? 'text-positive'
+              : change.removed
+                ? 'text-negative'
+                : ''
+          "
+          >{{ change.value }}</span
+        >
+      </p>
     </div>
   </q-page>
 </template>
