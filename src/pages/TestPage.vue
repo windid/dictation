@@ -51,11 +51,12 @@
     <div class="flex flex-center q-my-md">
       <q-input
         v-model="text"
+        ref="inputRef"
         filled
         type="textarea"
         rows="5"
         spellcheck="false"
-        style="width: 600px"
+        style="width: 600px; font-size: 16px"
         @keypress.enter.prevent
       />
     </div>
@@ -148,6 +149,8 @@ const playing = ref(false)
 const regionPlaying = ref(false)
 const loopSentence = ref(false)
 
+const inputRef = ref<HTMLInputElement>()
+
 // Create an instance of WaveSurfer
 let ws: WaveSurfer
 let wsRegions: Regions
@@ -190,6 +193,7 @@ const nextSentence = () => {
     currentSentenceId.value++
     addRegion()
     regionPlaying.value = false
+    inputRef.value?.focus()
     play()
   } else {
     console.log('End of the part')
@@ -214,6 +218,7 @@ const addRegion = () => {
     start: (currentSentence.value.startTime + delay.value) / 1000,
     end: (currentSentence.value.endTime + delay.value) / 1000,
     color: 'rgba(255, 255, 0, 0.15)',
+    drag: false,
   })
 }
 
