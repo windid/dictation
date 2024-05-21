@@ -1,5 +1,5 @@
 <template>
-  <q-page @keydown.enter="onEnterKeydown" @keydown.tab.prevent="nextSentence">
+  <q-page>
     <div class="flex flex-center bg-grey-3 q-pa-sm">
       <q-btn flat round dense icon="home" to="/" class="on-left" />
       <span class="text-h4" style="margin-right: 240px">{{ id }}</span>
@@ -45,7 +45,12 @@
         @click="playOrPause"
       />
 
-      <q-btn icon="skip_next" round @click="nextSentence" />
+      <q-btn
+        icon="skip_next"
+        round
+        @click="nextSentence"
+        :disable="!showResult"
+      />
     </div>
 
     <div class="flex flex-center q-my-md">
@@ -87,7 +92,7 @@
       <p>{{ currentSentence.translateDetail }}</p>
     </div>
     <div v-if="showResult && currentSentenceId === sentences.length - 1">
-      <p v-for="(diff, i) in textResult" :key="i">
+      <p v-for="(diff, i) in textResult.values()" :key="i">
         {{ i + 1 }}.
         <span
           v-for="(change, j) in diff"
@@ -160,14 +165,6 @@ const playOrPause = () => {
   playing.value ? pause() : play()
 }
 
-const onEnterKeydown = (e: KeyboardEvent) => {
-  if (e.shiftKey) {
-    compare()
-  } else {
-    playOrPause()
-  }
-}
-
 const play = () => {
   playing.value = true
   !regionPlaying.value && ws.seekTo(activeRegion.start / ws.getDuration())
@@ -201,7 +198,7 @@ const nextSentence = () => {
 }
 
 const reset = () => {
-  textResult.value = []
+  textResult.value = new Map()
   currentSentenceId.value = 0
   showResult.value = false
   text.value = ''
@@ -215,10 +212,14 @@ const delay = useLocalStorage('delay', 0)
 const addRegion = () => {
   wsRegions.clearRegions()
   activeRegion = wsRegions.addRegion({
-    start: (currentSentence.value.startTime + delay.value) / 1000,
+    start: (currentSentence.value.startTime + delay.value - 100) / 1000,
     end: (currentSentence.value.endTime + delay.value) / 1000,
-    color: 'rgba(255, 255, 0, 0.15)',
+    color: 'rgba(255, 255, 0, 0.4)',
     drag: false,
+    resize: false,
+  })
+  activeRegion.on('click', () => {
+    play()
   })
 }
 
@@ -244,10 +245,6 @@ const createWaveSurfer = () => {
     ],
   })
 
-  ws.on('interaction', () => {
-    ws.play()
-  })
-
   ws.registerPlugin(
     ZoomPlugin.create({
       // the amount of zoom per wheel step, e.g. 0.5 means a 50% magnification per scroll
@@ -256,10 +253,6 @@ const createWaveSurfer = () => {
       maxZoom: 100,
     }),
   )
-
-  ws.on('interaction', () => {
-    ws.play()
-  })
 
   wsRegions = ws.registerPlugin(Regions.create())
 
@@ -276,14 +269,17 @@ const createWaveSurfer = () => {
 const showResult = ref(false)
 const diff = ref<Diff.Change[]>([])
 
-const textResult = useLocalStorage<Diff.Change[][]>(
+type TextResult = Map<number, Diff.Change[]>
+
+const textResult = useLocalStorage<TextResult>(
   `textResult-${id}-${currentPartId}`,
-  [],
+  new Map(),
 )
 
 const compare = () => {
   diff.value = Diff.diffWords(text.value, currentSentence.value.englishDetail)
-  textResult.value.push(diff.value)
+  // textResult.value.push(diff.value)
+  textResult.value.set(currentSentenceId.value, diff.value)
   showResult.value = true
 }
 
@@ -291,12 +287,29 @@ watch(audioUrl, () => {
   createWaveSurfer()
 })
 
+const onKeydown = (e: KeyboardEvent) => {
+  if (e.key === 'Enter') {
+    e.preventDefault()
+    if (e.shiftKey) {
+      compare()
+    } else {
+      playOrPause()
+    }
+  }
+  if (e.key === 'Tab') {
+    e.preventDefault()
+    nextSentence()
+  }
+}
+
 onMounted(() => {
   createWaveSurfer()
+  document.addEventListener('keydown', onKeydown)
 })
 
 onUnmounted(() => {
   ws.destroy()
+  document.removeEventListener('keydown', onKeydown)
 })
 
 const text = ref('')
