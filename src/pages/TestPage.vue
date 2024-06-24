@@ -68,44 +68,23 @@
     <div class="flex flex-center q-my-md">
       <q-btn
         color="primary"
-        label="Compare (Shift + Enter)"
+        :label="showResult ? 'Hide (Shift + Enter)' : 'Compare (Shift + Enter)'"
         @click="compare"
         style="margin-left: 16px"
       />
     </div>
     <div v-if="showResult" class="text-center">
       <p>
-        <span
-          v-for="(change, i) in diff"
-          :key="i"
-          :class="
-            change.added
-              ? 'text-positive'
-              : change.removed
-                ? 'text-negative'
-                : ''
-          "
-          >{{ change.value }}</span
-        >
+        <SentenceDiff :changes="diff" />
       </p>
       <p>{{ currentSentence.englishDetail }}</p>
       <p>{{ currentSentence.translateDetail }}</p>
     </div>
+
     <div v-if="showResult && currentSentenceId === sentences.length - 1">
-      <p v-for="(diff, i) in textResult.values()" :key="i">
+      <p v-for="(changes, i) in Array.from(textResult.values())" :key="i">
         {{ i + 1 }}.
-        <span
-          v-for="(change, j) in diff"
-          :key="j"
-          :class="
-            change.added
-              ? 'text-positive'
-              : change.removed
-                ? 'text-negative'
-                : ''
-          "
-          >{{ change.value }}</span
-        >
+        <SentenceDiff :changes="changes" />
       </p>
     </div>
   </q-page>
@@ -121,6 +100,7 @@ import Regions from 'wavesurfer.js/dist/plugins/regions.esm.js'
 import Minimap from 'wavesurfer.js/dist/plugins/minimap.esm.js'
 import ZoomPlugin from 'wavesurfer.js/dist/plugins/zoom.esm.js'
 import * as Diff from 'diff'
+import SentenceDiff from 'src/components/SentenceDiff.vue'
 
 defineOptions({
   name: 'TestPage',
@@ -272,11 +252,15 @@ const diff = ref<Diff.Change[]>([])
 type TextResult = Map<number, Diff.Change[]>
 
 const textResult = useLocalStorage<TextResult>(
-  `textResult-${id}-${currentPartId}`,
+  `textResult-${id}-${currentPartId.value}`,
   new Map(),
 )
 
 const compare = () => {
+  if (showResult.value) {
+    showResult.value = false
+    return
+  }
   diff.value = Diff.diffWords(text.value, currentSentence.value.englishDetail)
   // textResult.value.push(diff.value)
   textResult.value.set(currentSentenceId.value, diff.value)
