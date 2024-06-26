@@ -81,7 +81,10 @@
       <p>{{ currentSentence.translateDetail }}</p>
     </div>
 
-    <div v-if="showResult && currentSentenceId === sentences.length - 1">
+    <div
+      v-if="showResult && currentSentenceId === sentences.length - 1"
+      class="q-pa-md"
+    >
       <p v-for="(changes, i) in Array.from(textResult.values())" :key="i">
         {{ i + 1 }}.
         <SentenceDiff :changes="changes" />
@@ -303,11 +306,4 @@ const text = ref('')
 .active
   background: $primary !important
   color: white
-
-.text-positive
-  color: $green
-
-.text-negative
-  color: $red
-  text-decoration: line-through
 </style>
