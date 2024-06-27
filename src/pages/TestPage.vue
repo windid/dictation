@@ -31,9 +31,9 @@
     ></div>
 
     <div class="flex flex-center q-pa-md">
-      <span class="text-h6 on-left"
-        >{{ currentSentenceId + 1 }} / {{ sentences.length }}</span
-      >
+      <span class="text-h6 on-left">
+        {{ currentSentenceId + 1 }} / {{ sentences.length }}
+      </span>
       <q-btn icon="refresh" round @click="reset" />
 
       <q-btn
@@ -302,8 +302,4 @@ onUnmounted(() => {
 const text = ref('')
 </script>
 
-<style lang="sass" scoped>
-.active
-  background: $primary !important
-  color: white
-</style>
+<style lang="sass" scoped></style>

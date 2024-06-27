@@ -22,10 +22,6 @@ withDefaults(defineProps<Props>(), {
 </script>
 
 <style lang="sass" scoped>
-.active
-  background: $primary !important
-  color: white
-
 .text-positive
   color: $green
 
