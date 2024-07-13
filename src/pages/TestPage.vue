@@ -73,7 +73,10 @@
         style="margin-left: 16px"
       />
     </div>
-    <div v-if="showResult" class="text-center">
+    <div
+      v-if="showResult"
+      style="max-width: 800px; margin: 0 auto; font-size: 1.25em"
+    >
       <p>
         <SentenceDiff :changes="diff" />
       </p>
@@ -166,7 +169,7 @@ const nextSentence = () => {
   if (!showResult.value) {
     return
   }
-  if (currentSentenceId.value < sentences.value.length) {
+  if (currentSentenceId.value <= sentences.value.length) {
     showResult.value = false
     text.value = ''
     pause()
