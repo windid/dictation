@@ -1,0 +1,1665 @@
+{
+  "status": 0,
+  "message": "success",
+  "content": [
+    {
+      "listeningId": "120220602172241",
+      "topicId": "91",
+      "topicName": "生活",
+      "part": 1,
+      "listenQuestion": "C16-Test 1-Part 1",
+      "subjectData": {
+        "listenDetailList": [
+          {
+            "englishDetail": "Hello. Children's Engineering Workshops. ",
+            "translateDetail": "你好。儿童工程工作室。",
+            "startTime": 87080,
+            "endTime": 89740
+          },
+          {
+            "englishDetail": "Oh hello. I wanted some information about the workshops in the school holidays.",
+            "translateDetail": "哦，你好。我想了解一些关于学校假期的研讨会信息。",
+            "startTime": 89740,
+            "endTime": 95530
+          },
+          {
+            "englishDetail": "Sure.",
+            "translateDetail": "当然。",
+            "startTime": 95530,
+            "endTime": 96690
+          },
+          {
+            "englishDetail": "I have two daughters who are interested. The younger one's Lydia, she's four - do you take children as young as that?",
+            "translateDetail": "我有两个女儿感兴趣。小女儿叫莉迪亚，今年四岁 - 你们接受这么小的孩子吗？",
+            "startTime": 96690,
+            "endTime": 104480
+          },
+          {
+            "englishDetail": "Yes, our Tiny Engineers workshop is for four to five-year-olds.",
+            "translateDetail": "是的，我们的 \"小小工程师 \"工作坊是为四到五岁的孩子准备的。",
+            "startTime": 104480,
+            "endTime": 110390
+          },
+          {
+            "englishDetail": "What sorts of activities do they do?",
+            "translateDetail": "他们会做哪些活动？",
+            "startTime": 110390,
+            "endTime": 112820
+          },
+          {
+            "englishDetail": "All sorts. For example, they work together to design a special cover that goes round an egg, so that when it's inside they can drop it from a height and it doesn't break. Well, sometimes it does break but that's part of the fun!",
+            "translateDetail": "各种各样的。例如，他们一起设计了一个特殊的套子，可以套在鸡蛋上。这样，当鸡蛋在里面时，他们可以从高处掉下来，而鸡蛋不会碎。好吧，有时它确实会碎，但这也是乐趣的一部分！",
+            "startTime": 112820,
+            "endTime": 129380
+          },
+          {
+            "englishDetail": "Right. And Lydia loves building things. Is there any opportunity for her to do that?",
+            "translateDetail": "对。莉迪亚也喜欢建造东西。有什么机会让她做这个吗？",
+            "startTime": 129380,
+            "endTime": 136590
+          },
+          {
+            "englishDetail": "Well, they have a competition to see who can make the highest tower.You'd be amazed how high they can go.",
+            "translateDetail": "嗯，他们有一个比赛，看谁能造出最高的塔。你会惊讶于他们能做多高。",
+            "startTime": 136590,
+            "endTime": 144460
+          },
+          {
+            "englishDetail": "Right.",
+            "translateDetail": "很好。",
+            "startTime": 144460,
+            "endTime": 145310
+          },
+          {
+            "englishDetail": "But they're learning all the time as well as having fun.",
+            "translateDetail": "他们一直在学习，同时也在享受乐趣。",
+            "startTime": 145310,
+            "endTime": 149360
+          },
+          {
+            "englishDetail": "For example, one thing they do is to design and build a car that's attached to a balloon,and the force of the air in that actually powers the car and makes it move along.",
+            "translateDetail": "例如，其中一个活动是设计和建造一辆连接在气球上的汽车，空气的力量实际上为汽车提供了动力，使它向前移动。",
+            "startTime": 149360,
+            "endTime": 161550
+          },
+          {
+            "englishDetail": "They go really fast too.",
+            "translateDetail": "他们的速度也非常快。",
+            "startTime": 161550,
+            "endTime": 163680
+          },
+          {
+            "englishDetail": "OK, well, all this sounds perfect.",
+            "translateDetail": "好吧，这一切听起来很完美。",
+            "startTime": 163680,
+            "endTime": 167680
+          },
+          {
+            "englishDetail": "Now Carly, that's my older daughter, has just had her seventh birthday,so presumably she'd be in a different group?",
+            "translateDetail": "现在来说说卡莉，也就是我的大女儿，刚刚过完她的七岁生日，所以她应该是在一个不同的小组里吧？",
+            "startTime": 214360,
+            "endTime": 223000
+          },
+          {
+            "englishDetail": "Yes, she'd be in the Junior Engineers. That's for children from six to eight.",
+            "translateDetail": "是的，她会在初级工程师组。那是为六到八岁的孩子准备的。",
+            "startTime": 223000,
+            "endTime": 229900
+          },
+          {
+            "englishDetail": "And do they do the same sorts of activities?",
+            "translateDetail": "他们做同样的活动吗？",
+            "startTime": 229900,
+            "endTime": 232710
+          },
+          {
+            "englishDetail": "Some are the same, but a bit more advanced.  So they work out how to build model vehicles, things like cars and trucks, but also how to construct animals using the same sorts of material and technique,and then they learn how they can program them and make them move.",
+            "translateDetail": "有些是一样的，但要更高级一些。他们研究如何建造车辆模型，比如汽车和卡车，也研究如何用同样的材料和技术建造动物，然后他们学习如何给它们编程，让它们移动。",
+            "startTime": 232710,
+            "endTime": 253220
+          },
+          {
+            "englishDetail": "So they learn a bit of coding?",
+            "translateDetail": "所以他们学会了一些编程？",
+            "startTime": 253220,
+            "endTime": 255320
+          },
+          {
+            "englishDetail": "They do. They pick it up really quickly. ",
+            "translateDetail": "是的。他们很快就能学会。",
+            "startTime": 255320,
+            "endTime": 258400
+          },
+          {
+            "englishDetail": "We're there to help if they need it, but they learn from one another too.",
+            "translateDetail": "如果他们需要，我们会在那里提供帮助，但他们也会互相学习。",
+            "startTime": 258400,
+            "endTime": 263464
+          },
+          {
+            "englishDetail": "Right. And do they have competitions too?",
+            "translateDetail": "真好。那他们也有比赛吗？",
+            "startTime": 263464,
+            "endTime": 267210
+          },
+          {
+            "englishDetail": "Yes, with the Junior Engineers, it's to use recycled materials like card and wood to build a bridge, and the longest one gets a prize.",
+            "translateDetail": "是的，初级工程师的比赛是用回收的材料，如卡片和木头，来建造一座桥，最长的桥可以得到奖励。",
+            "startTime": 267210,
+            "endTime": 278320
+          },
+          {
+            "englishDetail": "That sounds fun. I wouldn't mind doing that myself!",
+            "translateDetail": "这听起来很有趣。我不介意自己做这个 !",
+            "startTime": 278320,
+            "endTime": 281790
+          },
+          {
+            "englishDetail": "Then they have something a bit different, which is to think up an idea for a five-minute movie and then film it,using special animation software.",
+            "translateDetail": "然后他们有一些不同的东西，那就是想出一个五分钟的电影的想法，然后用特殊的动画软件把它拍下来。",
+            "startTime": 281790,
+            "endTime": 293080
+          },
+          {
+            "englishDetail": "You'd be amazed what they come up with.",
+            "translateDetail": "你会惊讶于他们想出来的东西。",
+            "startTime": 293080,
+            "endTime": 295440
+          },
+          {
+            "englishDetail": "And of course, that's something they can put on their phone and take home to show all their friends.",
+            "translateDetail": "当然，这也是他们可以放在手机里，带回家给所有的朋友看的东西。",
+            "startTime": 295440,
+            "endTime": 300930
+          },
+          {
+            "englishDetail": "Exactly, And then they also build a robot in the shape of a human,and they decorate it and program it so that it can move its arms and legs.",
+            "translateDetail": "没错。然后，他们还会建造了一个人类形状的机器人，他们对其进行装饰，并对其进行编程，使其能够移动手臂和腿。",
+            "startTime": 300930,
+            "endTime": 311920
+          },
+          {
+            "englishDetail": "Perfect. So, is it the same price as the Tiny Engineers?",
+            "translateDetail": "完美。那么，它的价格和 \"小工程师 \"一样吗？",
+            "startTime": 311920,
+            "endTime": 316770
+          },
+          {
+            "englishDetail": "It's just a bit more: £50 for the five weeks.",
+            "translateDetail": "只是多一点。五个星期是50英镑。",
+            "startTime": 316770,
+            "endTime": 320870
+          },
+          {
+            "englishDetail": "And are the classes on a Monday, too?",
+            "translateDetail": "那么课程也是在星期一吗？",
+            "startTime": 320870,
+            "endTime": 323330
+          },
+          {
+            "englishDetail": "They used to be, but we found it didn't give our staff enough time to clear up after the first workshop,so we moved them to Wednesdays.",
+            "translateDetail": "以前是的，但我们发现这样做没有给我们的员工足够的时间在第一次研讨会后进行清理，所以我们把它移到了星期三。",
+            "startTime": 323330,
+            "endTime": 333010
+          },
+          {
+            "englishDetail": "The classes are held in the morning from ten to eleven.",
+            "translateDetail": "这些课程是在上午十点到十一点举行的。",
+            "startTime": 333010,
+            "endTime": 337040
+          },
+          {
+            "englishDetail": "OK. That's better for me actually. ",
+            "translateDetail": "好的，这对我来说其实更好。",
+            "startTime": 337040,
+            "endTime": 340920
+          },
+          {
+            "englishDetail": "And what about the location? Where exactly are the workshops held?",
+            "translateDetail": "那地点呢？研讨会到底是在哪里举行的？",
+            "startTime": 340920,
+            "endTime": 345040
+          },
+          {
+            "englishDetail": "They're in building 10A - there's a big sign on the door,you can't miss it, and that's in Fradstone Industrial Estate.",
+            "translateDetail": "他们在10A楼--门上有一个大牌子，你不可能错过它，那是在弗拉德斯通工业区。",
+            "startTime": 345040,
+            "endTime": 353560
+          },
+          {
+            "englishDetail": "Sorry?",
+            "translateDetail": "什么？",
+            "startTime": 353560,
+            "endTime": 354620
+          },
+          {
+            "englishDetail": "Fradstone - that's F-R-A-D-S-T-O-N-E.",
+            "translateDetail": "弗拉德斯通--就是F-R-A-D-S-T-O-N-E。",
+            "startTime": 354620,
+            "endTime": 365120
+          },
+          {
+            "englishDetail": "And that's in Grasford, isn't it?",
+            "translateDetail": "那是在Grasford，对吗？",
+            "startTime": 365120,
+            "endTime": 367680
+          },
+          {
+            "englishDetail": "Yes, up past the station.",
+            "translateDetail": "是的，在车站的前面。",
+            "startTime": 367680,
+            "endTime": 370060
+          },
+          {
+            "englishDetail": "And will I have any parking problems there?",
+            "translateDetail": "在那里会有任何停车问题吗？",
+            "startTime": 370060,
+            "endTime": 372680
+          },
+          {
+            "englishDetail": "No, there's always plenty available. So would you like to enrol Lydia and Carly now?",
+            "translateDetail": "不会，那里总是有很多停车位。那么，你现在想为莉迪亚和卡莉报名吗？",
+            "startTime": 372680,
+            "endTime": 379090
+          },
+          {
+            "englishDetail": "OK.",
+            "translateDetail": "好的。",
+            "startTime": 379090,
+            "endTime": 380240
+          },
+          {
+            "englishDetail": "So can I have your full name ...",
+            "translateDetail": "那么我可以知道你的全名吗...？",
+            "startTime": 380240,
+            "endTime": 383240
+          }
+        ]
+      },
+      "listenContent": "<p>SARAH:Hello. Children's Engineering Workshops.</p>\n<p>FATHER:Oh hello. I wanted some information about the workshops in the school holidays.</p>\n<p>SARAH:Sure.</p>\n<p>FATHER:I have two daughters who are interested. The younger one's Lydia, she's four - do you take children as young as that?</p>\n<p>SARAH:Yes, our Tiny Engineers workshop is for four to five-year-olds.</p>\n<p>FATHER:What sorts of activities do they do?</p>\n<p>SARAH:All sorts. For example, they work together to design a special cover that goes round an egg, so that when it's inside they can drop it from a height and it doesn't break. Well, sometimes it does break but that's part of the fun!</p>\n<p>FATHER:Right. And Lydia loves building things. Is there any opportunity for her to do that?</p>\n<p>SARAH:Well, they have a competition to see who can make the highest tower.You'd be amazed how high they can go.</p>\n<p>FATHER:Right.</p>\n<p>SARAH:But they're learning all the time as well as having fun. For example, one thing they do is to design and build a car that's attached to a balloon,and the force of the air in that actually powers the car and makes it move along. They go really fast too.</p>\n<p>FATHER:OK, well, all this sounds perfect.</p>\n<p>FATHER:Now Carly, that's my older daughter, has just had her seventh birthday,so presumably she'd be in a different group?</p>\n<p>SARAH:Yes, she'd be in the Junior Engineers. That's for children from six to eight.</p>\n<p>FATHER:And do they do the same sorts of activities?</p>\n<p>SARAH:Some are the same, but a bit more advanced.&nbsp;So they work out how to build model vehicles, things like cars and trucks, but also how to construct animals using the same sorts of material and technique,and then they learn how they can program them and make them move.</p>\n<p>FATHER:So they learn a bit of coding?</p>\n<p>SARAH:They do. They pick it up really quickly.&nbsp;We're there to help if they need it, but they learn from one another too.</p>\n<p>FATHER:Right. And do they have competitions too?</p>\n<p>SARAH:Yes, with the Junior Engineers, it's to use recycled materials like card and wood to build a bridge, and the longest one gets a prize.</p>\n<p>FATHER:That sounds fun. I wouldn't mind doing that myself!</p>\n<p>SARAH:Then they have something a bit different, which is to think up an idea for a five-minute movie and then film it,using special animation software. You'd be amazed what they come up with.</p>\n<p>FATHER:And of course, that's something they can put on their phone and take home to show all their friends.</p>\n<p>SARAH:Exactly, And then they also build a robot in the shape of a human, and they decorate it and program it so that it can move its arms and legs.</p>\n<p>FATHER:Perfect. So, is it the same price as the Tiny Engineers?</p>\n<p>SARAH:It's just a bit more: &pound;50 for the five weeks.</p>\n<p>FATHER:And are the classes on a Monday, too?</p>\n<p>SARAH:They used to be, but we found it didn't give our staff enough time to clear up after the first workshop,so we moved them to Wednesdays. The classes are held in the morning from ten to eleven.</p>\n<p>FATHER:OK. That's better for me actually.&nbsp;And what about the location? Where exactly are the workshops held?</p>\n<p>SARAH:They're in building 10A - there's a big sign on the door, you can't miss it, and that's in Fradstone Industrial Estate.</p>\n<p>FATHER:Sorry?</p>\n<p>SARAH:Fradstone - that's F-R-A-D-S-T-O-N-E.</p>\n<p>FATHER:And that's in Grasford, isn't it?</p>\n<p>SARAH:Yes, up past the station.</p>\n<p>FATHER:And will I have any parking problems there?</p>\n<p>SARAH:No, there's always plenty available. So would you like to enrol Lydia and Carly now?</p>\n<p>FATHER:OK.</p>\n<p>SARAH:So can I have your full name ...</p>",
+      "listenDetail": "[01:27.08]Hello. Children's Engineering Workshops. ##你好。儿童工程工作室。\n[01:29.74]Oh hello. I wanted some information about the workshops in the school holidays.##哦，你好。我想了解一些关于学校假期的研讨会信息。\n[01:35.53]Sure.##当然。\n[01:36.69]I have two daughters who are interested. The younger one's Lydia, she's four - do you take children as young as that?##我有两个女儿感兴趣。小女儿叫莉迪亚，今年四岁 - 你们接受这么小的孩子吗？\n[01:44.48]Yes, our Tiny Engineers workshop is for four to five-year-olds.##是的，我们的 \"小小工程师 \"工作坊是为四到五岁的孩子准备的。\n[01:50.39]What sorts of activities do they do?##他们会做哪些活动？\n[01:52.82]All sorts. For example, they work together to design a special cover that goes round an egg, so that when it's inside they can drop it from a height and it doesn't break. Well, sometimes it does break but that's part of the fun!##各种各样的。例如，他们一起设计了一个特殊的套子，可以套在鸡蛋上。这样，当鸡蛋在里面时，他们可以从高处掉下来，而鸡蛋不会碎。好吧，有时它确实会碎，但这也是乐趣的一部分！\n[02:09.38]Right. And Lydia loves building things. Is there any opportunity for her to do that?##对。莉迪亚也喜欢建造东西。有什么机会让她做这个吗？\n[02:16.59]Well, they have a competition to see who can make the highest tower.You'd be amazed how high they can go.##嗯，他们有一个比赛，看谁能造出最高的塔。你会惊讶于他们能做多高。\n[02:24.46]Right.##很好。\n[02:25.31]But they're learning all the time as well as having fun.##他们一直在学习，同时也在享受乐趣。\n[02:29.36]For example, one thing they do is to design and build a car that's attached to a balloon,and the force of the air in that actually powers the car and makes it move along.##例如，其中一个活动是设计和建造一辆连接在气球上的汽车，空气的力量实际上为汽车提供了动力，使它向前移动。\n[02:41.55]They go really fast too.##他们的速度也非常快。\n[02:43.68]OK, well, all this sounds perfect.##好吧，这一切听起来很完美。\n[02:47.68]\n[03:34.36]Now Carly, that's my older daughter, has just had her seventh birthday,so presumably she'd be in a different group?##现在来说说卡莉，也就是我的大女儿，刚刚过完她的七岁生日，所以她应该是在一个不同的小组里吧？\n[03:43.00]Yes, she'd be in the Junior Engineers. That's for children from six to eight.##是的，她会在初级工程师组。那是为六到八岁的孩子准备的。\n[03:49.90]And do they do the same sorts of activities?##他们做同样的活动吗？\n[03:52.71]Some are the same, but a bit more advanced.  So they work out how to build model vehicles, things like cars and trucks, but also how to construct animals using the same sorts of material and technique,and then they learn how they can program them and make them move.##有些是一样的，但要更高级一些。他们研究如何建造车辆模型，比如汽车和卡车，也研究如何用同样的材料和技术建造动物，然后他们学习如何给它们编程，让它们移动。\n[04:13.22]So they learn a bit of coding?##所以他们学会了一些编程？\n[04:15.32]They do. They pick it up really quickly. ##是的。他们很快就能学会。\n[04:18.40]We're there to help if they need it, but they learn from one another too.##如果他们需要，我们会在那里提供帮助，但他们也会互相学习。\n[04:23.464]Right. And do they have competitions too?##真好。那他们也有比赛吗？\n[04:27.21]Yes, with the Junior Engineers, it's to use recycled materials like card and wood to build a bridge, and the longest one gets a prize.##是的，初级工程师的比赛是用回收的材料，如卡片和木头，来建造一座桥，最长的桥可以得到奖励。\n[04:38.32]That sounds fun. I wouldn't mind doing that myself!##这听起来很有趣。我不介意自己做这个 !\n[04:41.79]Then they have something a bit different, which is to think up an idea for a five-minute movie and then film it,using special animation software.##然后他们有一些不同的东西，那就是想出一个五分钟的电影的想法，然后用特殊的动画软件把它拍下来。\n[04:53.08]You'd be amazed what they come up with.##你会惊讶于他们想出来的东西。\n[04:55.44]And of course, that's something they can put on their phone and take home to show all their friends.##当然，这也是他们可以放在手机里，带回家给所有的朋友看的东西。\n[05:00.93]Exactly, And then they also build a robot in the shape of a human,and they decorate it and program it so that it can move its arms and legs.##没错。然后，他们还会建造了一个人类形状的机器人，他们对其进行装饰，并对其进行编程，使其能够移动手臂和腿。\n[05:11.92]Perfect. So, is it the same price as the Tiny Engineers?##完美。那么，它的价格和 \"小工程师 \"一样吗？\n[05:16.77]It's just a bit more: £50 for the five weeks.##只是多一点。五个星期是50英镑。\n[05:20.87]And are the classes on a Monday, too?##那么课程也是在星期一吗？\n[05:23.33]They used to be, but we found it didn't give our staff enough time to clear up after the first workshop,so we moved them to Wednesdays.##以前是的，但我们发现这样做没有给我们的员工足够的时间在第一次研讨会后进行清理，所以我们把它移到了星期三。\n[05:33.01]The classes are held in the morning from ten to eleven.##这些课程是在上午十点到十一点举行的。\n[05:37.04]OK. That's better for me actually. ##好的，这对我来说其实更好。\n[05:40.92]And what about the location? Where exactly are the workshops held?##那地点呢？研讨会到底是在哪里举行的？\n[05:45.04]They're in building 10A - there's a big sign on the door,you can't miss it, and that's in Fradstone Industrial Estate.##他们在10A楼--门上有一个大牌子，你不可能错过它，那是在弗拉德斯通工业区。\n[05:53.56]Sorry?##什么？\n[05:54.62]Fradstone - that's F-R-A-D-S-T-O-N-E.##弗拉德斯通--就是F-R-A-D-S-T-O-N-E。\n[06:05.12]And that's in Grasford, isn't it?##那是在Grasford，对吗？\n[06:07.68]Yes, up past the station.##是的，在车站的前面。\n[06:10.06]And will I have any parking problems there?##在那里会有任何停车问题吗？\n[06:12.68]No, there's always plenty available. So would you like to enrol Lydia and Carly now?##不会，那里总是有很多停车位。那么，你现在想为莉迪亚和卡莉报名吗？\n[06:19.09]OK.##好的。\n[06:20.24]So can I have your full name ...##那么我可以知道你的全名吗...？\n[06:23.24]",
+      "audioUrl": "https://static.ieltsbro.com/section/audio_file/1654161735881.mp3",
+      "seconds": 421,
+      "difficulty": 1,
+      "status": 0,
+      "answerCharge": 0,
+      "averageTimeSpent": null,
+      "averageAccuracyRate": null,
+      "exercisesCount": null,
+      "sortIndex": null,
+      "updateId": "fb3723249bf14909a8c85ceb7abc64f1",
+      "updateName": "张可可",
+      "createDate": "2022-06-02T17:22:42.000+0800",
+      "updateDate": "2022-06-27T17:51:49.000+0800",
+      "id": 477,
+      "questionCount": null,
+      "questions": [
+        {
+          "questionId": "6202206021727425",
+          "subjectType": 1,
+          "subjectId": 120220602172241,
+          "questionNavigation": "Question1-10",
+          "questionCount": 10,
+          "questionType": 0,
+          "question": null,
+          "answer": null,
+          "updateId": "6a6bab5f7a814a16b632732f3b07e60d",
+          "updateName": "邓泌",
+          "createDate": "2022-11-03T09:19:16.000+0800",
+          "updateDate": "2022-11-03T09:19:16.000+0800",
+          "checkState": null,
+          "sortIndex": 0,
+          "questionJson": {
+            "questionType": "0",
+            "descriptions": "<p class=\"MsoNormal\"><span style=\"mso-spacerun: 'yes'; font-family: 等线; mso-bidi-font-family: 'Times New Roman'; font-size: 10.5000pt; mso-font-kerning: 1.0000pt;\">Questions 1-10</span></p>\n<p class=\"MsoNormal\"><span style=\"mso-spacerun: 'yes'; font-family: 等线; mso-bidi-font-family: 'Times New Roman'; font-size: 10.5000pt; mso-font-kerning: 1.0000pt;\">Complete the notes below.</span><span style=\"mso-spacerun: 'yes'; font-family: 等线; mso-bidi-font-family: 'Times New Roman'; font-size: 10.5000pt; mso-font-kerning: 1.0000pt;\"><br /></span><span style=\"mso-spacerun: 'yes'; font-family: 等线; mso-bidi-font-family: 'Times New Roman'; font-size: 10.5000pt; mso-font-kerning: 1.0000pt;\">Write ONE WORD AND/OR A NUMBER for each answer.</span></p>",
+            "startIndex": 1,
+            "endIndex": 10,
+            "questionNum": 10,
+            "questionsContent": "<p class=\"MsoNormal\" style=\"text-align: center;\" align=\"center\"><strong><span style=\"font-family: 等线; font-size: 12pt;\">Children's Engineering Workshops</span></strong></p>\n<p><strong>Tiny Engineers (ages 4-5)</strong></p>\n<p>Activities</p>\n<p><span style=\"box-sizing: inherit; font-weight: bold; font-family: arial, 微软雅黑, generic-family; font-size: medium; background-color: #ffffff;\"><span style=\"box-sizing: inherit; font-size: 16px; font-family: Arial;\">&middot;</span></span><span style=\"box-sizing: inherit; font-size: 16px; background-color: #ffffff; font-family: Arial;\"> </span>Create a cover for an ...... so they can drop it from a height without breaking it.</p>\n<p><span style=\"box-sizing: inherit; font-weight: bold; font-family: arial, 微软雅黑, generic-family; font-size: medium; background-color: #ffffff;\"><span style=\"box-sizing: inherit; font-size: 16px; font-family: Arial;\">&middot;</span></span><span style=\"box-sizing: inherit; font-size: 16px; background-color: #ffffff; font-family: Arial;\"> </span>Take part in a competition to build the tallest ......</p>\n<p><span style=\"box-sizing: inherit; font-weight: bold; font-family: arial, 微软雅黑, generic-family; font-size: medium; background-color: #ffffff;\"><span style=\"box-sizing: inherit; font-size: 16px; font-family: Arial;\">&middot;</span></span><span style=\"box-sizing: inherit; font-size: 16px; background-color: #ffffff; font-family: Arial;\"> </span>Make a ...... powered by a balloon.</p>\n<p><strong>Junior Engineers (ages 6-8)</strong></p>\n<p>Activities:</p>\n<span style=\"box-sizing: inherit; font-weight: bold; font-family: arial, 微软雅黑, generic-family; font-size: medium; background-color: #ffffff;\"><span style=\"box-sizing: inherit; font-size: 16px; font-family: Arial;\">&middot;</span></span><span style=\"box-sizing: inherit; font-size: 16px; background-color: #ffffff; font-family: Arial;\"> </span>Build model cars, trucks and ...... and learn how to program them so they can move<br /><span style=\"box-sizing: inherit; font-weight: bold; font-family: arial, 微软雅黑, generic-family; font-size: medium; background-color: #ffffff;\"><span style=\"box-sizing: inherit; font-size: 16px; font-family: Arial;\">&middot;</span></span><span style=\"box-sizing: inherit; font-size: 16px; background-color: #ffffff; font-family: Arial;\"> </span>Take part in a competition to build the longest ...... using card and wood.<br /><span style=\"box-sizing: inherit; font-weight: bold; font-family: arial, 微软雅黑, generic-family; font-size: medium; background-color: #ffffff;\"><span style=\"box-sizing: inherit; font-size: 16px; font-family: Arial;\">&middot;</span></span><span style=\"box-sizing: inherit; font-size: 16px; background-color: #ffffff; font-family: Arial;\"> </span>Create a short ...... with special software.<br /><span style=\"box-sizing: inherit; font-weight: bold; font-family: arial, 微软雅黑, generic-family; font-size: medium; background-color: #ffffff;\"><span style=\"box-sizing: inherit; font-size: 16px; font-family: Arial;\">&middot;</span></span><span style=\"box-sizing: inherit; font-size: 16px; background-color: #ffffff; font-family: Arial;\"> </span>Build,&nbsp; ...... and program a humanoid robot.<br />\n<p>Cost for a five-week block: &pound;50</p>\n<p>Held on ...... from 10am to 11 am</p>\n<p><strong>Location</strong></p>\n<p>Building 10A, ...... Industrial Estate, Grasford</p>\n<p>Plenty of ...... is available.</p>"
+          },
+          "answerJson": [
+            {
+              "explain": "由cover和冠词an可知填egg。",
+              "correctValue": "egg",
+              "sentenceList": [7]
+            },
+            {
+              "explain": "tallest对应highest，故填tower。",
+              "correctValue": "tower",
+              "sentenceList": [9]
+            },
+            {
+              "explain": "make对应design and build，结合冠词a可知填car。",
+              "correctValue": "car",
+              "sentenceList": [12]
+            },
+            {
+              "explain": "also对应and，build对应construct，故填animals。",
+              "correctValue": "animals",
+              "sentenceList": [18]
+            },
+            {
+              "explain": "build原词复现，故填bridge。",
+              "correctValue": "bridge",
+              "sentenceList": [23]
+            },
+            {
+              "explain": "short对应five-minute，答案为名词，故填movie。",
+              "correctValue": "movie/film",
+              "sentenceList": [25]
+            },
+            {
+              "explain": "位于build和program之间的动词为decorate，故填decorate。",
+              "correctValue": "decorate",
+              "sentenceList": [28]
+            },
+            {
+              "explain": "已经把时间改成了周三，故填Wednesdays。",
+              "correctValue": "Wednesdays",
+              "sentenceList": [32]
+            },
+            {
+              "explain": "直接给出答案，按录音写字母即可。",
+              "correctValue": "Fradstone",
+              "sentenceList": [38]
+            },
+            {
+              "explain": "停车没有问题，车位很多，故填parking。",
+              "correctValue": "parking",
+              "sentenceList": [41]
+            }
+          ],
+          "source": null
+        }
+      ],
+      "source": null,
+      "showDetailTitle": null,
+      "taskCount": 0,
+      "useFor": 1,
+      "answerShowFlag": null,
+      "type": 0
+    },
+    {
+      "listeningId": "120220602174239",
+      "topicId": "92",
+      "topicName": "介绍",
+      "part": 2,
+      "listenQuestion": "C16-Test 1-Part 2",
+      "subjectData": {
+        "listenDetailList": [
+          {
+            "englishDetail": "Good morning, everyone, and welcome to Stevenson's, one of the country's major manufacturers of metal goods.",
+            "translateDetail": "大家早上好，欢迎来到史蒂文森公司，这是全国主要的金属制品制造商之一。",
+            "startTime": 51710,
+            "endTime": 58320
+          },
+          {
+            "englishDetail": "Thank you for choosing us for your two weeks of work experience.",
+            "translateDetail": "感谢你们选择我们进行为期两周的工作体验。",
+            "startTime": 58320,
+            "endTime": 62420
+          },
+          {
+            "englishDetail": "My name is Julia Simmons, and since the beginning of this year I've been the managing director.",
+            "translateDetail": "我的名字是朱莉娅-西蒙斯，从今年年初开始，我就是总经理了。",
+            "startTime": 62420,
+            "endTime": 70210
+          },
+          {
+            "englishDetail": "Stevenson's is quite an old company.",
+            "translateDetail": "史蒂文森公司是一个相当古老的公司。",
+            "startTime": 70210,
+            "endTime": 73030
+          },
+          {
+            "englishDetail": "Like me, the founder, Ronald Stevenson, went into the steel industry when he left school - that was in 1923.",
+            "translateDetail": "像我一样，创始人罗纳德-史蒂文森在离开学校时进入了钢铁行业--那是在1923年。",
+            "startTime": 73030,
+            "endTime": 81580
+          },
+          {
+            "englishDetail": "He set up this company when he finished his apprenticeship, in 1926,",
+            "translateDetail": "他在1926年完成学徒期时成立了这家公司，",
+            "startTime": 81580,
+            "endTime": 87010
+          },
+          {
+            "englishDetail": "although he actually started making plans two years earlier, in 1924.",
+            "translateDetail": "尽管他实际上在两年前就开始制定计划，即1924年。",
+            "startTime": 87010,
+            "endTime": 92800
+          },
+          {
+            "englishDetail": "He was a very determined young man!",
+            "translateDetail": "他是一个非常坚定的年轻人。",
+            "startTime": 92800,
+            "endTime": 96640
+          },
+          {
+            "englishDetail": "Stevenson's long-term plan was to manufacture components for the machine tools industry-although in fact that never came about-",
+            "translateDetail": "史蒂文森的长期计划是为机床行业制造零部件--尽管事实上这从未发生过--",
+            "startTime": 96640,
+            "endTime": 105130
+          },
+          {
+            "englishDetail": "and for the automotive industry, that is, cars and lorries.",
+            "translateDetail": "以及为汽车行业，即汽车和卡车制造零部件。",
+            "startTime": 105130,
+            "endTime": 109640
+          },
+          {
+            "englishDetail": "However, there was a delay of five years before that happened,because shortly before the company went into production,",
+            "translateDetail": "然而，在这之前有五年的延迟，因为在公司投入生产前不久，",
+            "startTime": 109640,
+            "endTime": 117710
+          },
+          {
+            "englishDetail": "Stevenson was given the opportunity to make goods for hospitals and other players in the healthcare industry,so that's what we did for the first five years.",
+            "translateDetail": "史蒂文森得到了为医院和医疗保健行业的其他参与者制造商品的机会。所以这就是我们在最初五年所做的事情。",
+            "startTime": 117710,
+            "endTime": 129640
+          },
+          {
+            "englishDetail": "Over the years, we've expanded the premises considerably-we were lucky that the site is big enough,so moving to a new location has never been necessary.",
+            "translateDetail": "多年来，我们大大地扩大了厂房--我们很幸运，场地足够大，所以从来没有必要搬到一个新的地方。",
+            "startTime": 129640,
+            "endTime": 141030
+          },
+          {
+            "englishDetail": "However, the layout is far from ideal for modern machinery and production methods,",
+            "translateDetail": "然而，对于现代机械和生产方法来说，这里的布局远远不够理想，",
+            "startTime": 141030,
+            "endTime": 146510
+          },
+          {
+            "englishDetail": "so we intend to carry out major refurbishment of this site over the next five years.",
+            "translateDetail": "所以我们打算在未来五年内对这个场地进行重大整修。",
+            "startTime": 146510,
+            "endTime": 153680
+          },
+          {
+            "englishDetail": "I'd better give you some idea of what you'll be doing during your two weeks with us,so you know what to expect.",
+            "translateDetail": "我最好给你们一些关于你们在我们这里的两周内会做什么的想法，这样你就知道该做什么。",
+            "startTime": 153680,
+            "endTime": 161830
+          },
+          {
+            "englishDetail": "Most mornings you'll have a presentation from one of the managers, to learn about their department,starting this morning with research and development.",
+            "translateDetail": "大多数早上，你们会有一个经理的介绍，以了解他们的部门，今天早上将以研究和开发作为开始内容。",
+            "startTime": 161830,
+            "endTime": 172600
+          },
+          {
+            "englishDetail": "And you'll all spend some time in each department,",
+            "translateDetail": "你们将在每个部门花一些时间，",
+            "startTime": 172600,
+            "endTime": 175830
+          },
+          {
+            "englishDetail": "observing what's going on and talking to people - as long as you don't stop them from doing their work altogether!",
+            "translateDetail": "观察正在发生的事情，并与人交谈--只要你们不阻止他们做他们的工作就可以了!",
+            "startTime": 175830,
+            "endTime": 183760
+          },
+          {
+            "englishDetail": "In the past, a teacher from your school has come in at the end of each week to find out how the group were getting on,",
+            "translateDetail": "在过去，你们学校的一位老师会在每周结束时来了解小组的进展情况，",
+            "startTime": 183760,
+            "endTime": 191380
+          },
+          {
+            "englishDetail": "but your school isn't able to arrange that this year.",
+            "translateDetail": "但你们学校今年无法安排了。",
+            "startTime": 191380,
+            "endTime": 197380
+          },
+          {
+            "englishDetail": "OK, now I'll briefly help you to orientate yourselves around the site.",
+            "translateDetail": "好的，现在我将简要地帮助你们熟悉周围的情况。",
+            "startTime": 241440,
+            "endTime": 247300
+          },
+          {
+            "englishDetail": "As you can see, we're in the reception area, which we try to make attractive and welcoming to visitors.",
+            "translateDetail": "正如你们所看到的，我们在接待区，我们努力使接待区对来访者具有吸引力和欢迎性。",
+            "startTime": 247300,
+            "endTime": 254850
+          },
+          {
+            "englishDetail": "There's a corridor running left from here,and if you go along that, the door facing you at the end is the entrance to the coffee room.",
+            "translateDetail": "从这里向左走有一条走廊，如果你沿着走廊走，尽头处面向你的那扇门就是咖啡室的入口。",
+            "startTime": 254850,
+            "endTime": 264240
+          },
+          {
+            "englishDetail": "This looks out onto the main road on one side, and some trees on the other, and that'll be where you meet each morning.",
+            "translateDetail": "这里一边是主干道，另一边是一些树木，这将是你们每天早上见面的地方。",
+            "startTime": 264240,
+            "endTime": 273440
+          },
+          {
+            "englishDetail": "The factory is the very big room on the far side of the site.",
+            "translateDetail": "工厂是场地最边上的那个很大的房间。",
+            "startTime": 273440,
+            "endTime": 278340
+          },
+          {
+            "englishDetail": "Next to it is the warehouse, which can be accessed by lorries going up the road to the turning area at the end.",
+            "translateDetail": "旁边是仓库，卡车可以沿着路走到尽头的转弯处进入。",
+            "startTime": 278340,
+            "endTime": 286240
+          },
+          {
+            "englishDetail": "You can get to the warehouse by crossing to the far side of the courtyard, and then the door is on your right.",
+            "translateDetail": "你可以穿过院子的远端到达仓库，然后门就在你的右边。",
+            "startTime": 286240,
+            "endTime": 294010
+          },
+          {
+            "englishDetail": "Somewhere you'll be keen to find is the staff canteen.",
+            "translateDetail": "你会很想找到的地方是员工食堂。",
+            "startTime": 294010,
+            "endTime": 297850
+          },
+          {
+            "englishDetail": "This is right next to reception. I can confidently say that the food's very good, but the view isn't.",
+            "translateDetail": "这就在接待处旁边。我可以自信地说，这里的食物非常好，但风景却不好。",
+            "startTime": 297850,
+            "endTime": 305600
+          },
+          {
+            "englishDetail": "The windows on one side look onto a corridor and courtyard, which aren't very attractive at all,and on the other onto the access road, which isn't much better.",
+            "translateDetail": "一边的窗户看到的是走廊和院子，一点也不吸引人，另一边是通道，也没好多少。",
+            "startTime": 305600,
+            "endTime": 317990
+          },
+          {
+            "englishDetail": "You'll be using the meeting room quite often, and you'll find it by walking along the corridor to the left of the courtyard,and continuing along it to the end.",
+            "translateDetail": "你会经常使用会议室，你可以沿着庭院左边的走廊走，然后继续走到尽头，就能找到它。",
+            "startTime": 317990,
+            "endTime": 330140
+          },
+          {
+            "englishDetail": "The meeting room is the last one on the right,and I'm afraid there's no natural daylight in the room.",
+            "translateDetail": "会议室是右边的最后一间，恐怕房间里没有自然光。",
+            "startTime": 330140,
+            "endTime": 338360
+          },
+          {
+            "englishDetail": "Then you'll need to know where some of the offices are.",
+            "translateDetail": "然后你需要知道一些办公室的位置。",
+            "startTime": 338360,
+            "endTime": 342120
+          },
+          {
+            "englishDetail": "The human resources department is at the front of this building, so you head to the left along the corridor from reception,",
+            "translateDetail": "人力资源部门在这栋楼的前面，所以你从接待处沿着走廊向左走。",
+            "startTime": 342120,
+            "endTime": 350380
+          },
+          {
+            "englishDetail": "and it's the second room you come to. It looks out onto the main road.",
+            "translateDetail": "这是你来到的第二个房间。从这儿可以看到主路。",
+            "startTime": 350380,
+            "endTime": 356410
+          },
+          {
+            "englishDetail": "And finally, the boardroom, where you'll be meeting sometimes.",
+            "translateDetail": "最后是会议室，你们有时会在这里开会。",
+            "startTime": 356410,
+            "endTime": 360440
+          },
+          {
+            "englishDetail": "That has quite a pleasant view, as it looks out on to the trees.",
+            "translateDetail": "这间房的风景相当不错，因为它可以看到树木。",
+            "startTime": 360440,
+            "endTime": 365030
+          },
+          {
+            "englishDetail": "Go along the corridor past the courtyard, right to the end.",
+            "translateDetail": "沿着走廊经过院子，一直走到尽头。",
+            "startTime": 365030,
+            "endTime": 369440
+          },
+          {
+            "englishDetail": "The boardroom is on the left, next to the factory.",
+            "translateDetail": "董事会办公室在左边，紧挨着工厂。",
+            "startTime": 369440,
+            "endTime": 373630
+          },
+          {
+            "englishDetail": "OK, now are there any questions before we ...",
+            "translateDetail": "好了，现在有什么问题吗，在我们...",
+            "startTime": 373630,
+            "endTime": 380630
+          }
+        ]
+      },
+      "listenContent": "<div>Good morning, everyone, and welcome to Stevenson's, one of the country's major manufacturers of metal goods. Thank you for choosing us for your two weeks of work experience. My name is Julia Simmons, and since the beginning of this year I've been the managing director.</div>\n<div>&nbsp;</div>\n<div>Stevenson's is quite an old company. Like me, the founder, Ronald Stevenson, went into the steel industry when he left school - that was in 1923. He set up this company when he finished his apprenticeship, in 1926, although he actually started making plans two years earlier, in 1924. He was a very determined young man!</div>\n<div>&nbsp;</div>\n<div>Stevenson's long-term plan was to manufacture components for the machine tools industry-although in fact that never came about - and for the automotive industry, that is, cars and lorries. However, there was a delay of five years before that happened,because shortly before the company went into production, Stevenson was given the opportunity to make goods for hospitals and other players in the healthcare industry,so that's what we did for the first five years.</div>\n<div>&nbsp;</div>\n<div>Over the years, we've expanded the premises considerably-we were lucky that the site is big enough,so moving to a new location has never been necessary. However, the layout is far from ideal for modern machinery and production methods, so we intend to carry out major refurbishment of this site over the next five years.</div>\n<div>&nbsp;</div>\n<div>I'd better give you some idea of what you'll be doing during your two weeks with us,so you know what to expect. Most mornings you'll have a presentation from one of the managers, to learn about their department,starting this morning with research and development. And you'll all spend some time in each department, observing what's going on and talking to people - as long as you don't stop them from doing their work altogether! In the past, a teacher from your school has come in at the end of each week to find out how the group were getting on, but your school isn't able to arrange that this year.</div>\n<div>&nbsp;</div>\n<div>OK, now I'll briefly help you to orientate yourselves around the site. As you can see, we're in the reception area, which we try to make attractive and welcoming to visitors. There's a corridor running left from here,and if you go along that, the door facing you at the end is the entrance to the coffee room. This looks out onto the main road on one side, and some trees on the other, and that'll be where you meet each morning. <br /><br />The factory is the very big room on the far side of the site. Next to it is the warehouse, which can be accessed by lorries going up the road to the turning area at the end. You can get to the warehouse by crossing to the far side of the courtyard, and then the door is on your right.</div>\n<div>&nbsp;</div>\n<div>Somewhere you'll be keen to find is the staff canteen. This is right next to reception. I can confidently say that the food's very good, but the view isn't. The windows on one side look onto a corridor and courtyard, which aren't very attractive at all,and on the other onto the access road, which isn't much better.</div>\n<div>&nbsp;</div>\n<div>You'll be using the meeting room quite often, and you'll find it by walking along the corridor to the left of the courtyard,and continuing along it to the end. The meeting room is the last one on the right,and I'm afraid there's no natural daylight in the room.</div>\n<div>&nbsp;</div>\n<div>Then you'll need to know where some of the offices are. The human resources department is at the front of this building, so you head to the left along the corridor from reception, and it's the second room you come to. It looks out onto the main road.</div>\n<div>&nbsp;</div>\n<div>And finally, the boardroom, where you'll be meeting sometimes. That has quite a pleasant view, as it looks out on to the trees. Go along the corridor past the courtyard, right to the end. The boardroom is on the left, next to the factory.</div>\n<div>&nbsp;</div>\n<div>OK, now are there any questions before we ...</div>",
+      "listenDetail": "[00:51.71]Good morning, everyone, and welcome to Stevenson's, one of the country's major manufacturers of metal goods.##大家早上好，欢迎来到史蒂文森公司，这是全国主要的金属制品制造商之一。\n[00:58.32]Thank you for choosing us for your two weeks of work experience.##感谢你们选择我们进行为期两周的工作体验。\n[01:02.42]My name is Julia Simmons, and since the beginning of this year I've been the managing director.##我的名字是朱莉娅-西蒙斯，从今年年初开始，我就是总经理了。\n[01:10.21]Stevenson's is quite an old company.##史蒂文森公司是一个相当古老的公司。\n[01:13.03]Like me, the founder, Ronald Stevenson, went into the steel industry when he left school - that was in 1923.##像我一样，创始人罗纳德-史蒂文森在离开学校时进入了钢铁行业--那是在1923年。\n[01:21.58]He set up this company when he finished his apprenticeship, in 1926,##他在1926年完成学徒期时成立了这家公司，\n[01:27.01]although he actually started making plans two years earlier, in 1924.##尽管他实际上在两年前就开始制定计划，即1924年。\n[01:32.80]He was a very determined young man!##他是一个非常坚定的年轻人。\n[01:36.64]Stevenson's long-term plan was to manufacture components for the machine tools industry-although in fact that never came about-##史蒂文森的长期计划是为机床行业制造零部件--尽管事实上这从未发生过--\n[01:45.13]and for the automotive industry, that is, cars and lorries.##以及为汽车行业，即汽车和卡车制造零部件。\n[01:49.64]However, there was a delay of five years before that happened,because shortly before the company went into production,##然而，在这之前有五年的延迟，因为在公司投入生产前不久，\n[01:57.71]Stevenson was given the opportunity to make goods for hospitals and other players in the healthcare industry,so that's what we did for the first five years.##史蒂文森得到了为医院和医疗保健行业的其他参与者制造商品的机会。所以这就是我们在最初五年所做的事情。\n[02:09.64]Over the years, we've expanded the premises considerably-we were lucky that the site is big enough,so moving to a new location has never been necessary.##多年来，我们大大地扩大了厂房--我们很幸运，场地足够大，所以从来没有必要搬到一个新的地方。\n[02:21.03]However, the layout is far from ideal for modern machinery and production methods,##然而，对于现代机械和生产方法来说，这里的布局远远不够理想，\n[02:26.51]so we intend to carry out major refurbishment of this site over the next five years.##所以我们打算在未来五年内对这个场地进行重大整修。\n[02:33.68]I'd better give you some idea of what you'll be doing during your two weeks with us,so you know what to expect.##我最好给你们一些关于你们在我们这里的两周内会做什么的想法，这样你就知道该做什么。\n[02:41.83]Most mornings you'll have a presentation from one of the managers, to learn about their department,starting this morning with research and development.##大多数早上，你们会有一个经理的介绍，以了解他们的部门，今天早上将以研究和开发作为开始内容。\n[02:52.60]And you'll all spend some time in each department,##你们将在每个部门花一些时间，\n[02:55.83]observing what's going on and talking to people - as long as you don't stop them from doing their work altogether!##观察正在发生的事情，并与人交谈--只要你们不阻止他们做他们的工作就可以了! \n[03:03.76]In the past, a teacher from your school has come in at the end of each week to find out how the group were getting on,##在过去，你们学校的一位老师会在每周结束时来了解小组的进展情况，\n[03:11.38]but your school isn't able to arrange that this year.##但你们学校今年无法安排了。\n[03:17.38]\n[04:01.44]OK, now I'll briefly help you to orientate yourselves around the site.##好的，现在我将简要地帮助你们熟悉周围的情况。\n[04:07.30]As you can see, we're in the reception area, which we try to make attractive and welcoming to visitors.##正如你们所看到的，我们在接待区，我们努力使接待区对来访者具有吸引力和欢迎性。\n[04:14.85]There's a corridor running left from here,and if you go along that, the door facing you at the end is the entrance to the coffee room.##从这里向左走有一条走廊，如果你沿着走廊走，尽头处面向你的那扇门就是咖啡室的入口。\n[04:24.24]This looks out onto the main road on one side, and some trees on the other, and that'll be where you meet each morning.##这里一边是主干道，另一边是一些树木，这将是你们每天早上见面的地方。\n[04:33.44]The factory is the very big room on the far side of the site.##工厂是场地最边上的那个很大的房间。\n[04:38.34]Next to it is the warehouse, which can be accessed by lorries going up the road to the turning area at the end.##旁边是仓库，卡车可以沿着路走到尽头的转弯处进入。\n[04:46.24]You can get to the warehouse by crossing to the far side of the courtyard, and then the door is on your right.##你可以穿过院子的远端到达仓库，然后门就在你的右边。\n[04:54.01]Somewhere you'll be keen to find is the staff canteen.##你会很想找到的地方是员工食堂。\n[04:57.85]This is right next to reception. I can confidently say that the food's very good, but the view isn't.##这就在接待处旁边。我可以自信地说，这里的食物非常好，但风景却不好。\n[05:05.60]The windows on one side look onto a corridor and courtyard, which aren't very attractive at all,and on the other onto the access road, which isn't much better.##一边的窗户看到的是走廊和院子，一点也不吸引人，另一边是通道，也没好多少。\n[05:17.99]You'll be using the meeting room quite often, and you'll find it by walking along the corridor to the left of the courtyard,and continuing along it to the end.##你会经常使用会议室，你可以沿着庭院左边的走廊走，然后继续走到尽头，就能找到它。\n[05:30.14]The meeting room is the last one on the right,and I'm afraid there's no natural daylight in the room.##会议室是右边的最后一间，恐怕房间里没有自然光。\n[05:38.36]Then you'll need to know where some of the offices are.##然后你需要知道一些办公室的位置。\n[05:42.12]The human resources department is at the front of this building, so you head to the left along the corridor from reception,##人力资源部门在这栋楼的前面，所以你从接待处沿着走廊向左走。\n[05:50.38]and it's the second room you come to. It looks out onto the main road.##这是你来到的第二个房间。从这儿可以看到主路。\n[05:56.41]And finally, the boardroom, where you'll be meeting sometimes.##最后是会议室，你们有时会在这里开会。\n[06:00.44]That has quite a pleasant view, as it looks out on to the trees.##这间房的风景相当不错，因为它可以看到树木。\n[06:05.03]Go along the corridor past the courtyard, right to the end.##沿着走廊经过院子，一直走到尽头。\n[06:09.44]The boardroom is on the left, next to the factory.##董事会办公室在左边，紧挨着工厂。\n[06:13.63]OK, now are there any questions before we ...##好了，现在有什么问题吗，在我们...\n[06:20.63]",
+      "audioUrl": "https://static.ieltsbro.com/section/audio_file/1654162939745.mp3",
+      "seconds": 416,
+      "difficulty": 1,
+      "status": 0,
+      "answerCharge": 0,
+      "averageTimeSpent": null,
+      "averageAccuracyRate": null,
+      "exercisesCount": null,
+      "sortIndex": null,
+      "updateId": "170fb551b1f64a489fefca0222770170",
+      "updateName": "朱宁",
+      "createDate": "2022-06-02T17:42:40.000+0800",
+      "updateDate": "2024-01-23T14:09:09.000+0800",
+      "id": 478,
+      "questionCount": null,
+      "questions": [
+        {
+          "questionId": "6202206021756330",
+          "subjectType": 1,
+          "subjectId": 120220602174239,
+          "questionNavigation": "Question11-14",
+          "questionCount": 4,
+          "questionType": 1,
+          "question": null,
+          "answer": null,
+          "updateId": "170fb551b1f64a489fefca0222770170",
+          "updateName": "朱宁",
+          "createDate": "2024-01-23T14:09:09.000+0800",
+          "updateDate": "2024-01-23T14:09:09.000+0800",
+          "checkState": null,
+          "sortIndex": 0,
+          "questionJson": {
+            "questionType": "1",
+            "descriptions": "<p class=\"MsoNormal\"><span style=\"mso-spacerun: 'yes'; font-family: 等线; mso-bidi-font-family: 'Times New Roman'; font-size: 10.5000pt; mso-font-kerning: 1.0000pt;\">PART 2</span><span style=\"mso-spacerun: 'yes'; font-family: 等线; mso-bidi-font-family: 'Times New Roman'; font-size: 10.5000pt; mso-font-kerning: 1.0000pt;\">&nbsp;</span><span style=\"mso-spacerun: 'yes'; font-family: 等线; mso-bidi-font-family: 'Times New Roman'; font-size: 10.5000pt; mso-font-kerning: 1.0000pt;\">Questions 11-20</span></p>\n<p class=\"MsoNormal\"><span style=\"mso-spacerun: 'yes'; font-family: 等线; mso-bidi-font-family: 'Times New Roman'; font-size: 10.5000pt; mso-font-kerning: 1.0000pt;\">Questions 11-14</span></p>\n<p class=\"MsoNormal\"><span style=\"mso-spacerun: 'yes'; font-family: 等线; mso-bidi-font-family: 'Times New Roman'; font-size: 10.5000pt; mso-font-kerning: 1.0000pt;\">Choose the correct letter, A, B or C.</span></p>",
+            "startIndex": 11,
+            "endIndex": 14,
+            "questions": [
+              {
+                "number": 1,
+                "content": "Stevenson's was founded in",
+                "options": [
+                  {
+                    "content": "1923."
+                  },
+                  {
+                    "content": "1924."
+                  },
+                  {
+                    "content": "1926."
+                  }
+                ]
+              },
+              {
+                "number": 1,
+                "content": "Originally, Stevenson's manufactured goods for",
+                "options": [
+                  {
+                    "content": " the healthcare industry."
+                  },
+                  {
+                    "content": "the automotive industry."
+                  },
+                  {
+                    "content": "the machine tools industry."
+                  }
+                ]
+              },
+              {
+                "number": 1,
+                "content": "What does the speaker say about the company premises?",
+                "options": [
+                  {
+                    "content": " The company has recently moved."
+                  },
+                  {
+                    "content": "The company has no plans to move."
+                  },
+                  {
+                    "content": "The company is going to move shortly."
+                  }
+                ]
+              },
+              {
+                "number": 1,
+                "content": "The programme for the work experience group includes",
+                "options": [
+                  {
+                    "content": "time to do research."
+                  },
+                  {
+                    "content": "meetings with a teacher."
+                  },
+                  {
+                    "content": "talks by staff."
+                  }
+                ]
+              }
+            ],
+            "questionNum": 4
+          },
+          "answerJson": [
+            {
+              "correctValue": 2,
+              "explain": "1926年创立了公司，set up对应be founded，故C。",
+              "sentenceList": [6]
+            },
+            {
+              "correctValue": 0,
+              "explain": "first five years对应originally，故A。",
+              "sentenceList": [12]
+            },
+            {
+              "correctValue": 1,
+              "explain": "公司够大，不用搬，故B。",
+              "sentenceList": [13, 15]
+            },
+            {
+              "correctValue": 2,
+              "explain": "talks对应presentation，staff对应managers，故C。",
+              "sentenceList": [17]
+            }
+          ],
+          "source": null
+        },
+        {
+          "questionId": "6202211011131088",
+          "subjectType": 1,
+          "subjectId": 120220602174239,
+          "questionNavigation": "Question15-20",
+          "questionCount": 6,
+          "questionType": 0,
+          "question": null,
+          "answer": null,
+          "updateId": "170fb551b1f64a489fefca0222770170",
+          "updateName": "朱宁",
+          "createDate": "2024-01-23T14:09:09.000+0800",
+          "updateDate": "2024-01-23T14:09:09.000+0800",
+          "checkState": null,
+          "sortIndex": 1,
+          "questionJson": {
+            "questionType": "0",
+            "descriptions": "<p>Questions15 - 20</p>\n<div>\n<p>Label the map below.&nbsp;</p>\n<p>Write the correct letter,&nbsp;<strong>A-J</strong>,&nbsp;next to Questions 15-20.</p>\n</div>",
+            "startIndex": 15,
+            "endIndex": 20,
+            "questionNum": 6,
+            "questionsContent": "<br /><img style=\"max-width: 100%; display: block;\" src=\"https://static.ieltsbro.com/uploads/prod/study_abroad/school/1705990137839.png\" width=\"348\" height=\"412\" /><br />\n<div>&nbsp;</div>\n<div>15 coffee room &nbsp;......<br />16 warehouse ......<br />17 staff canteen ......<br />18 meeting room ......<br />19 human resources ......<br />20 boardroom ......</div>"
+          },
+          "answerJson": [
+            {
+              "correctValue": "H",
+              "explain": "<p>从接待处沿着左边走廊走，走廊尽头正对着人的是咖啡屋，故H。</p>",
+              "sentenceList": [24, 25]
+            },
+            {
+              "correctValue": "C",
+              "explain": "<p class=\"MsoNormal\">仓库在工厂旁边，卡车沿着道路往上，尽头的拐角处就是，故C。</p>",
+              "sentenceList": [26, 27, 28]
+            },
+            {
+              "correctValue": "G",
+              "explain": "<p>食堂在接待处旁边，一侧的对着走廊和庭院，一侧对着access road，故G。</p>",
+              "sentenceList": [30, 31]
+            },
+            {
+              "correctValue": "B",
+              "explain": "<p class=\"MsoNormal\">起点在庭院左侧走廊，会议室在走廊尽头右边，故B。</p>",
+              "sentenceList": [32, 33]
+            },
+            {
+              "correctValue": "I",
+              "explain": "<p>人力资源在建筑物的前部，从接待处往左，遇到的第二个房间即是，故I。</p>",
+              "sentenceList": [35, 36]
+            },
+            {
+              "correctValue": "A",
+              "explain": "<p class=\"MsoNormal\">会议室朝着树木，沿走廊经过院子到尽头，会议室在左边，紧靠工厂，故A。</p>",
+              "sentenceList": [38, 39, 40]
+            }
+          ],
+          "source": null
+        }
+      ],
+      "source": null,
+      "showDetailTitle": null,
+      "taskCount": 0,
+      "useFor": 1,
+      "answerShowFlag": null,
+      "type": 0
+    },
+    {
+      "listeningId": "120220606102728",
+      "topicId": "93",
+      "topicName": "讨论",
+      "part": 3,
+      "listenQuestion": "C16-Test 1-Part 3",
+      "subjectData": {
+        "listenDetailList": [
+          {
+            "englishDetail": "How are you getting on with your art project, Tom?",
+            "translateDetail": "汤姆，你的艺术项目进展如何？",
+            "startTime": 40760,
+            "endTime": 43610
+          },
+          {
+            "englishDetail": "OK. Like, they gave us the theme of birds to base our project on, and I'm not really all that interested in wildlife. ",
+            "translateDetail": "好的。是这样的，他们给了我们鸟类的主题作为我们项目的基础，而我对野生动物并不是很感兴趣。",
+            "startTime": 43610,
+            "endTime": 52040
+          },
+          {
+            "englishDetail": "But I'm starting to get into it. I've pretty well finished the introductory stage.",
+            "translateDetail": "但我已经开始着手了。我已经很好地完成了入门阶段。",
+            "startTime": 52040,
+            "endTime": 57080
+          },
+          {
+            "englishDetail": " So have I. When they gave us all those handouts with details of books and websites to look at,I was really put off,",
+            "translateDetail": "我也是。当他们给我们所有那些关于书籍和网站的详细资料时，我真的被劝退了，",
+            "startTime": 57080,
+            "endTime": 65200
+          },
+          {
+            "englishDetail": "but the more I read, the more interested I got.",
+            "translateDetail": "但是我读得越多，我就越感兴趣。",
+            "startTime": 65200,
+            "endTime": 68190
+          },
+          {
+            "englishDetail": " Me too. I found I could research so many different aspects of birds in art-colour, movement, texture. ",
+            "translateDetail": "我也是。我发现我可以从艺术的角度研究鸟类的许多不同方面——颜色、运动和质地。",
+            "startTime": 68190,
+            "endTime": 76420
+          },
+          {
+            "englishDetail": "So I was looking forward to the Bird Park visit.",
+            "translateDetail": "所以我很期待参观鸟类公园。",
+            "startTime": 76420,
+            "endTime": 79570
+          },
+          {
+            "englishDetail": "What a letdown! It poured with rain and we hardly saw a single bird. ",
+            "translateDetail": "真让人失望！倾盆大雨，我们几乎看不到一只鸟。",
+            "startTime": 79570,
+            "endTime": 85950
+          },
+          {
+            "englishDetail": "Much less use than the trip to the Natural History Museum,",
+            "translateDetail": "比去自然历史博物馆少了很多价值。",
+            "startTime": 85950,
+            "endTime": 89240
+          },
+          {
+            "englishDetail": " Yeah. I liked all the stuff about evolution there.The workshop sessions with Dr Fletcher were good too, especially the brainstorming sessions.",
+            "translateDetail": "是啊。我喜欢那里所有关于进化的东西。与弗莱彻博士的研讨会也很好，特别是头脑风暴会议。",
+            "startTime": 89240,
+            "endTime": 98730
+          },
+          {
+            "englishDetail": "Ah I missed those because I was ill. I wish we could've seen the projects last year's students did.",
+            "translateDetail": "我错过那些是因为我病了。我真希望我们能看到去年学生做的项目。",
+            "startTime": 98730,
+            "endTime": 105240
+          },
+          {
+            "englishDetail": "Mm. I suppose they want us to do our own thing, not copy.",
+            "translateDetail": "嗯。我想他们想让我们做出自己的东西，而不是模仿。",
+            "startTime": 105240,
+            "endTime": 109810
+          },
+          {
+            "englishDetail": "Have you drafted your proposal yet?",
+            "translateDetail": "你的提案起草好了吗？",
+            "startTime": 109810,
+            "endTime": 112010
+          },
+          {
+            "englishDetail": " Yes, but I haven't handed it in. I need to amend some parts. ",
+            "translateDetail": "是的，但我还没交。我需要修改一些部分。",
+            "startTime": 112010,
+            "endTime": 117430
+          },
+          {
+            "englishDetail": "I've realised the notes from my research are almost all just descriptions,I haven't actually evaluated anything. So I'll have to fix that.",
+            "translateDetail": "我已经意识到我的研究笔记几乎都是描述，我没有真正评估过任何东西。所以我得解决这个问题。",
+            "startTime": 117430,
+            "endTime": 126540
+          },
+          {
+            "englishDetail": "Oh, I didn't know we had to do that. I'll have to look at that too.",
+            "translateDetail": "我不知道我们还得这么做。这个我也得看看。",
+            "startTime": 126540,
+            "endTime": 132200
+          },
+          {
+            "englishDetail": "Did you do a timeline for the project?",
+            "translateDetail": "你为这个项目制定时间表了吗?",
+            "startTime": 132200,
+            "endTime": 134520
+          },
+          {
+            "englishDetail": " Yes, and a mind map.",
+            "translateDetail": "是的，还有思维导图。",
+            "startTime": 134520,
+            "endTime": 136380
+          },
+          {
+            "englishDetail": "Yeah, so did I. I quite enjoyed that.But it was hard having to explain the basis for my decisions in my action plan.",
+            "translateDetail": "是啊，我也是，我很喜欢。但我很难解释我在行动计划中做出决定的依据。",
+            "startTime": 136380,
+            "endTime": 144890
+          },
+          {
+            "englishDetail": "What?",
+            "translateDetail": "什么？",
+            "startTime": 144890,
+            "endTime": 145540
+          },
+          {
+            "englishDetail": "You know, give a rationale.",
+            "translateDetail": "你知道的，给出一个理由。",
+            "startTime": 145540,
+            "endTime": 147680
+          },
+          {
+            "englishDetail": "I didn't realise we had to do that. OK, I can add it now. ",
+            "translateDetail": "我不知道我们必须这么做。好的，我可以现在加上去。",
+            "startTime": 147680,
+            "endTime": 153330
+          },
+          {
+            "englishDetail": "And I've done the video diary presentation, and worked out what I want my outcome to be in the project.",
+            "translateDetail": "我已经完成了视频日记的演示，并且弄清楚了我想在这个项目中得到的结果。",
+            "startTime": 153330,
+            "endTime": 160370
+          },
+          {
+            "englishDetail": "Someone told me it's best not to be too precise about your actual outcome at this stage,so you have more scope to explore your ideas later on. ",
+            "translateDetail": "有人告诉我，在这个阶段最好不要太精确你的实际结果，这样你以后就有更多的空间去探索你的想法。",
+            "startTime": 160370,
+            "endTime": 169650
+          },
+          {
+            "englishDetail": "So I'm going to go back to my proposal to make it a bit more vague.",
+            "translateDetail": "所以我要回到我的提议，让它更模糊一点。",
+            "startTime": 169650,
+            "endTime": 173700
+          },
+          {
+            "englishDetail": "Really? OK, I'll change that too then.",
+            "translateDetail": "真的吗?好的。那我也改一下。",
+            "startTime": 173700,
+            "endTime": 179380
+          },
+          {
+            "englishDetail": "One part of the project I'm unsure about is where we choose some paintings of birds and say what they mean to us. ",
+            "translateDetail": "这个项目有一部分我不确定，那就是我们从哪里选择一些鸟的图画来表达他们对我们意味着什么。",
+            "startTime": 223840,
+            "endTime": 230760
+          },
+          {
+            "englishDetail": "Like, I chose a painting of a falcon by Landseer. I like it because the bird's standing there with his head turned to one side, ",
+            "translateDetail": "比如，我选了一幅兰西尔的猎鹰画。我喜欢它是因为那只鸟站在那里，头转向一边，",
+            "startTime": 230760,
+            "endTime": 239110
+          },
+          {
+            "englishDetail": "but he seems to be staring straight at you. But I can't just say it's a bit scary, can I?",
+            "translateDetail": "但它似乎在直直地盯着你。但我不能只是说这有点吓人，对吧?",
+            "startTime": 239110,
+            "endTime": 247450
+          },
+          {
+            "englishDetail": "You could talk about the possible danger suggested by the bird's look.",
+            "translateDetail": "你可以谈谈鸟的外表可能暗示的危险。",
+            "startTime": 247450,
+            "endTime": 252260
+          },
+          {
+            "englishDetail": "Oh, OK.",
+            "translateDetail": "噢,好的。",
+            "startTime": 252260,
+            "endTime": 254300
+          },
+          {
+            "englishDetail": "There's a picture of a fish hawk by Audubon I like.",
+            "translateDetail": "我喜欢奥杜邦的一幅鱼鹰画。",
+            "startTime": 254300,
+            "endTime": 258520
+          },
+          {
+            "englishDetail": "It's swooping over the water with a fish in its talons,and with great black wings which take up most of the picture.",
+            "translateDetail": "它的爪子里夹着一条鱼在水面上猛扑过来，黑色的大翅膀占据了大部分画面。",
+            "startTime": 258520,
+            "endTime": 266800
+          },
+          {
+            "englishDetail": "So you could discuss it in relation to predators and food chains?",
+            "translateDetail": "所以你可以把它和捕食者与食物链联系起来讨论?",
+            "startTime": 266800,
+            "endTime": 271440
+          },
+          {
+            "englishDetail": "Well actually I think I'll concentrate on the impression of rapid motion it gives.",
+            "translateDetail": "实际上，我想我会专注于它给人的动作迅速的印象。",
+            "startTime": 271440,
+            "endTime": 276600
+          },
+          {
+            "englishDetail": "Right.",
+            "translateDetail": "没错。",
+            "startTime": 276600,
+            "endTime": 277870
+          },
+          {
+            "englishDetail": "Do you know that picture of a kingfisher by van Gogh-it's perching on a reed growing near a stream.",
+            "translateDetail": "你知道梵高画的翠鸟吗?它栖息在小溪附近的芦苇上。",
+            "startTime": 277870,
+            "endTime": 284210
+          },
+          {
+            "englishDetail": "Yes it's got these beautiful blue and red and black shades.",
+            "translateDetail": "是的，它有这些漂亮的蓝色、红色和黑色阴影。",
+            "startTime": 284210,
+            "endTime": 288820
+          },
+          {
+            "englishDetail": "Mm hm.I've actually chosen it because I saw a real kingfisher once when I was little,I was out walking with my grandfather,and I've never forgotten it.",
+            "translateDetail": "嗯嗯。我之所以选择这只翠鸟，是因为我小时候和祖父一起出去散步时看到过一只真正的翠鸟，我从未忘记过它。",
+            "startTime": 288820,
+            "endTime": 299700
+          },
+          {
+            "englishDetail": "So we can use a personal link?",
+            "translateDetail": "所以我们可以用个人联系吗?",
+            "startTime": 299700,
+            "endTime": 302090
+          },
+          {
+            "englishDetail": "Sure.",
+            "translateDetail": "当然。",
+            "startTime": 302090,
+            "endTime": 302680
+          },
+          {
+            "englishDetail": "OK. There's a portrait called William Wells, I can't remember the artist but it's a middle-aged man who’s just shot a bird.",
+            "translateDetail": "好的。有一幅画像叫威廉·威尔斯，我不记得是谁画的了，是一个中年男子，他刚射中了一只鸟。",
+            "startTime": 302680,
+            "endTime": 312350
+          },
+          {
+            "englishDetail": "And his expression, and the way he's holding the bird in his hand suggests he's not sure about what he's done. ",
+            "translateDetail": "他的表情，他手里捉着鸟的方式表明他不确定自己做了什么。",
+            "startTime": 312350,
+            "endTime": 319950
+          },
+          {
+            "englishDetail": "To me it's about how ambiguous people are in the way they exploit the natural world.",
+            "translateDetail": "对我来说，它是关于人们在开发自然世界的过程中是如何模棱两可的。",
+            "startTime": 319950,
+            "endTime": 326290
+          },
+          {
+            "englishDetail": "Interesting. There's Gauguin's picture Vairumati. He did it in Tahiti. ",
+            "translateDetail": "有趣。这是高更的画Vairumati。他在塔希提岛完成的。",
+            "startTime": 326290,
+            "endTime": 332730
+          },
+          {
+            "englishDetail": "It's a woman with a white bird behind her that is eating a lizard,and what I'm interested in is what idea this bird refers to. ",
+            "translateDetail": "画的是一个女人身后有一只白色的鸟正在吃一只蜥蜴，我感兴趣的是这只鸟表达的是什么想法。",
+            "startTime": 332730,
+            "endTime": 342910
+          },
+          {
+            "englishDetail": "Apparently, it's a reference to the never-ending cycle of existence.",
+            "translateDetail": "显然，它指的是永不停止的循环的存在。",
+            "startTime": 342910,
+            "endTime": 347100
+          },
+          {
+            "englishDetail": "Wow. I chose a portrait of a little boy. Giovanni de Medici. ",
+            "translateDetail": "哇。我选了一幅小男孩的肖像，乔瓦尼·德·美第奇。",
+            "startTime": 347100,
+            "endTime": 352630
+          },
+          {
+            "englishDetail": "He's holding a tiny bird in one fist, I like the way he's holding it carefully so he doesn't hurt it.",
+            "translateDetail": "他一只手捧着一只小鸟。我喜欢他小心地拿着它，这样就不会弄伤它了。",
+            "startTime": 352630,
+            "endTime": 360200
+          },
+          {
+            "englishDetail": "Ah right.",
+            "translateDetail": "对的。",
+            "startTime": 360200,
+            "endTime": 366550
+          }
+        ]
+      },
+      "listenContent": "<div>JESS: How are you getting on with your art project, Tom?</div>\n<div>&nbsp;</div>\n<div>TOM: OK. Like, they gave us the theme of birds to base our project on, and I'm not really all that interested in wildlife. But I'm starting to get into it. I've pretty well finished the introductory stage.</div>\n<div>&nbsp;</div>\n<div>JESS: So have I. When they gave us all those handouts with details of books and websites to look at,I was really put off, but the more I read, the more interested I got.</div>\n<div>&nbsp;</div>\n<div>TOM: Me too. I found I could research so many different aspects of birds in art-colour, movement, texture.&nbsp;So I was looking forward to the Bird Park visit.</div>\n<div>&nbsp;</div>\n<div>JESS: What a letdown! It poured with rain and we hardly saw a single bird.&nbsp;Much less use than the trip to the Natural History Museum.</div>\n<div>&nbsp;</div>\n<div>TOM: Yeah. I liked all the stuff about evolution there.The workshop sessions with Dr Fletcher were good too, especially the brainstorming sessions.</div>\n<div>&nbsp;</div>\n<div>JESS: I missed those because I was ill. I wish we could've seen the projects last year's students did.</div>\n<div>&nbsp;</div>\n<div>TOM: Mm. I suppose they want us to do our own thing, not copy.</div>\n<div>&nbsp;</div>\n<div>JESS:Have you drafted your proposal yet?</div>\n<div>&nbsp;</div>\n<div>TOM: Yes, but I haven't handed it in. I need to amend some parts.&nbsp;I've realised the notes from my research are almost all just descriptions,I haven't actually evaluated anything. So I'll have to fix that.</div>\n<div><br />JESS:Oh, I didn't know we had to do that. I'll have to look at that too. Did you do a timeline for the project?</div>\n<div>&nbsp;</div>\n<div>TOM: Yes, and a mind map.</div>\n<div>&nbsp;</div>\n<div>JESS:Yeah, so did I. I quite enjoyed that.But it was hard having to explain the basis for my decisions in my action plan.</div>\n<div>&nbsp;</div>\n<div>TOM:What?</div>\n<div>&nbsp;</div>\n<div>JESS:You know, give a rationale.</div>\n<div>&nbsp;</div>\n<div>TOM:I didn't realise we had to do that. OK, I can add it now.&nbsp;And I've done the video diary presentation, and worked out what I want my outcome to be in the project.</div>\n<div>&nbsp;</div>\n<div>JESS:Someone told me it's best not to be too precise about your actual outcome at this stage,so you have more scope to explore your ideas later on.&nbsp;So I'm going to go back to my proposal to make it a bit more vague.</div>\n<div>&nbsp;</div>\n<div>TOM:Really? OK, I'll change that too then.</div>\n<div><br />TOM:One part of the project I'm unsure about is where we choose some paintings of birds and say what they mean to us.&nbsp;Like, I chose a painting of a falcon by Landseer. I like it because the bird's standing there with his head turned to one side,&nbsp;but he seems to be staring straight at you. But I can't just say it's a bit scary, can I?</div>\n<div>&nbsp;</div>\n<div>JESS:You could talk about the possible danger suggested by the bird's look.</div>\n<div>&nbsp;</div>\n<div>TOM:Oh, OK.</div>\n<div>&nbsp;</div>\n<div>JESS:There's a picture of a fish hawk by Audubon I like. It's swooping over the water with a fish in its talons,and with great black wings which take up most of the picture.</div>\n<div>&nbsp;</div>\n<div>TOM:So you could discuss it in relation to predators and food chains?</div>\n<div>&nbsp;</div>\n<div>JESS:Well actually I think I'll concentrate on the impression of rapid motion it gives.</div>\n<div>&nbsp;</div>\n<div>TOM:Right.</div>\n<div>&nbsp;</div>\n<div>JESS:Do you know that picture of a kingfisher by van Gogh-it's perching on a reed growing near a stream.</div>\n<div>&nbsp;</div>\n<div>TOM:Yes it's got these beautiful blue and red and black shades.</div>\n<div>&nbsp;</div>\n<div>JESS:Mm hm.I've actually chosen it because I saw a real kingfisher once when I was little,I was out walking with my grandfather,and I've never forgotten it.</div>\n<div>&nbsp;</div>\n<div>TOM:So we can use a personal link?</div>\n<div>&nbsp;</div>\n<div>JESS:Sure.</div>\n<div>&nbsp;</div>\n<div>TOM:OK. There's a portrait called William Wells, I can't remember the artist but it's a middle-aged man who&rsquo;s just shot a bird. And his expression, and the way he's holding the bird in his hand suggests he's not sure about what he's done.&nbsp;To me it's about how ambiguous people are in the way they exploit the natural world.</div>\n<div>&nbsp;</div>\n<div>JESS:Interesting. There's Gauguin's picture Vairumati. He did it in Tahiti.&nbsp;It's a woman with a white bird behind her that is eating a lizard,and what I'm interested in is what idea this bird refers to.&nbsp;Apparently, it's a reference to the never-ending cycle of existence.</div>\n<div>&nbsp;</div>\n<div>TOM:Wow. I chose a portrait of a little boy. Giovanni de Medici.&nbsp;He's holding a tiny bird in one fist, I like the way he's holding it carefully so he doesn't hurt it.</div>\n<div>&nbsp;</div>\n<div>JESS:Ah right.</div>\n<div>&nbsp;</div>",
+      "listenDetail": "[00:40.76]How are you getting on with your art project, Tom?##汤姆，你的艺术项目进展如何？\n[00:43.61]OK. Like, they gave us the theme of birds to base our project on, and I'm not really all that interested in wildlife. ##好的。是这样的，他们给了我们鸟类的主题作为我们项目的基础，而我对野生动物并不是很感兴趣。\n[00:52.04]But I'm starting to get into it. I've pretty well finished the introductory stage.##但我已经开始着手了。我已经很好地完成了入门阶段。\n[00:57.08] So have I. When they gave us all those handouts with details of books and websites to look at,I was really put off,##我也是。当他们给我们所有那些关于书籍和网站的详细资料时，我真的被劝退了，\n[01:05.20]but the more I read, the more interested I got.##但是我读得越多，我就越感兴趣。\n[01:08.19] Me too. I found I could research so many different aspects of birds in art-colour, movement, texture. ##我也是。我发现我可以从艺术的角度研究鸟类的许多不同方面——颜色、运动和质地。\n[01:16.42]So I was looking forward to the Bird Park visit.##所以我很期待参观鸟类公园。\n[01:19.57]What a letdown! It poured with rain and we hardly saw a single bird. ##真让人失望！倾盆大雨，我们几乎看不到一只鸟。\n[01:25.95]Much less use than the trip to the Natural History Museum,##比去自然历史博物馆少了很多价值。\n[01:29.24] Yeah. I liked all the stuff about evolution there.The workshop sessions with Dr Fletcher were good too, especially the brainstorming sessions.##是啊。我喜欢那里所有关于进化的东西。与弗莱彻博士的研讨会也很好，特别是头脑风暴会议。\n[01:38.73]Ah I missed those because I was ill. I wish we could've seen the projects last year's students did.##我错过那些是因为我病了。我真希望我们能看到去年学生做的项目。\n[01:45.24]Mm. I suppose they want us to do our own thing, not copy.##嗯。我想他们想让我们做出自己的东西，而不是模仿。\n[01:49.81]Have you drafted your proposal yet?##你的提案起草好了吗？\n[01:52.01] Yes, but I haven't handed it in. I need to amend some parts. ##是的，但我还没交。我需要修改一些部分。\n[01:57.43]I've realised the notes from my research are almost all just descriptions,I haven't actually evaluated anything. So I'll have to fix that.##我已经意识到我的研究笔记几乎都是描述，我没有真正评估过任何东西。所以我得解决这个问题。\n[02:06.54]Oh, I didn't know we had to do that. I'll have to look at that too.##我不知道我们还得这么做。这个我也得看看。\n[02:12.20]Did you do a timeline for the project?##你为这个项目制定时间表了吗?\n[02:14.52] Yes, and a mind map.##是的，还有思维导图。\n[02:16.38]Yeah, so did I. I quite enjoyed that.But it was hard having to explain the basis for my decisions in my action plan.##是啊，我也是，我很喜欢。但我很难解释我在行动计划中做出决定的依据。\n[02:24.89]What?##什么？\n[02:25.54]You know, give a rationale.##你知道的，给出一个理由。\n[02:27.68]I didn't realise we had to do that. OK, I can add it now. ##我不知道我们必须这么做。好的，我可以现在加上去。\n[02:33.33]And I've done the video diary presentation, and worked out what I want my outcome to be in the project.##我已经完成了视频日记的演示，并且弄清楚了我想在这个项目中得到的结果。\n[02:40.37]Someone told me it's best not to be too precise about your actual outcome at this stage,so you have more scope to explore your ideas later on. ##有人告诉我，在这个阶段最好不要太精确你的实际结果，这样你以后就有更多的空间去探索你的想法。\n[02:49.65]So I'm going to go back to my proposal to make it a bit more vague.##所以我要回到我的提议，让它更模糊一点。\n[02:53.70]Really? OK, I'll change that too then.##真的吗?好的。那我也改一下。\n[02:59.38]\n[03:43.84]One part of the project I'm unsure about is where we choose some paintings of birds and say what they mean to us. ##这个项目有一部分我不确定，那就是我们从哪里选择一些鸟的图画来表达他们对我们意味着什么。\n[03:50.76]Like, I chose a painting of a falcon by Landseer. I like it because the bird's standing there with his head turned to one side, ##比如，我选了一幅兰西尔的猎鹰画。我喜欢它是因为那只鸟站在那里，头转向一边，\n[03:59.11]but he seems to be staring straight at you. But I can't just say it's a bit scary, can I?##但它似乎在直直地盯着你。但我不能只是说这有点吓人，对吧?\n[04:07.45]You could talk about the possible danger suggested by the bird's look.##你可以谈谈鸟的外表可能暗示的危险。\n[04:12.26]Oh, OK.##噢,好的。\n[04:14.30]There's a picture of a fish hawk by Audubon I like.##我喜欢奥杜邦的一幅鱼鹰画。\n[04:18.52]It's swooping over the water with a fish in its talons,and with great black wings which take up most of the picture.##它的爪子里夹着一条鱼在水面上猛扑过来，黑色的大翅膀占据了大部分画面。\n[04:26.80]So you could discuss it in relation to predators and food chains?##所以你可以把它和捕食者与食物链联系起来讨论?\n[04:31.44]Well actually I think I'll concentrate on the impression of rapid motion it gives.##实际上，我想我会专注于它给人的动作迅速的印象。\n[04:36.60]Right.##没错。\n[04:37.87]Do you know that picture of a kingfisher by van Gogh-it's perching on a reed growing near a stream.##你知道梵高画的翠鸟吗?它栖息在小溪附近的芦苇上。\n[04:44.21]Yes it's got these beautiful blue and red and black shades.##是的，它有这些漂亮的蓝色、红色和黑色阴影。\n[04:48.82]Mm hm.I've actually chosen it because I saw a real kingfisher once when I was little,I was out walking with my grandfather,and I've never forgotten it.##嗯嗯。我之所以选择这只翠鸟，是因为我小时候和祖父一起出去散步时看到过一只真正的翠鸟，我从未忘记过它。\n[04:59.70]So we can use a personal link?##所以我们可以用个人联系吗?\n[05:02.09]Sure.##当然。\n[05:02.68]OK. There's a portrait called William Wells, I can't remember the artist but it's a middle-aged man who’s just shot a bird.##好的。有一幅画像叫威廉·威尔斯，我不记得是谁画的了，是一个中年男子，他刚射中了一只鸟。\n[05:12.35]And his expression, and the way he's holding the bird in his hand suggests he's not sure about what he's done. ##他的表情，他手里捉着鸟的方式表明他不确定自己做了什么。\n[05:19.95]To me it's about how ambiguous people are in the way they exploit the natural world.##对我来说，它是关于人们在开发自然世界的过程中是如何模棱两可的。\n[05:26.29]Interesting. There's Gauguin's picture Vairumati. He did it in Tahiti. ##有趣。这是高更的画Vairumati。他在塔希提岛完成的。\n[05:32.73]It's a woman with a white bird behind her that is eating a lizard,and what I'm interested in is what idea this bird refers to. ##画的是一个女人身后有一只白色的鸟正在吃一只蜥蜴，我感兴趣的是这只鸟表达的是什么想法。\n[05:42.91]Apparently, it's a reference to the never-ending cycle of existence.##显然，它指的是永不停止的循环的存在。\n[05:47.10]Wow. I chose a portrait of a little boy. Giovanni de Medici. ##哇。我选了一幅小男孩的肖像，乔瓦尼·德·美第奇。\n[05:52.63]He's holding a tiny bird in one fist, I like the way he's holding it carefully so he doesn't hurt it.##他一只手捧着一只小鸟。我喜欢他小心地拿着它，这样就不会弄伤它了。\n[06:00.20]Ah right.##对的。\n[06:06.55]",
+      "audioUrl": "https://static.ieltsbro.com/section/audio_file/1654482389687.mp3",
+      "seconds": 400,
+      "difficulty": 1,
+      "status": 0,
+      "answerCharge": 0,
+      "averageTimeSpent": null,
+      "averageAccuracyRate": null,
+      "exercisesCount": null,
+      "sortIndex": null,
+      "updateId": "6a6bab5f7a814a16b632732f3b07e60d",
+      "updateName": "邓泌",
+      "createDate": "2022-06-06T10:27:29.000+0800",
+      "updateDate": "2022-06-16T14:51:44.000+0800",
+      "id": 479,
+      "questionCount": null,
+      "questions": [
+        {
+          "questionId": "6202206061039569",
+          "subjectType": 1,
+          "subjectId": 120220606102728,
+          "questionNavigation": "Question21-22",
+          "questionCount": 2,
+          "questionType": 2,
+          "question": null,
+          "answer": null,
+          "updateId": "6a6bab5f7a814a16b632732f3b07e60d",
+          "updateName": "邓泌",
+          "createDate": null,
+          "updateDate": "2022-09-15T09:37:34.000+0800",
+          "checkState": null,
+          "sortIndex": 0,
+          "questionJson": {
+            "questionType": "2",
+            "descriptions": "<p class=\"MsoNormal\"><span style=\"mso-spacerun: 'yes'; font-family: Cambria; mso-fareast-font-family: 'MS Mincho'; mso-bidi-font-family: 'Times New Roman'; font-size: 11.0000pt;\">Questions 21 and 22</span><span style=\"mso-spacerun: 'yes'; font-family: Cambria; mso-fareast-font-family: 'MS Mincho'; mso-bidi-font-family: 'Times New Roman'; font-size: 11.0000pt;\"><br /></span><span style=\"mso-spacerun: 'yes'; font-family: Cambria; mso-fareast-font-family: 'MS Mincho'; mso-bidi-font-family: 'Times New Roman'; font-size: 11.0000pt;\">Choose TWO letters, A-E.</span><span style=\"mso-spacerun: 'yes'; font-family: Cambria; mso-fareast-font-family: 'MS Mincho'; mso-bidi-font-family: 'Times New Roman'; font-size: 11.0000pt;\"><br /></span></p>",
+            "startIndex": 21,
+            "endIndex": 22,
+            "questions": [
+              {
+                "number": 2,
+                "content": "Which TWO parts of the introductory stage to their art projects do Jess and Tom agree were useful?",
+                "options": [
+                  {
+                    "content": "the Bird Park visit "
+                  },
+                  {
+                    "content": "the workshop sessions"
+                  },
+                  {
+                    "content": "the Natural History Museum visit"
+                  },
+                  {
+                    "content": "the projects done in previous years"
+                  },
+                  {
+                    "content": "the handouts with research sources"
+                  }
+                ]
+              }
+            ],
+            "questionNum": 2
+          },
+          "answerJson": [
+            {
+              "correctValue": [2, 4],
+              "explain": "两人都同意Natural History Museum比较有用，故C。两人都对资料感兴趣，即对两人都有用，故E。",
+              "sentenceList": [4, 5, 6, 9, 10]
+            }
+          ],
+          "source": null
+        },
+        {
+          "questionId": "620220606103957",
+          "subjectType": 1,
+          "subjectId": 120220606102728,
+          "questionNavigation": "Question23-24",
+          "questionCount": 2,
+          "questionType": 2,
+          "question": null,
+          "answer": null,
+          "updateId": "6a6bab5f7a814a16b632732f3b07e60d",
+          "updateName": "邓泌",
+          "createDate": null,
+          "updateDate": "2022-09-15T09:37:34.000+0800",
+          "checkState": null,
+          "sortIndex": 1,
+          "questionJson": {
+            "questionType": "2",
+            "descriptions": "<p class=\"MsoNormal\"><span style=\"mso-spacerun: 'yes'; font-family: Cambria; mso-fareast-font-family: 'MS Mincho'; mso-bidi-font-family: 'Times New Roman'; font-size: 11.0000pt;\">Questions 23 and 24</span><span style=\"mso-spacerun: 'yes'; font-family: Cambria; mso-fareast-font-family: 'MS Mincho'; mso-bidi-font-family: 'Times New Roman'; font-size: 11.0000pt;\"><br /></span><span style=\"mso-spacerun: 'yes'; font-family: Cambria; mso-fareast-font-family: 'MS Mincho'; mso-bidi-font-family: 'Times New Roman'; font-size: 11.0000pt;\">Choose TWO letters, A-E.</span></p>",
+            "startIndex": 23,
+            "endIndex": 24,
+            "questions": [
+              {
+                "number": 2,
+                "content": "In which TWO ways do both Jess and Tom decide to change their proposals?",
+                "options": [
+                  {
+                    "content": "by giving a rationale for their action plans"
+                  },
+                  {
+                    "content": "by being less specific about the outcome"
+                  },
+                  {
+                    "content": "by adding a video diary presentation "
+                  },
+                  {
+                    "content": "by providing a timeline and a mind map"
+                  },
+                  {
+                    "content": "by making their notes more evaluative "
+                  }
+                ]
+              }
+            ],
+            "questionNum": 2
+          },
+          "answerJson": [
+            {
+              "correctValue": [1, 4],
+              "explain": "两人都要对proposal进行修改，故B。两人都要对研究笔记进行修改，故E。",
+              "sentenceList": [15, 16, 24, 25, 26]
+            }
+          ],
+          "source": null
+        },
+        {
+          "questionId": "6202206061039567",
+          "subjectType": 1,
+          "subjectId": 120220606102728,
+          "questionNavigation": "Question25-30",
+          "questionCount": 6,
+          "questionType": 4,
+          "question": null,
+          "answer": null,
+          "updateId": "6a6bab5f7a814a16b632732f3b07e60d",
+          "updateName": "邓泌",
+          "createDate": null,
+          "updateDate": "2022-09-15T09:37:34.000+0800",
+          "checkState": null,
+          "sortIndex": 2,
+          "questionJson": {
+            "questionType": "4",
+            "descriptions": "<p class=\"MsoNormal\"><span style=\"mso-spacerun: 'yes'; font-family: Cambria; mso-fareast-font-family: 'MS Mincho'; mso-bidi-font-family: 'Times New Roman'; font-size: 11.0000pt;\">Questions 25-30</span><span style=\"mso-spacerun: 'yes'; font-family: Cambria; mso-fareast-font-family: 'MS Mincho'; mso-bidi-font-family: 'Times New Roman'; font-size: 11.0000pt;\"><br /></span><span style=\"mso-spacerun: 'yes'; font-family: Cambria; mso-fareast-font-family: 'MS Mincho'; mso-bidi-font-family: 'Times New Roman'; font-size: 11.0000pt;\">Which personal meaning do the students decide to give to each of the following pictures?</span><span style=\"mso-spacerun: 'yes'; font-family: Cambria; mso-fareast-font-family: 'MS Mincho'; mso-bidi-font-family: 'Times New Roman'; font-size: 11.0000pt;\"><br /></span><span style=\"mso-spacerun: 'yes'; font-family: Cambria; mso-fareast-font-family: 'MS Mincho'; mso-bidi-font-family: 'Times New Roman'; font-size: 11.0000pt;\">Choose SIX answers from the box and write the correct letter, A-H, next to Questions 25-30.</span><span style=\"mso-spacerun: 'yes'; font-family: Cambria; mso-fareast-font-family: 'MS Mincho'; mso-bidi-font-family: 'Times New Roman'; font-size: 11.0000pt;\"><br /></span></p>",
+            "startIndex": 25,
+            "endIndex": 30,
+            "questionNum": 6,
+            "matchOptions": [
+              {
+                "index": "A",
+                "content": "a childhood memory"
+              },
+              {
+                "index": "B",
+                "content": "hope for the future"
+              },
+              {
+                "index": "C",
+                "content": "fast movement"
+              },
+              {
+                "index": "D",
+                "content": "a potential threat"
+              },
+              {
+                "index": "E",
+                "content": "the power of colour"
+              },
+              {
+                "index": "F",
+                "content": "the continuity of life"
+              },
+              {
+                "index": "G",
+                "content": "protection of nature"
+              },
+              {
+                "index": "H",
+                "content": "a confused attitude to nature"
+              }
+            ],
+            "viewMode": "drag",
+            "questionsContent": "Pictures<br />25&nbsp; Falcon(Landseer) &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; ......&nbsp;&nbsp;\n<p>26&nbsp; Fish hawk (Audubon) &nbsp; &nbsp; &nbsp; &nbsp; ...... &nbsp; &nbsp; &nbsp; &nbsp;</p>\n<p>27&nbsp; Kingfisher (van Gogh) &nbsp; &nbsp; &nbsp; ...... &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;</p>\n<p>28&nbsp; Portrait of William Wells &nbsp; &nbsp; &nbsp;......&nbsp; &nbsp; &nbsp; &nbsp;</p>\n<p>29&nbsp; Vairumati(Gauguin) &nbsp; &nbsp; &nbsp; &nbsp; ...... &nbsp; &nbsp; &nbsp; &nbsp;</p>\n<p>30&nbsp; Portrait of Giovanni de Medici &nbsp; &nbsp; ......&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;</p>",
+            "renderOrder": 0,
+            "indexType": "en",
+            "optionsStyleType": 1,
+            "optionsTitle": "Personal meanings",
+            "showIndex": 1
+          },
+          "answerJson": [
+            {
+              "explain": "potential threat对应possible danger，故D。",
+              "correctValue": 3,
+              "sentenceList": [28, 30, 31]
+            },
+            {
+              "explain": "fast movement对应rapid motion，故C。",
+              "correctValue": 2,
+              "sentenceList": [32, 35]
+            },
+            {
+              "explain": "when I was little对应childhood memory，故A。",
+              "correctValue": 0,
+              "sentenceList": [37, 39]
+            },
+            {
+              "explain": "ambiguous对应confused，故H。",
+              "correctValue": 7,
+              "sentenceList": [42, 44]
+            },
+            {
+              "explain": "continuity对应never-ending cycle，life对应existence，故F。",
+              "correctValue": 5,
+              "sentenceList": [45, 47]
+            },
+            {
+              "explain": "doesn’t hurt it对应protection of nature，故G。",
+              "correctValue": 6,
+              "sentenceList": [48, 49]
+            }
+          ],
+          "source": null
+        }
+      ],
+      "source": null,
+      "showDetailTitle": null,
+      "taskCount": 0,
+      "useFor": 1,
+      "answerShowFlag": null,
+      "type": 0
+    },
+    {
+      "listeningId": "120220606105952",
+      "topicId": "94",
+      "topicName": "讲座",
+      "part": 4,
+      "listenQuestion": "C16-Test 1-Part 4",
+      "subjectData": {
+        "listenDetailList": [
+          {
+            "englishDetail": "Ancient philosophy is not just about talking or lecturing, or even reading long, dense books.",
+            "translateDetail": "古代哲学不仅仅是说话、讲课，甚至是读又长又厚的书。",
+            "startTime": 71880,
+            "endTime": 80150
+          },
+          {
+            "englishDetail": "In fact, it is something people have used throughout history - to solve their problems and to achieve their greatest triumphs.",
+            "translateDetail": "事实上，这是贯穿人类历史上的工具——用来解决问题和取得最大胜利。",
+            "startTime": 80150,
+            "endTime": 90250
+          },
+          {
+            "englishDetail": "Specifically, I am referring to Stoicism, which, in my opinion, is the most practical of all philosophies and therefore the most appealing. ",
+            "translateDetail": "具体来说，我指的是斯多葛主义，在我看来，它是所有哲学中最实用的，因此也是最吸引人的。",
+            "startTime": 90250,
+            "endTime": 101960
+          },
+          {
+            "englishDetail": "Stoicism was founded in Ancient Greece by Zeno of Citium in the early 3rd century BC, but was practised by the likes of Epictetus, Cato, Seneca and Marcus Aurelius. ",
+            "translateDetail": "斯多葛学派是公元前3世纪早期由提提翁的芝诺(Zeno of Citium)在古希腊创立的，但爱比克泰德(Epictetus)、加图(Cato)、塞内加(Seneca)和马可·奥里利乌斯(Marcus Aurelius)等人都践行过。",
+            "startTime": 101960,
+            "endTime": 116410
+          },
+          {
+            "englishDetail": "Amazingly, we still have access to these ideas, despite the fact that the most famous Stoics never wrote anything down for publication. ",
+            "translateDetail": "令人惊讶的是，我们仍然可以触到这些思想，尽管最著名的斯多葛学派从来没有写过任何东西以供出版。",
+            "startTime": 116410,
+            "endTime": 125910
+          },
+          {
+            "englishDetail": "Cato definitely didn't. Marcus Aurelius never intended his Meditations to be anything but personal. ",
+            "translateDetail": "卡托绝对是没有的。马可·奥勒留从来没有想过让他的《沉思录》不是个人的。",
+            "startTime": 125910,
+            "endTime": 133860
+          },
+          {
+            "englishDetail": "Seneca's letters were, well, letters and Epictetus' thoughts come to us by way of a note-taking student.",
+            "translateDetail": "塞内加的书信和爱比克泰德的思想都是通过一个学生的笔记传来的。",
+            "startTime": 133860,
+            "endTime": 144040
+          },
+          {
+            "englishDetail": "Stoic principles were based on the idea that its followers could have an unshakable happiness in this life and the key to achieving this was virtue. ",
+            "translateDetail": "斯多葛学派的原则是建立在这样一种观念上的，即其追随者可以在这一生中获得不可动摇的幸福，而实现这一幸福的关键是美德。",
+            "startTime": 144040,
+            "endTime": 155680
+          },
+          {
+            "englishDetail": "The road to virtue, in turn, lay in understanding that destructive emotions, like anger and jealousy, are under our conscious control - they don't have to control us, because we can learn to control them. ",
+            "translateDetail": "反过来说，通往美德之路，在于理解像愤怒和嫉妒这样的破坏性情绪是在我们的意识控制之下的--它们不必控制我们，因为我们可以学会控制它们。",
+            "startTime": 155680,
+            "endTime": 173370
+          },
+          {
+            "englishDetail": "In the words of Epictetus:\"external events I cannot control, but the choices I make with regard to them, I do control'.",
+            "translateDetail": "用爱比克泰德的话来说\"我无法控制外部事件。而我对他们所做的选择我能控制”。",
+            "startTime": 173370,
+            "endTime": 183920
+          },
+          {
+            "englishDetail": "The modern day philosopher and writer Nassim Nicholas Taleb defines a Stoic as someone who has a different perspective on experiences which most of us would see as wholly negative",
+            "translateDetail": "现代哲学家和作家纳西姆·尼古拉斯·塔勒布将禁欲主义者定义为对我们大多数人认为完全消极的经历持不同观点的人：",
+            "startTime": 183920,
+            "endTime": 198530
+          },
+          {
+            "englishDetail": "a Stoic 'transforms fear into caution, pain into transformation, mistakes into initiation and desire into undertaking'. ",
+            "translateDetail": "禁欲主义者“将恐惧转化为谨慎，将痛苦转化为转变，将错误转化为启蒙，将欲望转化为事业”。",
+            "startTime": 198530,
+            "endTime": 211790
+          },
+          {
+            "englishDetail": "Using this definition as a model, we can see that throughout the centuries Stoicism has been practised in more recent history by kings, presidents, artists, writers and entrepreneurs.",
+            "translateDetail": "用这个定义作为模型，我们可以看到，在最近的历史中，国王、总统、艺术家、作家和企业家在几个世纪里一直奉行斯多葛主义。",
+            "startTime": 211790,
+            "endTime": 232060
+          },
+          {
+            "englishDetail": "The founding fathers of the United States were inspired by the philosophy. ",
+            "translateDetail": "美国的开国元勋都受到了这种哲学的启发。",
+            "startTime": 232060,
+            "endTime": 236730
+          },
+          {
+            "englishDetail": "George Washington was introduced to Stoicism by his neighbours at age seventeen,and later, put on a play based on the life of Cato to inspire his men. ",
+            "translateDetail": "乔治·华盛顿17岁时被他的邻居介绍了斯多葛学派，后来又上演了一部以卡托的生活为原型的戏剧来激励他的部下。",
+            "startTime": 236730,
+            "endTime": 248220
+          },
+          {
+            "englishDetail": "Thomas Jefferson kept a copy of Seneca beside his bed.",
+            "translateDetail": "托马斯·杰斐逊在床边放了一本塞内加的书。",
+            "startTime": 248220,
+            "endTime": 253380
+          },
+          {
+            "englishDetail": "Writers and artists have also been inspired by the stoics. Eugene Delacroix, the renowned French Romantic artist (known best for his painting Liberty Leading the People) was an ardent Stoic,referring to it as his “consoling religion”.",
+            "translateDetail": "作家和艺术家也受到了禁欲主义者的启发。德拉克罗瓦，著名的法国浪漫主义艺术家(以《自由领导人民》闻名)是一个热情的斯多葛主义者，并将其称为自己的“慰藉宗教”。",
+            "startTime": 253380,
+            "endTime": 272930
+          },
+          {
+            "englishDetail": "The economist Adam Smith's theories on capitalism were significantly influenced by the Stoicism that he studied as a schoolboy, under a teacher who had translated Marcus Aurelius' works. ",
+            "translateDetail": "经济学家亚当•斯密的资本主义理论深受斯多葛学派的影响，在他还是个小学生时，师从翻译过马可•奥勒留著作的老师。",
+            "startTime": 272930,
+            "endTime": 287690
+          },
+          {
+            "englishDetail": "Today's political leaders are no different, with many finding their inspiration from the ancient texts. ",
+            "translateDetail": "今天的政治领导人也不例外，许多人从古代文献中找到了灵感。",
+            "startTime": 287690,
+            "endTime": 295000
+          },
+          {
+            "englishDetail": "Former US president Bill Clinton rereads Marcus Aurelius every single year,and many have compared former President Obama's calm leadership style to that of Cato. ",
+            "translateDetail": "美国前总统比尔·克林顿每年都会重读马可·奥勒留的书，很多人将前总统奥巴马冷静的领导风格比作卡托的领导风格。",
+            "startTime": 295000,
+            "endTime": 308420
+          },
+          {
+            "englishDetail": "Wen Jiabao,the former prime minister of China, claims that Meditations is one of two books he travels with and that he has read it more than one hundred times over the course of his life.",
+            "translateDetail": "中国前总理温家宝称，《禅修》是他随身携带的两本书之一，他一生中读了一百多次。",
+            "startTime": 308420,
+            "endTime": 322160
+          },
+          {
+            "englishDetail": "Stoicism had a profound influence on Albert Ellis, who invented Cognitive Behaviour Therapy, which is used to help people manage their problems by changing the way that they think and behave. It's most commonly used to treat depression.",
+            "translateDetail": "禁欲主义对阿尔伯特·埃利斯产生了深远的影响。埃利斯发明了认知行为疗法，用来帮助人们通过改变思维和行为方式来管理他们的问题。",
+            "startTime": 322160,
+            "endTime": 339660
+          },
+          {
+            "englishDetail": "The idea is that we can take control of our lives by challenging the irrational beliefs that create our faulty thinking, symptoms and behaviours by using logic instead.",
+            "translateDetail": "它最常被用来治疗抑郁症。主要思想是，我们可以通过使用逻辑来挑战那些导致我们错误思维症状和行为的非理性信念以控制我们的生活。",
+            "startTime": 339660,
+            "endTime": 352430
+          },
+          {
+            "englishDetail": "Stoicism has also become popular in the world of business. Stoic principles can build the resilience and state of mind required to overcome setbacks because Stoics teach turning obstacles into opportunity. ",
+            "translateDetail": "斯多葛主义在商界也很流行。斯多葛主义原则可以建立克服挫折所需的恢复力和心理状态，因为斯多葛主义教授了如何将阻碍转变为机会。",
+            "startTime": 352430,
+            "endTime": 367960
+          },
+          {
+            "englishDetail": "A lesson every business entrepreneur needs to learn.",
+            "translateDetail": "这是每个企业家都需要学习的一课。",
+            "startTime": 367960,
+            "endTime": 372950
+          },
+          {
+            "englishDetail": "I would argue that studying Stoicism is as relevant today as it was 2,000 years ago,thanks to its brilliant insights into how to lead a good life. ",
+            "translateDetail": "我想声明的是，由于斯多葛主义在如何过好生活方面的杰出见解，它在今天和在2000年前一样重要。",
+            "startTime": 372950,
+            "endTime": 385580
+          },
+          {
+            "englishDetail": "At the very root of the thinking, there is a very simple way of living - control what you can and accept what you can't. ",
+            "translateDetail": "从这种想法的根源去看，有一种非常简单的生活方式是——控制你能做的，接受你不能做的。",
+            "startTime": 385580,
+            "endTime": 395210
+          },
+          {
+            "englishDetail": "This is not as easy as it sounds and will require considerable practice - it can take a lifetime to master. ",
+            "translateDetail": "这并不像听起来那么容易，需要大量的练习——可能需要一辈子的时间才能掌握。",
+            "startTime": 395210,
+            "endTime": 404340
+          },
+          {
+            "englishDetail": "The Stoics also believed the most important foundation for a good and happy life is not money, fame, power or pleasure, ",
+            "translateDetail": "斯多葛学派还认为，美好幸福生活最重要的基础不是金钱、名誉、权力或快乐，",
+            "startTime": 404340,
+            "endTime": 414780
+          },
+          {
+            "englishDetail": "but having a disciplined and principled character - something which seems to resonate with many people today.",
+            "translateDetail": "而是拥有自律和有原则的性格——这一点今天似乎能与许多人产生共鸣。",
+            "startTime": 414780,
+            "endTime": 424260
+          }
+        ]
+      },
+      "listenContent": "<div>Ancient philosophy is not just about talking or lecturing, or even reading long, dense books. In fact, it is something people have used throughout history - to solve their problems and to achieve their greatest triumphs.<br /><br />Specifically, I am referring to Stoicism, which, in my opinion, is the most practical of all philosophies and therefore the most appealing.&nbsp;Stoicism was founded in Ancient Greece by Zeno of Citium in the early 3rd century BC,&nbsp;but was practised by the likes of Epictetus, Cato, Seneca and Marcus Aurelius.&nbsp;Amazingly, we still have access to these ideas, despite the fact that the most famous Stoics never wrote anything down for publication.&nbsp;Cato definitely didn't. Marcus Aurelius never intended his Meditations to be anything but personal.&nbsp;Seneca's letters were, well, letters and Epictetus thoughts come to us by way of a note-taking student.</div>\n<div>&nbsp;</div>\n<div>Stoic principles were based on the idea that its followers could have an unshakable happiness in this life and the key to achieving this was virtue. The road to virtue, in turn, lay in understanding that destructive emotions, like anger and jealousy, are under our conscious control - they don't have to control us, because we can learn to control them. In the words of Epictetus: &ldquo;external events I cannot control, but the choices I make with regard to them, I do control&rdquo;.</div>\n<div>&nbsp;</div>\n<div>The modern day philosopher and writer Nassim Nicholas Taleb defines a Stoic as someone who has a different perspective on experiences which most of us would see as wholly negative: a Stoic &ldquo;transforms fear into caution, pain into transformation, mistakes into initiation and desire into undertaking&rdquo;. Using this definition as a model,&nbsp; we can see that throughout the centuries Stoicism has been practised in more recent history by kings, presidents, artists, writers and entrepreneurs.</div>\n<div>&nbsp;</div>\n<div>The founding fathers of the United States were inspired by the philosophy.&nbsp;George Washington was introduced to Stoicism by his neighbours at age seventeen,and later, put on a play based or the life of Cato to inspire his men.&nbsp;Thomas Jefferson kept a copy of Seneca beside his bed.</div>\n<div>&nbsp;</div>\n<div>Writers and artists have also been inspired by the stoics.&nbsp;Eugene Delacroix, the renowned French Romantic artist (known best for his painting Liberty Leading the People) was an ardent Stoic,referring to it as his &ldquo;consoling religion&rdquo;.</div>\n<div>&nbsp;</div>\n<div>The economist Adam Smith's theories on capitalism wore significantly influenced by the Stoicism that he studied as a schoolboy,&nbsp;under a teacher who had translated Marcus Aurelius' works.</div>\n<div>&nbsp;</div>\n<div>Today's political leaders are no different, with many finding their inspiration from the ancient texts.&nbsp;Former US president Bill Clinton rereads Marcus Aurelius every single year,and many have compared former President Obama's calm leadership style to that of Cato.&nbsp;Wen Jiabao,the former prime minister of China, claims that Meditations is one of two books he travels with and that he has read it more than one hundred times over the course of his life.</div>\n<div>&nbsp;</div>\n<div>Stoicism had a profound influence on Albert Ellis, who invented Cognitive Behaviour Therapy,&nbsp;which is used to help people manage their problems by changing the way that they think and behave. It's most commonly used to treat depression.&nbsp;The idea is that we can take control of our lives by challenging the irrational beliefs that create our faulty thinking, symptoms and behaviours by using logic instead.</div>\n<div>&nbsp;</div>\n<div>Stoicism has also become popular in the world of business.&nbsp;Stoic principles can build the resilience and state of mind required to overcome setbacks because Stoics teach turning obstacles into opportunity.&nbsp;A lesson every business entrepreneur needs to learn.</div>\n<div>&nbsp;</div>\n<div>I would argue that studying Stoicism is as relevant today as it was 2,000 years ago,thanks to its brilliant insights into how to lead a good life.&nbsp;At the very root of the thinking, there is a very simple way of living - control what you can and accept what you can't.&nbsp;This is not as easy as it sounds and will require considerable practice - it can take a lifetime to master.&nbsp;The Stoics also believed the most important foundation for a good and happy life is not money, fame, power or pleasure,&nbsp;but having a disciplined and principled character - something which seems to resonate with many people today.</div>",
+      "listenDetail": "[01:11.88]Ancient philosophy is not just about talking or lecturing, or even reading long, dense books.##古代哲学不仅仅是说话、讲课，甚至是读又长又厚的书。\n[01:20.15]In fact, it is something people have used throughout history - to solve their problems and to achieve their greatest triumphs.##事实上，这是贯穿人类历史上的工具——用来解决问题和取得最大胜利。\n[01:30.25]Specifically, I am referring to Stoicism, which, in my opinion, is the most practical of all philosophies and therefore the most appealing. ##具体来说，我指的是斯多葛主义，在我看来，它是所有哲学中最实用的，因此也是最吸引人的。\n[01:41.96]Stoicism was founded in Ancient Greece by Zeno of Citium in the early 3rd century BC, but was practised by the likes of Epictetus, Cato, Seneca and Marcus Aurelius. ##斯多葛学派是公元前3世纪早期由提提翁的芝诺(Zeno of Citium)在古希腊创立的，但爱比克泰德(Epictetus)、加图(Cato)、塞内加(Seneca)和马可·奥里利乌斯(Marcus Aurelius)等人都践行过。\n[01:56.41]Amazingly, we still have access to these ideas, despite the fact that the most famous Stoics never wrote anything down for publication. ##令人惊讶的是，我们仍然可以触到这些思想，尽管最著名的斯多葛学派从来没有写过任何东西以供出版。\n[02:05.91]Cato definitely didn't. Marcus Aurelius never intended his Meditations to be anything but personal. ##卡托绝对是没有的。马可·奥勒留从来没有想过让他的《沉思录》不是个人的。\n[02:13.86]Seneca's letters were, well, letters and Epictetus' thoughts come to us by way of a note-taking student.##塞内加的书信和爱比克泰德的思想都是通过一个学生的笔记传来的。\n[02:24.04]Stoic principles were based on the idea that its followers could have an unshakable happiness in this life and the key to achieving this was virtue. ##斯多葛学派的原则是建立在这样一种观念上的，即其追随者可以在这一生中获得不可动摇的幸福，而实现这一幸福的关键是美德。\n[02:35.68]The road to virtue, in turn, lay in understanding that destructive emotions, like anger and jealousy, are under our conscious control - they don't have to control us, because we can learn to control them. ##反过来说，通往美德之路，在于理解像愤怒和嫉妒这样的破坏性情绪是在我们的意识控制之下的--它们不必控制我们，因为我们可以学会控制它们。\n[02:53.37]In the words of Epictetus:\"external events I cannot control, but the choices I make with regard to them, I do control'.##用爱比克泰德的话来说\"我无法控制外部事件。而我对他们所做的选择我能控制”。\n[03:03.92]The modern day philosopher and writer Nassim Nicholas Taleb defines a Stoic as someone who has a different perspective on experiences which most of us would see as wholly negative##现代哲学家和作家纳西姆·尼古拉斯·塔勒布将禁欲主义者定义为对我们大多数人认为完全消极的经历持不同观点的人：\n[03:18.53]a Stoic 'transforms fear into caution, pain into transformation, mistakes into initiation and desire into undertaking'. ##禁欲主义者“将恐惧转化为谨慎，将痛苦转化为转变，将错误转化为启蒙，将欲望转化为事业”。\n[03:31.79]Using this definition as a model, we can see that throughout the centuries Stoicism has been practised in more recent history by kings, presidents, artists, writers and entrepreneurs.##用这个定义作为模型，我们可以看到，在最近的历史中，国王、总统、艺术家、作家和企业家在几个世纪里一直奉行斯多葛主义。\n[03:52.06]The founding fathers of the United States were inspired by the philosophy. ##美国的开国元勋都受到了这种哲学的启发。\n[03:56.73]George Washington was introduced to Stoicism by his neighbours at age seventeen,and later, put on a play based on the life of Cato to inspire his men. ##乔治·华盛顿17岁时被他的邻居介绍了斯多葛学派，后来又上演了一部以卡托的生活为原型的戏剧来激励他的部下。\n[04:08.22]Thomas Jefferson kept a copy of Seneca beside his bed.##托马斯·杰斐逊在床边放了一本塞内加的书。\n[04:13.38]Writers and artists have also been inspired by the stoics. Eugene Delacroix, the renowned French Romantic artist (known best for his painting Liberty Leading the People) was an ardent Stoic,referring to it as his “consoling religion”.##作家和艺术家也受到了禁欲主义者的启发。德拉克罗瓦，著名的法国浪漫主义艺术家(以《自由领导人民》闻名)是一个热情的斯多葛主义者，并将其称为自己的“慰藉宗教”。\n[04:32.93]The economist Adam Smith's theories on capitalism were significantly influenced by the Stoicism that he studied as a schoolboy, under a teacher who had translated Marcus Aurelius' works. ##经济学家亚当•斯密的资本主义理论深受斯多葛学派的影响，在他还是个小学生时，师从翻译过马可•奥勒留著作的老师。\n[04:47.69]Today's political leaders are no different, with many finding their inspiration from the ancient texts. ##今天的政治领导人也不例外，许多人从古代文献中找到了灵感。\n[04:55.00]Former US president Bill Clinton rereads Marcus Aurelius every single year,and many have compared former President Obama's calm leadership style to that of Cato. ##美国前总统比尔·克林顿每年都会重读马可·奥勒留的书，很多人将前总统奥巴马冷静的领导风格比作卡托的领导风格。\n[05:08.42]Wen Jiabao,the former prime minister of China, claims that Meditations is one of two books he travels with and that he has read it more than one hundred times over the course of his life.##中国前总理温家宝称，《禅修》是他随身携带的两本书之一，他一生中读了一百多次。\n[05:22.16]Stoicism had a profound influence on Albert Ellis, who invented Cognitive Behaviour Therapy, which is used to help people manage their problems by changing the way that they think and behave. It's most commonly used to treat depression.##禁欲主义对阿尔伯特·埃利斯产生了深远的影响。埃利斯发明了认知行为疗法，用来帮助人们通过改变思维和行为方式来管理他们的问题。\n[05:39.66]The idea is that we can take control of our lives by challenging the irrational beliefs that create our faulty thinking, symptoms and behaviours by using logic instead.##它最常被用来治疗抑郁症。主要思想是，我们可以通过使用逻辑来挑战那些导致我们错误思维症状和行为的非理性信念以控制我们的生活。\n[05:52.43]Stoicism has also become popular in the world of business. Stoic principles can build the resilience and state of mind required to overcome setbacks because Stoics teach turning obstacles into opportunity. ##斯多葛主义在商界也很流行。斯多葛主义原则可以建立克服挫折所需的恢复力和心理状态，因为斯多葛主义教授了如何将阻碍转变为机会。\n[06:07.96]A lesson every business entrepreneur needs to learn.##这是每个企业家都需要学习的一课。\n[06:12.95]I would argue that studying Stoicism is as relevant today as it was 2,000 years ago,thanks to its brilliant insights into how to lead a good life. ##我想声明的是，由于斯多葛主义在如何过好生活方面的杰出见解，它在今天和在2000年前一样重要。\n[06:25.58]At the very root of the thinking, there is a very simple way of living - control what you can and accept what you can't. ##从这种想法的根源去看，有一种非常简单的生活方式是——控制你能做的，接受你不能做的。\n[06:35.21]This is not as easy as it sounds and will require considerable practice - it can take a lifetime to master. ##这并不像听起来那么容易，需要大量的练习——可能需要一辈子的时间才能掌握。\n[06:44.34]The Stoics also believed the most important foundation for a good and happy life is not money, fame, power or pleasure, ##斯多葛学派还认为，美好幸福生活最重要的基础不是金钱、名誉、权力或快乐，\n[06:54.78]but having a disciplined and principled character - something which seems to resonate with many people today.##而是拥有自律和有原则的性格——这一点今天似乎能与许多人产生共鸣。\n[07:04.26]",
+      "audioUrl": "https://static.ieltsbro.com/section/audio_file/1667281119833.mp3",
+      "seconds": 493,
+      "difficulty": 1,
+      "status": 0,
+      "answerCharge": 0,
+      "averageTimeSpent": null,
+      "averageAccuracyRate": null,
+      "exercisesCount": null,
+      "sortIndex": null,
+      "updateId": "170fb551b1f64a489fefca0222770170",
+      "updateName": "朱宁",
+      "createDate": "2022-06-06T10:59:52.000+0800",
+      "updateDate": "2023-08-03T13:52:39.000+0800",
+      "id": 480,
+      "questionCount": null,
+      "questions": [
+        {
+          "questionId": "6202206061105325",
+          "subjectType": 1,
+          "subjectId": 120220606105952,
+          "questionNavigation": "Question31-40",
+          "questionCount": 10,
+          "questionType": 0,
+          "question": null,
+          "answer": null,
+          "updateId": "6a6bab5f7a814a16b632732f3b07e60d",
+          "updateName": "邓泌",
+          "createDate": "2022-11-03T09:21:25.000+0800",
+          "updateDate": "2022-11-03T09:21:25.000+0800",
+          "checkState": null,
+          "sortIndex": 0,
+          "questionJson": {
+            "questionType": "0",
+            "descriptions": "<p class=\"MsoNormal\"><span style=\"mso-spacerun: 'yes'; font-family: Cambria; mso-fareast-font-family: 'MS Mincho'; mso-bidi-font-family: 'Times New Roman'; font-size: 11.0000pt;\">Complete the notes below.</span><span style=\"mso-spacerun: 'yes'; font-family: Cambria; mso-fareast-font-family: 'MS Mincho'; mso-bidi-font-family: 'Times New Roman'; font-size: 11.0000pt;\"><br /></span><span style=\"mso-spacerun: 'yes'; font-family: Cambria; mso-fareast-font-family: 'MS Mincho'; mso-bidi-font-family: 'Times New Roman'; font-size: 11.0000pt;\">Write ONE WORD ONLY for each answer.</span><span style=\"mso-spacerun: 'yes'; font-family: Cambria; mso-fareast-font-family: 'MS Mincho'; mso-bidi-font-family: 'Times New Roman'; font-size: 11.0000pt;\"><br /></span></p>",
+            "startIndex": 31,
+            "endIndex": 40,
+            "questionNum": 10,
+            "questionsContent": "<p align=\"center\"><strong>Stoicism</strong></p>\n<p>Stoicism is still relevant today because of its ...... appeal.</p>\n<p><strong>Ancient Stoics</strong></p>\n<p>&middot;&nbsp;Stoicism was founded over 2,000 years ago in Greece.</p>\n<p>&middot;&nbsp;The Stoics' ideas are surprisingly well known, despite not being intended for ......</p>\n<p><strong>Stoic principles</strong></p>\n<p>&middot;&nbsp;Happiness could be achieved by leading a virtuous life.</p>\n<p>&middot;&nbsp;Controlling emotions was essential.</p>\n<p>&middot;&nbsp;Epictetus said that external events cannot be controlled but the&nbsp;...... people make in response can be controlled.</p>\n<p>&middot;&nbsp;A Stoic is someone who has a different view on experiences which others would</p>\n<p>consider as ......</p>\n<p><strong>The influence of Stoicism</strong></p>\n<p>&nbsp;&middot;&nbsp;George Washington organised a ...... about Cato to motivate his men.</p>\n<p>&nbsp;&middot;&nbsp;The French artist Delacroix was a Stoic.</p>\n<p>&nbsp;&middot; Adam Smith's ideas on ...... were influenced by Stoicism.</p>\n<p>&nbsp;&middot;&nbsp;Some of today's political leaders are inspired by the Stoics.</p>\n<p>&nbsp;&middot;&nbsp;Cognitive Behaviour Therapy (CBT)</p>\n<p>-the treatment for ...... is based on ideas from Stoicism</p>\n<p>-people learn to base their thinking on ...... .</p>\n<p>&middot;&nbsp;In business, people benefit from Stoicism by identifying obstacles as ......&nbsp;.</p>\n<p><strong>Relevance of Stoicism</strong></p>\n<p>&middot; It requires a lot of ...... but Stoicism can help people to lead a good life.</p>\n<p>&middot; It teaches people that having a strong character is more important than anything else.<br /><br />温馨提示：纸考Part 4结束后有10分钟时间誊写答案，机考Part 4结束后有2分钟时间检查。</p>"
+          },
+          "answerJson": [
+            {
+              "explain": "appeal对应appealing，预判答案为形容词，故填practical。",
+              "correctValue": "practical",
+              "sentenceList": [3]
+            },
+            {
+              "explain": "despite和for原词复现，故填publication。",
+              "correctValue": "publication",
+              "sentenceList": [5]
+            },
+            {
+              "explain": "control对应can be controlled，且由转折词but可知填choices。",
+              "correctValue": "choices",
+              "sentenceList": [10]
+            },
+            {
+              "explain": "consider as对应see as，故填negative。",
+              "correctValue": "negative",
+              "sentenceList": [11]
+            },
+            {
+              "explain": "由George Washington定位以及organized对应put on可知填play。",
+              "correctValue": "play",
+              "sentenceList": [15]
+            },
+            {
+              "explain": "由Adam Smith定位以及ideas对应theories可知填capitalism。",
+              "correctValue": "capitalism",
+              "sentenceList": [18]
+            },
+            {
+              "explain": "treatment对应treat，预判答案为疾病名词，故填depression。",
+              "correctValue": "depression",
+              "sentenceList": [22]
+            },
+            {
+              "explain": "由原文可知人们要使用逻辑进行思考，故填logic。",
+              "correctValue": "logic",
+              "sentenceList": [23]
+            },
+            {
+              "explain": "identify sth as对应turn sth into，obstacles原词复现，故填opportunity。",
+              "correctValue": "opportunity",
+              "sentenceList": [24]
+            },
+            {
+              "explain": "considerable 对应a lot of，require原词复现，故填practice/practise。",
+              "correctValue": "practice/practise",
+              "sentenceList": [28]
+            }
+          ],
+          "source": null
+        }
+      ],
+      "source": null,
+      "showDetailTitle": null,
+      "taskCount": 0,
+      "useFor": 1,
+      "answerShowFlag": null,
+      "type": 0
+    }
+  ],
+  "showMessage": null
+}
