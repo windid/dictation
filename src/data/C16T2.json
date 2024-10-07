@@ -1,0 +1,1737 @@
+{
+  "status": 0,
+  "message": "success",
+  "content": [
+    {
+      "listeningId": "120220606110704",
+      "topicId": "91",
+      "topicName": "生活",
+      "part": 1,
+      "listenQuestion": "C16-Test 2-Part 1",
+      "subjectData": {
+        "listenDetailList": [
+          {
+            "englishDetail": "Hello, Picturerep. Can I help you?",
+            "translateDetail": "您好，Picturerep。有什么能帮到您的呢？",
+            "startTime": 76070,
+            "endTime": 78760
+          },
+          {
+            "englishDetail": "Oh, hi. I saw your advertisement about copying pictures to disk and I'd like a bit more information about what you do.",
+            "translateDetail": "哦，您好。我看到你们说能把纸质照片复制到磁盘上的广告，所以我想要了解更多的相关服务。",
+            "startTime": 78760,
+            "endTime": 87960
+          },
+          {
+            "englishDetail": " Sure. What would you like to know?",
+            "translateDetail": "当然，您想了解什么？",
+            "startTime": 87960,
+            "endTime": 90300
+          },
+          {
+            "englishDetail": " Well, l've got a box full of old family photos that has been up in the attic for years,",
+            "translateDetail": "嗯，我有一箱被放在阁楼上很多年的家庭老照片，",
+            "startTime": 90300,
+            "endTime": 97180
+          },
+          {
+            "englishDetail": "some of them must be 50 or 60 years old, and I'd like to get them converted to digital format.",
+            "translateDetail": "有些都已经超过五、六十年了吧，我想把他们都转换成电子版。",
+            "startTime": 97180,
+            "endTime": 104200
+          },
+          {
+            "englishDetail": " Sure, we can do that for you.",
+            "translateDetail": "好的，我们愿意效劳。",
+            "startTime": 104200,
+            "endTime": 106230
+          },
+          {
+            "englishDetail": " Right. And what about size? The photos are all sorts of sizes - are there any restrictions?",
+            "translateDetail": "嗯。那尺寸呢？这些照片的尺寸各种各样，你们对于这方面有限制吗？",
+            "startTime": 106230,
+            "endTime": 114740
+          },
+          {
+            "englishDetail": "Well the maximum size of photo we can do with our normal service is 30 centimetres.",
+            "translateDetail": "我们正常能处理的最大尺寸的照片是30厘米的，",
+            "startTime": 114740,
+            "endTime": 121380
+          },
+          {
+            "englishDetail": "And each picture must be at least 4 centimetres, that's the minimum we can cope with.",
+            "translateDetail": "我们能处理的最小尺寸的照片至少要4厘米。",
+            "startTime": 121380,
+            "endTime": 126580
+          },
+          {
+            "englishDetail": "That should be fine. And some of them are in a frame - should I take them out before I send them?",
+            "translateDetail": "那挺好的。有一些在相框里，我需要把它们在送去影印之前从相框里取出来么？",
+            "startTime": 126580,
+            "endTime": 133800
+          },
+          {
+            "englishDetail": "Yes please, we can't copy them otherwise. And also the photos must all be separate, they mustn't be stuck into an album.",
+            "translateDetail": "是的，否则的话我们就不能影印了。而且照片必须要分开放置，绝对不能放在相册里。",
+            "startTime": 133800,
+            "endTime": 141940
+          },
+          {
+            "englishDetail": "OK, that's not a problem. So can you give me an idea of how much this will cost? I've got about 360 photos I think.",
+            "translateDetail": "好的没问题。所以您方便告诉我一下大概的价格吗？我大约有360张照片。",
+            "startTime": 141940,
+            "endTime": 152950
+          },
+          {
+            "englishDetail": "We charge £195 for 300 to 400 photos for the basic service.",
+            "translateDetail": "我们的基础收费是300-400张照片195磅。",
+            "startTime": 152950,
+            "endTime": 160150
+          },
+          {
+            "englishDetail": "OK. And does that include the disk?",
+            "translateDetail": "那这包括磁盘的费用吗？",
+            "startTime": 160150,
+            "endTime": 163280
+          },
+          {
+            "englishDetail": "Yes, one disk - but you can get extra ones for £5 each.",
+            "translateDetail": "是的，包含一个磁盘。但是如果你还想要额外的磁盘，5磅一个。",
+            "startTime": 163280,
+            "endTime": 168440
+          },
+          {
+            "englishDetail": "That's good. So do I need to pay when I send you the photos?",
+            "translateDetail": "好的。我要在发照片的时候支付费用吗？",
+            "startTime": 168440,
+            "endTime": 173400
+          },
+          {
+            "englishDetail": "No, we won't need anything until we've actually copied the pictures. ",
+            "translateDetail": "不用。在我们把照片影印好之前您不需要支付任何费用。",
+            "startTime": 173400,
+            "endTime": 178090
+          },
+          {
+            "englishDetail": "Then we'll let you know how much it is, and once we've received the payment, we'll send the parcel off to you.",
+            "translateDetail": "工作完成之后我们会告知您相关费用，一旦我们确认您已支付成功，我们就会把物品给您寄过去。",
+            "startTime": 178090,
+            "endTime": 184720
+          },
+          {
+            "englishDetail": "Right.",
+            "translateDetail": "好的。",
+            "startTime": 184720,
+            "endTime": 187880
+          },
+          {
+            "englishDetail": "Is there anything else you'd like to ask about our services?",
+            "translateDetail": "您还有一些其他想要咨询的么？",
+            "startTime": 232240,
+            "endTime": 236180
+          },
+          {
+            "englishDetail": "Yes. I' ve roughly sorted out the photos into groups, according to what they' re about-so can you keep them in those groups when you copy them?",
+            "translateDetail": "我大致根据照片内容把他们分类了一下。所以你们能在影印的时候还保留他们的分类吗？",
+            "startTime": 236180,
+            "endTime": 246770
+          },
+          {
+            "englishDetail": "Sure. We'll save each group in a different folder on the disk and if you like, you can suggest a name for each folder.",
+            "translateDetail": "当然。如果您愿意的话我们可以把它们按分组放在磁盘不同的文件夹里，我们还可以按照您的要求给每一个文件夹命名。",
+            "startTime": 246770,
+            "endTime": 254650
+          },
+          {
+            "englishDetail": "So I could have one called 'Grandparents' for instance?",
+            "translateDetail": "那比方说我可以让其中一个文件夹叫“祖父母”？",
+            "startTime": 254650,
+            "endTime": 259000
+          },
+          {
+            "englishDetail": "Exactly.",
+            "translateDetail": "是的。",
+            "startTime": 259000,
+            "endTime": 260850
+          },
+          {
+            "englishDetail": "And do you do anything besides scan the photos? Like, can you make any improvements?",
+            "translateDetail": "你们除了扫描照片还会有其他操作吗？比如可以做一些修复么？",
+            "startTime": 260850,
+            "endTime": 267680
+          },
+          {
+            "englishDetail": "Yes, in the standard service each photo is checked, and we can sometimes touch up the colour a bit, or improve the contrast - that can make a big difference.",
+            "translateDetail": "是的，如果您选标准服务的话，那么每张照片都会被检查，有时会稍微润色一下，或者改善一下对比度，这效果就很不一样了。",
+            "startTime": 267680,
+            "endTime": 278990
+          },
+          {
+            "englishDetail": "OK. And some of the photos are actually quite fragile - they won't get damaged in the process, will they?",
+            "translateDetail": "好的。有一些照片特别易损，他们在影印过程中不会坏了吧？",
+            "startTime": 278990,
+            "endTime": 286500
+          },
+          {
+            "englishDetail": "No, if any look particularly fragile, we'd do them by hand. We do realise how precious these old photos can be.",
+            "translateDetail": "不会的。如果照片看起来很容易坏的话，我们就会手工操作了。我们非常明白这些老照片是十分珍贵的。",
+            "startTime": 286500,
+            "endTime": 294770
+          },
+          {
+            "englishDetail": "Sure.",
+            "translateDetail": "嗯嗯。",
+            "startTime": 294770,
+            "endTime": 295680
+          },
+          {
+            "englishDetail": "And another thing is we can make changes to a photo if you want - so if you want to remove an object from a photo,or maybe alter the background, we can do that.",
+            "translateDetail": "如果您愿意尝试的话我们还可以对照片做一些其他的调整，比如您想要移除照片中的某个物件，或者是进行背景的更换，这些都是可以的。",
+            "startTime": 295680,
+            "endTime": 307380
+          },
+          {
+            "englishDetail": "Really? I might be interested in that. I'll have a look through the photos and see.",
+            "translateDetail": "真的吗？这个我很是感兴趣呢。我等下去看一下那些照片。",
+            "startTime": 307380,
+            "endTime": 314560
+          },
+          {
+            "englishDetail": "Oh, and talking of fixing photos - I've got a few that aren't properly in focus. Can you do anything to make that better?",
+            "translateDetail": "哦，说到照片修复，我这有一些照片是没有对上焦的，这个能修复吗？",
+            "startTime": 314560,
+            "endTime": 323350
+          },
+          {
+            "englishDetail": "No, I'm afraid that's one thing we can't do.",
+            "translateDetail": "不行哦，我们对这件事也无能为力。",
+            "startTime": 323350,
+            "endTime": 326990
+          },
+          {
+            "englishDetail": "OK.",
+            "translateDetail": "好吧。",
+            "startTime": 326990,
+            "endTime": 327960
+          },
+          {
+            "englishDetail": "Any other information I can give you?",
+            "translateDetail": "您还有其他的要咨询吗？",
+            "startTime": 327960,
+            "endTime": 330540
+          },
+          {
+            "englishDetail": "Er... oh, how long will it all take?",
+            "translateDetail": "呃...对了，照片都弄好要多久呢？",
+            "startTime": 330540,
+            "endTime": 334520
+          },
+          {
+            "englishDetail": "We aim to get the copying done in ten days.",
+            "translateDetail": "我们会在10天之内完成。",
+            "startTime": 334520,
+            "endTime": 337800
+          },
+          {
+            "englishDetail": "Fine. Right, well I'll get the photos packed up in a box and post them off to you.",
+            "translateDetail": "嗯，好的。我把照片装箱打包一下就寄给你们。",
+            "startTime": 337800,
+            "endTime": 344280
+          },
+          {
+            "englishDetail": "Right. If you've got a strong cardboard box, that's best. We've found that plastic ones sometimes break in the post.",
+            "translateDetail": "嗯，您最好用硬纸板盒子去包装邮寄，因为塑料的包装盒有时会在运输的过程中坏掉。",
+            "startTime": 344280,
+            "endTime": 352650
+          },
+          {
+            "englishDetail": "OK. Right, thanks for your help. Bye.",
+            "translateDetail": "好的，那麻烦您啦。拜拜！",
+            "startTime": 352650,
+            "endTime": 357490
+          },
+          {
+            "englishDetail": "Bye.",
+            "translateDetail": "再见！",
+            "startTime": 357490,
+            "endTime": 359490
+          }
+        ]
+      },
+      "listenContent": "<div>&nbsp;</div>\n<div>EMPLOYEE:Hello, Picturerep. Can I help you?</div>\n<div>&nbsp;</div>\n<div>WOMAN:Oh, hi. I saw your advertisement about copying pictures to disk and I'd like a bit more information about what you do.</div>\n<div><br />EMPLOYEE:Sure. What would you like to know?</div>\n<div><br />WOMAN:Well, l've got a box full of old family photos thafs been up in the attic for years, some of them must be 50 or 60 years old, and I'd like to get them converted to digital format.</div>\n<div>&nbsp;</div>\n<div>EMPLOYEE:Sure, we can do that for you.</div>\n<div>&nbsp;</div>\n<div>WOMAN:Right. And what about size? The photos are all sorts of sizes - are there any restrictions?</div>\n<div>&nbsp;</div>\n<div>EMPLOYEE:Well the maximum size of photo we can do with our normal service is 30 centimetres. And each picture must be at least 4 centimetres, that's the minimum we can cope with.</div>\n<div>&nbsp;</div>\n<div>WOMAN:That should be fine. And some of them are in a frame - should I take them out before I send them?</div>\n<div>&nbsp;</div>\n<div>EMPLOYEE:Yes please, we can't copy them otherwise. And also the photos must all be separate, they mustn't be stuck into an album.</div>\n<div>&nbsp;</div>\n<div>WOMAN:&nbsp;OK, that's not a problem. So can you give me an idea of how much this will cost? I've got about 360 photos I think.</div>\n<div>&nbsp;</div>\n<div>EMPLOYEE: We charge &pound;195 for 300 to 400 photos for the basic service.</div>\n<div>&nbsp;</div>\n<div>WOMAN:OK. And does that include the disk?</div>\n<div>&nbsp;</div>\n<div>EMPLOYEE:Yes, one disk - but you can get extra ones for &pound;5 each.</div>\n<div>&nbsp;</div>\n<div>WOMAN:That's good. So do I need to pay when I send you the photos?</div>\n<div>&nbsp;</div>\n<div>EMPLOYEE:No, we won't need anything until we've actually copied the pictures.&nbsp;Then we'll let you know how much it is, and once we've received the payment, we&lsquo;&rsquo;ll send the parcel off to you.</div>\n<div>&nbsp;</div>\n<div>WOMAN: Right.<br /><br /></div>\n<div>EMPLOYEE:Is there anything else you'd like to ask about our services?</div>\n<div>&nbsp;</div>\n<div>WOMAN:Yes. I've roughly sorted out the photos into groups,according to what they're about һ so can you keep them in those groups when you copy them?</div>\n<div>&nbsp;</div>\n<div>EMPLOYEE:Sure. We'll save each group in a different folder on the disk and if you like, you can suggest a name for each folder.</div>\n<div>&nbsp;</div>\n<div>WOMAN:So I could have one called 'Grandparents' for instance?</div>\n<div>&nbsp;</div>\n<div>EMPLOYEE:Exactly.</div>\n<div>&nbsp;</div>\n<div>WOMAN:And do you do anything besides scan the photos? Like, can you make any improvements?</div>\n<div>&nbsp;</div>\n<div>EMPLOYEE:Yes, in the standard service each photo is checked, and we can sometimes touch up the colour a bit, or improve the contrast - that can make a big difference.</div>\n<div>&nbsp;</div>\n<div>WOMAN:OK. And some of the photos are actually quite fragile - they won't get damaged in the process, will they?</div>\n<div>&nbsp;</div>\n<div>EMPLOYEE:No, if any look particularly fragile, we'd do them by hand. We do realise how precious these old photos can be.</div>\n<div>&nbsp;</div>\n<div>WOMAN:Sure.</div>\n<div>&nbsp;</div>\n<div>EMPLOYEE:And another thing is we can make changes to a photo if you want - so if you want to remove an object from a photo,or maybe alter the background, we can do that.</div>\n<div>&nbsp;</div>\n<div>WOMAN:Really? I might be interested in that. I'll have a look through the photos and see. Oh, and talking of fixing photos - I've got a few that aren't properly in focus. Can you do anything to make that better?</div>\n<div>&nbsp;</div>\n<div>EMPLOYEE:No, I'm afraid that's one thing we can't do.</div>\n<div>&nbsp;</div>\n<div>WOMAN:OK.</div>\n<div>&nbsp;</div>\n<div>EMPLOYEE:Any other information I can give you?</div>\n<div>&nbsp;</div>\n<div>WOMAN:Er... oh, how long will it all take?</div>\n<div>&nbsp;</div>\n<div>EMPLOYEE:We aim to get the copying done in ten days.</div>\n<div>&nbsp;</div>\n<div>WOMAN:Fine. Right, well I'll get the photos packed up in a box and post them off to you.</div>\n<div>&nbsp;</div>\n<div>EMPLOYEE:Right. If you've got a strong cardboard box, that's best. We've found that plastic ones sometimes break in the post.</div>\n<div>&nbsp;</div>\n<div>WOMAN:OK. Right, thanks for your help. Bye.</div>\n<div>&nbsp;</div>\n<div>EMPLOYEE:Bye.</div>\n<div>&nbsp;</div>",
+      "listenDetail": "[01:16.07]Hello, Picturerep. Can I help you?##您好，Picturerep。有什么能帮到您的呢？\n[01:18.76]Oh, hi. I saw your advertisement about copying pictures to disk and I'd like a bit more information about what you do.##哦，您好。我看到你们说能把纸质照片复制到磁盘上的广告，所以我想要了解更多的相关服务。\n[01:27.96] Sure. What would you like to know?##当然，您想了解什么？\n[01:30.30] Well, l've got a box full of old family photos that has been up in the attic for years,##嗯，我有一箱被放在阁楼上很多年的家庭老照片，\n[01:37.18]some of them must be 50 or 60 years old, and I'd like to get them converted to digital format.##有些都已经超过五、六十年了吧，我想把他们都转换成电子版。\n[01:44.20] Sure, we can do that for you.##好的，我们愿意效劳。\n[01:46.23] Right. And what about size? The photos are all sorts of sizes - are there any restrictions?##嗯。那尺寸呢？这些照片的尺寸各种各样，你们对于这方面有限制吗？\n[01:54.74]Well the maximum size of photo we can do with our normal service is 30 centimetres.##我们正常能处理的最大尺寸的照片是30厘米的，\n[02:01.38]And each picture must be at least 4 centimetres, that's the minimum we can cope with.##我们能处理的最小尺寸的照片至少要4厘米。\n[02:06.58]That should be fine. And some of them are in a frame - should I take them out before I send them?##那挺好的。有一些在相框里，我需要把它们在送去影印之前从相框里取出来么？\n[02:13.80]Yes please, we can't copy them otherwise. And also the photos must all be separate, they mustn't be stuck into an album.##是的，否则的话我们就不能影印了。而且照片必须要分开放置，绝对不能放在相册里。\n[02:21.94]OK, that's not a problem. So can you give me an idea of how much this will cost? I've got about 360 photos I think.##好的没问题。所以您方便告诉我一下大概的价格吗？我大约有360张照片。\n[02:32.95]We charge £195 for 300 to 400 photos for the basic service.##我们的基础收费是300-400张照片195磅。\n[02:40.15]OK. And does that include the disk?##那这包括磁盘的费用吗？\n[02:43.28]Yes, one disk - but you can get extra ones for £5 each.##是的，包含一个磁盘。但是如果你还想要额外的磁盘，5磅一个。\n[02:48.44]That's good. So do I need to pay when I send you the photos?##好的。我要在发照片的时候支付费用吗？\n[02:53.40]No, we won't need anything until we've actually copied the pictures. ##不用。在我们把照片影印好之前您不需要支付任何费用。\n[02:58.09]Then we'll let you know how much it is, and once we've received the payment, we'll send the parcel off to you.##工作完成之后我们会告知您相关费用，一旦我们确认您已支付成功，我们就会把物品给您寄过去。\n[03:04.72]Right.##好的。\n[03:07.88]\n[03:52.24]Is there anything else you'd like to ask about our services?##您还有一些其他想要咨询的么？\n[03:56.18]Yes. I' ve roughly sorted out the photos into groups, according to what they' re about-so can you keep them in those groups when you copy them?##我大致根据照片内容把他们分类了一下。所以你们能在影印的时候还保留他们的分类吗？\n[04:06.77]Sure. We'll save each group in a different folder on the disk and if you like, you can suggest a name for each folder.##当然。如果您愿意的话我们可以把它们按分组放在磁盘不同的文件夹里，我们还可以按照您的要求给每一个文件夹命名。\n[04:14.65]So I could have one called 'Grandparents' for instance?##那比方说我可以让其中一个文件夹叫“祖父母”？\n[04:19.00]Exactly.##是的。\n[04:20.85]And do you do anything besides scan the photos? Like, can you make any improvements?##你们除了扫描照片还会有其他操作吗？比如可以做一些修复么？\n[04:27.68]Yes, in the standard service each photo is checked, and we can sometimes touch up the colour a bit, or improve the contrast - that can make a big difference.##是的，如果您选标准服务的话，那么每张照片都会被检查，有时会稍微润色一下，或者改善一下对比度，这效果就很不一样了。\n[04:38.99]OK. And some of the photos are actually quite fragile - they won't get damaged in the process, will they?##好的。有一些照片特别易损，他们在影印过程中不会坏了吧？\n[04:46.50]No, if any look particularly fragile, we'd do them by hand. We do realise how precious these old photos can be.##不会的。如果照片看起来很容易坏的话，我们就会手工操作了。我们非常明白这些老照片是十分珍贵的。\n[04:54.77]Sure.##嗯嗯。\n[04:55.68]And another thing is we can make changes to a photo if you want - so if you want to remove an object from a photo,or maybe alter the background, we can do that.##如果您愿意尝试的话我们还可以对照片做一些其他的调整，比如您想要移除照片中的某个物件，或者是进行背景的更换，这些都是可以的。\n[05:07.38]Really? I might be interested in that. I'll have a look through the photos and see.##真的吗？这个我很是感兴趣呢。我等下去看一下那些照片。\n[05:14.56]Oh, and talking of fixing photos - I've got a few that aren't properly in focus. Can you do anything to make that better?##哦，说到照片修复，我这有一些照片是没有对上焦的，这个能修复吗？\n[05:23.35]No, I'm afraid that's one thing we can't do.##不行哦，我们对这件事也无能为力。\n[05:26.99]OK.##好吧。\n[05:27.96]Any other information I can give you?##您还有其他的要咨询吗？\n[05:30.54]Er... oh, how long will it all take?##呃...对了，照片都弄好要多久呢？\n[05:34.52]We aim to get the copying done in ten days.##我们会在10天之内完成。\n[05:37.80]Fine. Right, well I'll get the photos packed up in a box and post them off to you.##嗯，好的。我把照片装箱打包一下就寄给你们。\n[05:44.28]Right. If you've got a strong cardboard box, that's best. We've found that plastic ones sometimes break in the post.##嗯，您最好用硬纸板盒子去包装邮寄，因为塑料的包装盒有时会在运输的过程中坏掉。\n[05:52.65]OK. Right, thanks for your help. Bye.##好的，那麻烦您啦。拜拜！\n[05:57.49]Bye.##再见！\n[05:59.49]",
+      "audioUrl": "https://static.ieltsbro.com/section/audio_file/1654484810613.mp3",
+      "seconds": 397,
+      "difficulty": 1,
+      "status": 0,
+      "answerCharge": 0,
+      "averageTimeSpent": null,
+      "averageAccuracyRate": null,
+      "exercisesCount": null,
+      "sortIndex": null,
+      "updateId": "170fb551b1f64a489fefca0222770170",
+      "updateName": "朱宁",
+      "createDate": "2022-06-06T11:07:05.000+0800",
+      "updateDate": "2023-10-31T11:11:04.000+0800",
+      "id": 481,
+      "questionCount": null,
+      "questions": [
+        {
+          "questionId": "6202206061109518",
+          "subjectType": 1,
+          "subjectId": 120220606110704,
+          "questionNavigation": "Question1-10",
+          "questionCount": 10,
+          "questionType": 0,
+          "question": null,
+          "answer": null,
+          "updateId": "170fb551b1f64a489fefca0222770170",
+          "updateName": "朱宁",
+          "createDate": "2023-10-09T10:14:17.000+0800",
+          "updateDate": "2023-10-09T10:14:17.000+0800",
+          "checkState": null,
+          "sortIndex": 0,
+          "questionJson": {
+            "questionType": "0",
+            "descriptions": "<p class=\"MsoNormal\"><span style=\"mso-spacerun: 'yes'; font-family: Arial; mso-fareast-font-family: 'MS Mincho'; font-size: 11.0000pt;\">Complete the notes below.</span><span style=\"mso-spacerun: 'yes'; font-family: Arial; mso-fareast-font-family: 'MS Mincho'; font-size: 11.0000pt;\"><br /></span><span style=\"mso-spacerun: 'yes'; font-family: Arial; mso-fareast-font-family: 'MS Mincho'; font-size: 11.0000pt;\">Write ONE WORD AND/OR A NUMBER for each answer.</span><span style=\"mso-spacerun: 'yes'; font-family: Arial; mso-fareast-font-family: 'MS Mincho'; font-size: 11.0000pt;\"><br /></span></p>",
+            "startIndex": 1,
+            "endIndex": 10,
+            "questionNum": 10,
+            "questionsContent": "<p style=\"text-align: center;\"><strong>Copying photos to digital format</strong></p>\n<p><strong>Name of company: Picturerep</strong></p>\n<p><strong>Requirements</strong></p>\n<p><span style=\"background-color: #ffffff; font-family: Arial; font-size: 16px;\">&bull;</span><span style=\"background-color: #ffffff; font-family: Arial; font-size: 16px;\"> </span>Maximum size of photos is 30 cm, minimum size 4 cm.</p>\n<p><span style=\"background-color: #ffffff; font-family: Arial; font-size: 16px;\">&bull;</span><span style=\"background-color: #ffffff; font-family: Arial; font-size: 16px;\"> </span>Photos must not be in a ...... or an album.</p>\n<p><strong>Cost</strong></p>\n<p><span style=\"background-color: #ffffff; font-family: Arial; font-size: 16px;\">&bull;</span><span style=\"background-color: #ffffff; font-family: Arial; font-size: 16px;\"> </span>The cost for 360 photos is&nbsp; &pound;...... (including one disk).</p>\n<p><span style=\"background-color: #ffffff; font-family: Arial; font-size: 16px;\">&bull;</span><span style=\"background-color: #ffffff; font-family: Arial; font-size: 16px;\"> </span>Before the completed order is sent, ...... is required.</p>\n<p><strong>Services included in the price</strong></p>\n<p><span style=\"background-color: #ffffff; font-family: Arial; font-size: 16px;\">&bull;</span><span style=\"background-color: #ffffff; font-family: Arial; font-size: 16px;\"> </span>Photos can be placed in a folder,e.g. with the name ...... .</p>\n<p><span style=\"background-color: #ffffff; font-family: Arial; font-size: 16px;\">&bull;</span><span style=\"background-color: #ffffff; font-family: Arial; font-size: 16px;\"> </span>The ...... and contrast can be improved if necessary.</p>\n<p><span style=\"background-color: #ffffff; font-family: Arial; font-size: 16px;\">&bull;</span><span style=\"background-color: #ffffff; font-family: Arial; font-size: 16px;\"> </span>Photos which are very fragile will be scanned by ......</p>\n<p><strong>Special restore service (costs extra)</strong></p>\n<p><span style=\"background-color: #ffffff; font-family: Arial; font-size: 16px;\">&bull;</span><span style=\"background-color: #ffffff; font-family: Arial; font-size: 16px;\"> </span>It may be possible to remove an object from a photo, or change the ...... .</p>\n<p><span style=\"background-color: #ffffff; font-family: Arial; font-size: 16px;\">&bull;</span><span style=\"background-color: #ffffff; font-family: Arial; font-size: 16px;\"> </span>A photo which is not correctly in ...... cannot be fixed.</p>\n<p><strong>Other information</strong></p>\n<p><span style=\"background-color: #ffffff; font-family: Arial; font-size: 16px;\">&bull;</span><span style=\"background-color: #ffffff; font-family: Arial; font-size: 16px;\"> </span>Orders are completed within ...... .</p>\n<p><span style=\"background-color: #ffffff; font-family: Arial; font-size: 16px;\">&bull;</span><span style=\"background-color: #ffffff; font-family: Arial; font-size: 16px;\"> </span>Send the photos in a box (not ......).</p>"
+          },
+          "answerJson": [
+            {
+              "explain": "照片应从相框中拿出来，即不能在相框中，故填frame。",
+              "correctValue": "frame",
+              "sentenceList": [10]
+            },
+            {
+              "explain": "300-400张照片收费195英镑，360在此范围内，故填195。",
+              "correctValue": "195/a hundred and ninety-five/a hundred ninety-five/one hundred ninety-five/one hundred and ninety-five",
+              "sentenceList": [13]
+            },
+            {
+              "explain": "收到款后才发包裹，即发货前需付款，故填payment。",
+              "correctValue": "payment",
+              "sentenceList": [18]
+            },
+            {
+              "explain": "for instance对应e.g.，故填Grandparents。",
+              "correctValue": "Grandparents",
+              "sentenceList": [23]
+            },
+            {
+              "explain": "答案和contrast并列，touch up对应be improved，故填colour/color。",
+              "correctValue": "colour/color",
+              "sentenceList": [26]
+            },
+            {
+              "explain": "fragile和by原词复现，故填hand。",
+              "correctValue": "hand",
+              "sentenceList": [28]
+            },
+            {
+              "explain": "alter对应change，故填background。",
+              "correctValue": "background",
+              "sentenceList": [30]
+            },
+            {
+              "explain": "correctly对应properly，由介词in可知填focus。",
+              "correctValue": "focus",
+              "sentenceList": [32]
+            },
+            {
+              "explain": "预判答案为时间，within对应in，故填10/ten days。",
+              "correctValue": "10 days/ten days",
+              "sentenceList": [37]
+            },
+            {
+              "explain": "塑料箱有时候会坏掉，故不能（not）用塑料箱子，可知填plastic。",
+              "correctValue": "plastic",
+              "sentenceList": [39]
+            }
+          ],
+          "source": null
+        }
+      ],
+      "source": null,
+      "showDetailTitle": null,
+      "taskCount": 0,
+      "useFor": 1,
+      "answerShowFlag": null,
+      "type": 0
+    },
+    {
+      "listeningId": "120220606152413",
+      "topicId": "92",
+      "topicName": "介绍",
+      "part": 2,
+      "listenQuestion": "C16-Test 2-Part 2",
+      "subjectData": {
+        "listenDetailList": [
+          {
+            "englishDetail": "Good morning and thank you for coming here today.",
+            "translateDetail": "早上好并感谢各位今日莅临。",
+            "startTime": 54310,
+            "endTime": 58380
+          },
+          {
+            "englishDetail": "I'd like to bring you up to date with changes in the school that will affect your children.",
+            "translateDetail": "我想要告诉大家一些学校最新的将对孩子们有影响的改建。",
+            "startTime": 58380,
+            "endTime": 64480
+          },
+          {
+            "englishDetail": "As you know, the school buildings date from various times: some from the 1970s,",
+            "translateDetail": "众所周知，学校的建筑始建于不同时期：有一些建造于20世纪79年代，",
+            "startTime": 64480,
+            "endTime": 71090
+          },
+          {
+            "englishDetail": "some from the last five years, and of course Dartfield House is over a century old. ",
+            "translateDetail": "有一些是近五年才有的，当然还有Dartfield House已经有100多年之久了。",
+            "startTime": 71090,
+            "endTime": 78020
+          },
+          {
+            "englishDetail": "It was commissioned by a businessman, Neville Richards, and intended as his family home, but he died before it was completed.",
+            "translateDetail": "它是被一个叫做Neville Richards商人委托建造的，本打算是用作他自己家的住房，结果在完工之前他就去世了。",
+            "startTime": 78020,
+            "endTime": 87670
+          },
+          {
+            "englishDetail": "His heir chose to sell it to the local council, who turned it into offices.",
+            "translateDetail": "他的继承人把它卖给了地方议会用作办公场所。",
+            "startTime": 87670,
+            "endTime": 93510
+          },
+          {
+            "englishDetail": "A later plan to convert it into a tourist information centre didn't come about, through lack of money,",
+            "translateDetail": "之后本来打算把它改建成一个游客服务中心，但是由于资金问题这个计划没有实现，",
+            "startTime": 93510,
+            "endTime": 100500
+          },
+          {
+            "englishDetail": "and instead it formed the nucleus of this school when it opened 40 years ago.",
+            "translateDetail": "取而代之的是在40年前它变成了这个学校的中心。",
+            "startTime": 100500,
+            "endTime": 107750
+          },
+          {
+            "englishDetail": "The school has grown as the local population has increased,",
+            "translateDetail": "随着当地人口的增长学校也在逐渐扩大，",
+            "startTime": 107750,
+            "endTime": 111920
+          },
+          {
+            "englishDetail": "and I can now give you some news about the lower school site, which is separated from the main site by a road.",
+            "translateDetail": "我先给大家介绍一下低年级校区的讯息，低年级校区和主校区是分开的，在路的另一侧。",
+            "startTime": 111920,
+            "endTime": 120510
+          },
+          {
+            "englishDetail": "Planning permission has been granted for development of both sites. ",
+            "translateDetail": "两个校区的改造计划都被批准了。",
+            "startTime": 120510,
+            "endTime": 125420
+          },
+          {
+            "englishDetail": "The lower school will move to new buildings that will be constructed on the main site. ",
+            "translateDetail": "低年级将会搬到主校区的新建的教学楼。",
+            "startTime": 125420,
+            "endTime": 131810
+          },
+          {
+            "englishDetail": "Developers will construct houses on the existing lower school site.",
+            "translateDetail": "开发商会在现在低年级所在的校区建新的房子。",
+            "startTime": 131810,
+            "endTime": 137190
+          },
+          {
+            "englishDetail": "Work on the new school buildings should start within the next few months.",
+            "translateDetail": "新教学楼的建设将会在未来的几个月内开工。",
+            "startTime": 137190,
+            "endTime": 143610
+          },
+          {
+            "englishDetail": "A more imminent change concerns the catering facilities and the canteen. ",
+            "translateDetail": "一个最近的改造是关于餐饮设备和食堂的。",
+            "startTime": 143610,
+            "endTime": 149670
+          },
+          {
+            "englishDetail": "The canteen is always very busy throughout the lunch period - ",
+            "translateDetail": "食堂总是在午饭的时候特别忙，",
+            "startTime": 149670,
+            "endTime": 153980
+          },
+          {
+            "englishDetail": "in fact it's often full to capacity, because a lot of our pupils like the food that's on offer there. ",
+            "translateDetail": "事实上它也是在满负荷运转的，因为我们大部分的学生都喜欢吃食堂的饭。",
+            "startTime": 153980,
+            "endTime": 161360
+          },
+          {
+            "englishDetail": "But there's only one serving point, so most pupils have to wait a considerable time to be served. ",
+            "translateDetail": "这主要是因为只有一个打饭窗口，所以大部分学生就要等很长时间。",
+            "startTime": 161360,
+            "endTime": 169270
+          },
+          {
+            "englishDetail": " This is obviously unsatisfactory, as they may have hardly finished their lunch before afternoon lessons start.",
+            "translateDetail": "这是非常不好的，因为他们可能在下午开始上课前还没吃完午饭。",
+            "startTime": 169270,
+            "endTime": 177360
+          },
+          {
+            "englishDetail": "So we've had a new Food Hall built, and this will come into use next week. ",
+            "translateDetail": "所以我们建了一个新的餐饮中心，下周就可以上线运营了。",
+            "startTime": 177360,
+            "endTime": 184480
+          },
+          {
+            "englishDetail": " It'll have several serving areas, and I'll give you more details about those in a minute,",
+            "translateDetail": "那有非常多的打饭窗口，我等下会给大家详细介绍，",
+            "startTime": 184480,
+            "endTime": 190400
+          },
+          {
+            "englishDetail": "but one thing we ask you to do, to help in the smooth running of the Food Hall, ",
+            "translateDetail": "但是在此之前，为了让我们的餐饮中心运转的更顺畅，",
+            "startTime": 190400,
+            "endTime": 195600
+          },
+          {
+            "englishDetail": "is to discuss with your children each morning which type of food they want to eat that day, so they can go straight to the relevant serving point.",
+            "translateDetail": "我需要各位家长在每天早晨都问一下孩子他们当天想吃什么，这样他们就能直接去选好的打饭窗口了。",
+            "startTime": 195600,
+            "endTime": 205900
+          },
+          {
+            "englishDetail": " There won't be any junk food - everything on offer will be healthy- ",
+            "translateDetail": "这没有垃圾食品-我们只提供健康的饮食-",
+            "startTime": 205900,
+            "endTime": 210640
+          },
+          {
+            "englishDetail": "and there's no change to the current system of paying for lunches by topping up your child's electronic payment card online.",
+            "translateDetail": "对于当前的午餐支付系统我们没有进行任何改变，还是用学生们的可以线上充值的充电子支付卡即可。",
+            "startTime": 210640,
+            "endTime": 220290
+          },
+          {
+            "englishDetail": "You may be wondering what will happen to the old canteen.",
+            "translateDetail": "你可能会想知道原来的食堂怎么样了。",
+            "startTime": 220290,
+            "endTime": 224130
+          },
+          {
+            "englishDetail": "We'll still have tables and chairs in there, and pupils can eat food from the Food Hall or lunch they've brought from home.",
+            "translateDetail": "那还是有桌子和椅子的，学生能把从餐饮中心买好的饭或者从家里带来的午餐带到原来的食堂食用。",
+            "startTime": 224130,
+            "endTime": 232520
+          },
+          {
+            "englishDetail": "Eventually we may use part of the canteen for storage, but first we'll see how many pupils go in there at lunchtime.",
+            "translateDetail": "之后我们可能会把老食堂的一部分用作仓储，但是这还是要优先取决于会有多少学生在午饭的时候过去。",
+            "startTime": 232520,
+            "endTime": 243320
+          },
+          {
+            "englishDetail": "OK, back to the serving points in the Food Hall, which will all have side dishes, desserts and drinks on sale, as well as main courses.",
+            "translateDetail": "好了，还是让我们回到餐饮中心的打饭窗口，这不光有主菜，还有配菜，甜品和饮料在售。",
+            "startTime": 282430,
+            "endTime": 294150
+          },
+          {
+            "englishDetail": "One serving point we call World Adventures.",
+            "translateDetail": "其中有一个窗口我们叫它世界大冒险。",
+            "startTime": 294150,
+            "endTime": 298160
+          },
+          {
+            "englishDetail": "This will serve a different country's cuisine each day, maybe Chinese one day and Lebanese the next.",
+            "translateDetail": "这每天都会供应来自不同国家风味的美食。第一天可能是中餐，第二天可能就是黎巴嫩菜。",
+            "startTime": 298160,
+            "endTime": 306830
+          },
+          {
+            "englishDetail": "The menus will be planned for a week at a time, so pupils will know what's going to be available the whole of that week.",
+            "translateDetail": "菜单我们每次都是提前一周做的，所以孩子们都会提前知道我们下一周供应什么菜式。",
+            "startTime": 306830,
+            "endTime": 316330
+          },
+          {
+            "englishDetail": "Street Life is also international, with food from three particular cultures.",
+            "translateDetail": "街区生活也是国际化口味的，这提供三种特别文化的菜式。",
+            "startTime": 316330,
+            "endTime": 323220
+          },
+          {
+            "englishDetail": "We'll ask pupils to make suggestions, so perhaps sometimes there'll be food from Thailand, Ethiopia and Mexico,",
+            "translateDetail": "我们会征询学生的意见，所以有的时候可能是泰国菜，埃塞俄比亚菜和墨西哥菜，",
+            "startTime": 323220,
+            "endTime": 332590
+          },
+          {
+            "englishDetail": "and then one of them will be replaced by Jamaican food for a week or two.",
+            "translateDetail": "之后的一或两周其中的一种菜式可能会被牙买加菜所取代。",
+            "startTime": 332590,
+            "endTime": 339120
+          },
+          {
+            "englishDetail": "The Speedy Italian serving point will cater particularly for the many pupils who don't eat meat or fish:they can be sure that all the food served there is suitable for them.",
+            "translateDetail": "速度意大利窗口主要是针对一些不吃肉和鱼的学生：他们能被保证这提供的所有的餐品都是适合他们的。",
+            "startTime": 339120,
+            "endTime": 352640
+          },
+          {
+            "englishDetail": "There'll be plenty of variety, so they shouldn't get bored with the food.",
+            "translateDetail": "餐品的种类也是十分多的，所以不用担心会吃腻。",
+            "startTime": 352640,
+            "endTime": 358640
+          },
+          {
+            "englishDetail": "OK, that's all on the new Food Hall.Now after-school lessons.",
+            "translateDetail": "好啦，这就是所有关于餐饮中心的介绍了。我们开始介绍课外活动课。",
+            "startTime": 358640,
+            "endTime": 364810
+          },
+          {
+            "englishDetail": "These are very popular with pupils, particularly swimming - in fact there's a waiting list for lessons.",
+            "translateDetail": "这是非常受学生们欢迎的，尤其是游泳-事实上游泳课有一个排队等候名单。",
+            "startTime": 364810,
+            "endTime": 373170
+          },
+          {
+            "englishDetail": "Cycling is another favourite, and I'm delighted that dozens of pupils make use of the chance to learn to ride in off-road conditions. ",
+            "translateDetail": "骑行是另外一个受欢迎的课程，我很高兴的是很多学生利用这个机会在非公路的条件下去学习骑车。",
+            "startTime": 373170,
+            "endTime": 382880
+          },
+          {
+            "englishDetail": "It means that more and more cycle to and from school every day.",
+            "translateDetail": "这就意味着越来越多的学生每天会骑车上下课。",
+            "startTime": 382880,
+            "endTime": 387430
+          },
+          {
+            "englishDetail": "As you know, we have a well-equipped performance centre, and we're going to start drama classes in there, too. ",
+            "translateDetail": "就像大家所知道的一样，我们有一个设施完备的演出中心，我们也将在那开展戏剧课程。",
+            "startTime": 387430,
+            "endTime": 395200
+          },
+          {
+            "englishDetail": "Pupils will be able to join in just for fun or work up to taking part in a play - we hope to put on at least one a year.",
+            "translateDetail": "学生们可以只是来这边玩或者慢慢发展成为扮演其中的一个角色-我们希望一年至少会演出一次。",
+            "startTime": 395200,
+            "endTime": 405280
+          },
+          {
+            "englishDetail": "We already teach a number of pupils to use the sound and lighting systems in the centre.",
+            "translateDetail": "我们已经教了很多学生去使用演出中心的声光系统。",
+            "startTime": 405280,
+            "endTime": 411120
+          },
+          {
+            "englishDetail": "And a former pupil has given a magnificent grand piano to the school, so a few pupils will be able to learn at the school instead of going to the local college, as many of them do at the moment.",
+            "translateDetail": "之前的一个学生给学校捐了一个很棒的大钢琴，因此一些学生将来就可以在学校里而不是校外的培训中心学习弹钢琴了，因为他们大部分现在就是在校外学习钢琴的。",
+            "startTime": 411120,
+            "endTime": 425710
+          }
+        ]
+      },
+      "listenContent": "<div>Good morning and thank you for coming here today. I'd like to bring you up to date with changes in the school that will affect your children.</div>\n<div>&nbsp;</div>\n<div>As you know, the school buildings date from various times: some from the 1970s, some from the last five years, and of course Dartfield House is over a century old.&nbsp;It was commissioned by a businessman, Neville Richards, and intended as his family home, but he died before it was completed. His heir chose to sell it to the local council, who turned it into offices. A later plan to convert it into a tourist information centre didn't come about, through lack of money, and instead it formed the nucleus of this school when it opened 40 years ago.</div>\n<div>&nbsp;</div>\n<div>The school has grown as the local population has increased, and I can now give you some news about the lower school site, which is separated from the main site by a road. Planning permission has been granted for development of both sites. The lower school will move to new buildings that will be constructed on the main site.&nbsp; Developers will construct houses on the existing lower school site. Work on the new school buildings should start within the next few months.</div>\n<div>&nbsp;</div>\n<div>A more imminent change concerns the catering facilities and the canteen.&nbsp;The canteen is always very busy throughout the lunch period -&nbsp;in fact it's often full to capacity, because a lot of our pupils like the food that's on offer there.&nbsp;But there's only one serving point, so most pupils have to wait a considerable time to be served.&nbsp;This is obviously unsatisfactory, as they may have hardly finished their lunch before afternoon lessons start.</div>\n<div>&nbsp;</div>\n<div>So we've had a new Food Hall built, and this will come into use next week.&nbsp;It'll have several serving areas, and I'll give you more details about those in a minute, but one thing we ask you to do, to help in the smooth running of the Food Hall,&nbsp;is to discuss with your children each morning which type of food they want to eat that day, so they can go straight to the relevant serving point. There won't be any junk food - everything on offer will be healthy - and there's no change to the current system of paying for lunches by topping up your child's electronic payment card online.</div>\n<div>&nbsp;</div>\n<div>You may be wondering what will happen to the old canteen. We'll still have tables and chairs in there, and pupils can eat food from the Food Hall or lunch they've brought from home. Eventually we may use part of the canteen for storage, but first we'll see how many pupils go in there at lunchtime.</div>\n<div>&nbsp;</div>\n<div>OK, back to the serving points in the Food Hall, which will all have side dishes, desserts and drinks on sale, as well as main courses.</div>\n<div><br />One serving point we call World Adventures. This will serve a different country's cuisine each day, maybe Chinese one day and Lebanese the next. The menus will be planned for a week at a time, so pupils will know whafs going to be available the whole of that week.</div>\n<div>&nbsp;</div>\n<div>Street Life is also international, with food from three particular cultures. We'll ask pupils to make suggestions, so perhaps sometimes there'll be food from Thailand, Ethiopia and Mexico, and then one of them will be replaced by Jamaican food for a week or two.</div>\n<div>&nbsp;</div>\n<div>The Speedy Italian serving point will cater particularly for the many pupils who don't eat meal or fish:they can be sure that all the food served there is suitable for them. There'll be plenty of variety, so they shouldn't get bored with the food.</div>\n<div><br />OK, that's all on the new Food Hall.Now after-school lessons. These are very popular with pupils, particularly swimming - in fact there's a waiting list for lessons. Cycling is another favourite, and I'm delighted that dozens of pupils make use of the chance to learn to ride in off-road conditions.&nbsp;It means that more and more cycle to and from school every day. As you know, we have a well-equipped performance centre, and we're going to start drama classes in there, too.&nbsp;Pupils will be able to join in just for fun or work up to taking part in a play - we hope to put on at least one a year. We already teach a number of pupils to use the sound and lighting systems in the centre. And a former pupil has given a magnificent grand piano to the school,&nbsp;so a few pupils will be able to learn at the school instead of going to the local college, as many of them do at the moment.</div>",
+      "listenDetail": "[00:54.31]Good morning and thank you for coming here today.##早上好并感谢各位今日莅临。\n[00:58.38]I'd like to bring you up to date with changes in the school that will affect your children.##我想要告诉大家一些学校最新的将对孩子们有影响的改建。\n[01:04.48]As you know, the school buildings date from various times: some from the 1970s,##众所周知，学校的建筑始建于不同时期：有一些建造于20世纪79年代，\n[01:11.09]some from the last five years, and of course Dartfield House is over a century old. ##有一些是近五年才有的，当然还有Dartfield House已经有100多年之久了。\n[01:18.02]It was commissioned by a businessman, Neville Richards, and intended as his family home, but he died before it was completed.##它是被一个叫做Neville Richards商人委托建造的，本打算是用作他自己家的住房，结果在完工之前他就去世了。\n[01:27.67]His heir chose to sell it to the local council, who turned it into offices.##他的继承人把它卖给了地方议会用作办公场所。\n[01:33.51]A later plan to convert it into a tourist information centre didn't come about, through lack of money,##之后本来打算把它改建成一个游客服务中心，但是由于资金问题这个计划没有实现，\n[01:40.50]and instead it formed the nucleus of this school when it opened 40 years ago.##取而代之的是在40年前它变成了这个学校的中心。\n[01:47.75]The school has grown as the local population has increased,##随着当地人口的增长学校也在逐渐扩大，\n[01:51.92]and I can now give you some news about the lower school site, which is separated from the main site by a road.##我先给大家介绍一下低年级校区的讯息，低年级校区和主校区是分开的，在路的另一侧。\n[02:00.51]Planning permission has been granted for development of both sites. ##两个校区的改造计划都被批准了。\n[02:05.42]The lower school will move to new buildings that will be constructed on the main site. ##低年级将会搬到主校区的新建的教学楼。\n[02:11.81]Developers will construct houses on the existing lower school site.##开发商会在现在低年级所在的校区建新的房子。\n[02:17.19]Work on the new school buildings should start within the next few months.##新教学楼的建设将会在未来的几个月内开工。\n[02:23.61]A more imminent change concerns the catering facilities and the canteen. ##一个最近的改造是关于餐饮设备和食堂的。\n[02:29.67]The canteen is always very busy throughout the lunch period - ##食堂总是在午饭的时候特别忙，\n[02:33.98]in fact it's often full to capacity, because a lot of our pupils like the food that's on offer there. ##事实上它也是在满负荷运转的，因为我们大部分的学生都喜欢吃食堂的饭。\n[02:41.36]But there's only one serving point, so most pupils have to wait a considerable time to be served. ##这主要是因为只有一个打饭窗口，所以大部分学生就要等很长时间。\n[02:49.27] This is obviously unsatisfactory, as they may have hardly finished their lunch before afternoon lessons start.##这是非常不好的，因为他们可能在下午开始上课前还没吃完午饭。\n[02:57.36]So we've had a new Food Hall built, and this will come into use next week. ##所以我们建了一个新的餐饮中心，下周就可以上线运营了。\n[03:04.48] It'll have several serving areas, and I'll give you more details about those in a minute,##那有非常多的打饭窗口，我等下会给大家详细介绍，\n[03:10.40]but one thing we ask you to do, to help in the smooth running of the Food Hall, ##但是在此之前，为了让我们的餐饮中心运转的更顺畅，\n[03:15.60]is to discuss with your children each morning which type of food they want to eat that day, so they can go straight to the relevant serving point.##我需要各位家长在每天早晨都问一下孩子他们当天想吃什么，这样他们就能直接去选好的打饭窗口了。\n[03:25.90] There won't be any junk food - everything on offer will be healthy- ##这没有垃圾食品-我们只提供健康的饮食-\n[03:30.64]and there's no change to the current system of paying for lunches by topping up your child's electronic payment card online.##对于当前的午餐支付系统我们没有进行任何改变，还是用学生们的可以线上充值的充电子支付卡即可。\n[03:40.29]You may be wondering what will happen to the old canteen.##你可能会想知道原来的食堂怎么样了。\n[03:44.13]We'll still have tables and chairs in there, and pupils can eat food from the Food Hall or lunch they've brought from home.##那还是有桌子和椅子的，学生能把从餐饮中心买好的饭或者从家里带来的午餐带到原来的食堂食用。\n[03:52.52]Eventually we may use part of the canteen for storage, but first we'll see how many pupils go in there at lunchtime.##之后我们可能会把老食堂的一部分用作仓储，但是这还是要优先取决于会有多少学生在午饭的时候过去。\n[04:03.32]\n[04:42.43]OK, back to the serving points in the Food Hall, which will all have side dishes, desserts and drinks on sale, as well as main courses.##好了，还是让我们回到餐饮中心的打饭窗口，这不光有主菜，还有配菜，甜品和饮料在售。\n[04:54.15]One serving point we call World Adventures.##其中有一个窗口我们叫它世界大冒险。\n[04:58.16]This will serve a different country's cuisine each day, maybe Chinese one day and Lebanese the next.##这每天都会供应来自不同国家风味的美食。第一天可能是中餐，第二天可能就是黎巴嫩菜。\n[05:06.83]The menus will be planned for a week at a time, so pupils will know what's going to be available the whole of that week.##菜单我们每次都是提前一周做的，所以孩子们都会提前知道我们下一周供应什么菜式。\n[05:16.33]Street Life is also international, with food from three particular cultures.##街区生活也是国际化口味的，这提供三种特别文化的菜式。\n[05:23.22]We'll ask pupils to make suggestions, so perhaps sometimes there'll be food from Thailand, Ethiopia and Mexico,##我们会征询学生的意见，所以有的时候可能是泰国菜，埃塞俄比亚菜和墨西哥菜，\n[05:32.59]and then one of them will be replaced by Jamaican food for a week or two.##之后的一或两周其中的一种菜式可能会被牙买加菜所取代。\n[05:39.12]The Speedy Italian serving point will cater particularly for the many pupils who don't eat meat or fish:they can be sure that all the food served there is suitable for them.##速度意大利窗口主要是针对一些不吃肉和鱼的学生：他们能被保证这提供的所有的餐品都是适合他们的。\n[05:52.64]There'll be plenty of variety, so they shouldn't get bored with the food.##餐品的种类也是十分多的，所以不用担心会吃腻。\n[05:58.64]OK, that's all on the new Food Hall.Now after-school lessons.##好啦，这就是所有关于餐饮中心的介绍了。我们开始介绍课外活动课。\n[06:04.81]These are very popular with pupils, particularly swimming - in fact there's a waiting list for lessons.##这是非常受学生们欢迎的，尤其是游泳-事实上游泳课有一个排队等候名单。\n[06:13.17]Cycling is another favourite, and I'm delighted that dozens of pupils make use of the chance to learn to ride in off-road conditions. ##骑行是另外一个受欢迎的课程，我很高兴的是很多学生利用这个机会在非公路的条件下去学习骑车。\n[06:22.88]It means that more and more cycle to and from school every day.##这就意味着越来越多的学生每天会骑车上下课。\n[06:27.43]As you know, we have a well-equipped performance centre, and we're going to start drama classes in there, too. ##就像大家所知道的一样，我们有一个设施完备的演出中心，我们也将在那开展戏剧课程。\n[06:35.20]Pupils will be able to join in just for fun or work up to taking part in a play - we hope to put on at least one a year.##学生们可以只是来这边玩或者慢慢发展成为扮演其中的一个角色-我们希望一年至少会演出一次。\n[06:45.28]We already teach a number of pupils to use the sound and lighting systems in the centre.##我们已经教了很多学生去使用演出中心的声光系统。\n[06:51.12]And a former pupil has given a magnificent grand piano to the school, so a few pupils will be able to learn at the school instead of going to the local college, as many of them do at the moment.##之前的一个学生给学校捐了一个很棒的大钢琴，因此一些学生将来就可以在学校里而不是校外的培训中心学习弹钢琴了，因为他们大部分现在就是在校外学习钢琴的。\n[07:05.71]",
+      "audioUrl": "https://static.ieltsbro.com/section/audio_file/1654500216634.mp3",
+      "seconds": 463,
+      "difficulty": 1,
+      "status": 0,
+      "answerCharge": 0,
+      "averageTimeSpent": null,
+      "averageAccuracyRate": null,
+      "exercisesCount": null,
+      "sortIndex": null,
+      "updateId": "6a6bab5f7a814a16b632732f3b07e60d",
+      "updateName": "邓泌",
+      "createDate": "2022-06-06T15:24:14.000+0800",
+      "updateDate": "2022-11-28T18:53:26.000+0800",
+      "id": 482,
+      "questionCount": null,
+      "questions": [
+        {
+          "questionId": "6202206061537221",
+          "subjectType": 1,
+          "subjectId": 120220606152413,
+          "questionNavigation": "Question11-15",
+          "questionCount": 5,
+          "questionType": 1,
+          "question": null,
+          "answer": null,
+          "updateId": "170fb551b1f64a489fefca0222770170",
+          "updateName": "朱宁",
+          "createDate": null,
+          "updateDate": "2022-09-02T09:42:22.000+0800",
+          "checkState": null,
+          "sortIndex": 0,
+          "questionJson": {
+            "questionType": "1",
+            "descriptions": "<p class=\"MsoNormal\"><span style=\"mso-spacerun: 'yes'; font-family: Cambria; mso-fareast-font-family: 'MS Mincho'; mso-bidi-font-family: 'Times New Roman'; font-size: 11.0000pt;\">Questions 11-15</span><span style=\"mso-spacerun: 'yes'; font-family: Cambria; mso-fareast-font-family: 'MS Mincho'; mso-bidi-font-family: 'Times New Roman'; font-size: 11.0000pt;\"><br /></span><span style=\"mso-spacerun: 'yes'; font-family: Cambria; mso-fareast-font-family: 'MS Mincho'; mso-bidi-font-family: 'Times New Roman'; font-size: 11.0000pt;\">Choose the correct letter, A, B or C.</span><span style=\"mso-spacerun: 'yes'; font-family: Cambria; mso-fareast-font-family: 'MS Mincho'; mso-bidi-font-family: 'Times New Roman'; font-size: 11.0000pt;\"><br /></span></p>",
+            "startIndex": 11,
+            "endIndex": 15,
+            "questions": [
+              {
+                "number": 1,
+                "content": "Dartfield House school used to be",
+                "options": [
+                  {
+                    "content": "a tourist information centre. "
+                  },
+                  {
+                    "content": "a private home."
+                  },
+                  {
+                    "content": "a local council building."
+                  }
+                ]
+              },
+              {
+                "number": 1,
+                "content": "What is planned with regard to the lower school?",
+                "options": [
+                  {
+                    "content": "All buildings on the main site will be improved. "
+                  },
+                  {
+                    "content": "The lower school site will be used for new homes. "
+                  },
+                  {
+                    "content": "Additional school buildings will be constructed on the lower school site. "
+                  }
+                ]
+              },
+              {
+                "number": 1,
+                "content": "The catering has been changed because of",
+                "options": [
+                  {
+                    "content": " long queuing times. "
+                  },
+                  {
+                    "content": "changes to the school timetable. "
+                  },
+                  {
+                    "content": "dissatisfaction with the menus."
+                  }
+                ]
+              },
+              {
+                "number": 1,
+                "content": "Parents are asked to",
+                "options": [
+                  {
+                    "content": " help their children to decide in advance which serving point to use. "
+                  },
+                  {
+                    "content": "make sure their children have enough money for food. "
+                  },
+                  {
+                    "content": "advise their children on healthy food to eat.  "
+                  }
+                ]
+              },
+              {
+                "number": 1,
+                "content": "What does the speaker say about the existing canteen?",
+                "options": [
+                  {
+                    "content": "Food will still be served there."
+                  },
+                  {
+                    "content": "Only staff will have access to it."
+                  },
+                  {
+                    "content": "Pupils can take their food into it. "
+                  }
+                ]
+              }
+            ],
+            "questionNum": 5
+          },
+          "answerJson": [
+            {
+              "correctValue": 2,
+              "explain": "因为商人去世未能成为私人住宅，后来被卖给委员会作办公室，故C。",
+              "sentenceList": [6]
+            },
+            {
+              "correctValue": 1,
+              "explain": "lower school 原址上会建房屋，new homes对应construct houses，故B。",
+              "sentenceList": [13]
+            },
+            {
+              "correctValue": 0,
+              "explain": "long queuing times对应wait a considerable time，故A。",
+              "sentenceList": [18]
+            },
+            {
+              "correctValue": 0,
+              "explain": "家长要提前和孩子商量吃什么，这样孩子就可以直接去相应的窗口，故A。",
+              "sentenceList": [23]
+            },
+            {
+              "correctValue": 2,
+              "explain": "there指代老餐厅，那里提供桌椅，学生带食物去那里吃东西，故C。",
+              "sentenceList": [27]
+            }
+          ],
+          "source": null
+        },
+        {
+          "questionId": "6202206061537223",
+          "subjectType": 1,
+          "subjectId": 120220606152413,
+          "questionNavigation": "Question16-18",
+          "questionCount": 3,
+          "questionType": 4,
+          "question": null,
+          "answer": null,
+          "updateId": "170fb551b1f64a489fefca0222770170",
+          "updateName": "朱宁",
+          "createDate": null,
+          "updateDate": "2022-09-02T09:42:22.000+0800",
+          "checkState": null,
+          "sortIndex": 1,
+          "questionJson": {
+            "questionType": "4",
+            "descriptions": "<p class=\"MsoNormal\"><span style=\"mso-spacerun: 'yes'; font-family: Cambria; mso-fareast-font-family: 'MS Mincho'; mso-bidi-font-family: 'Times New Roman'; font-size: 11.0000pt;\">Questions 16-18</span><span style=\"mso-spacerun: 'yes'; font-family: Cambria; mso-fareast-font-family: 'MS Mincho'; mso-bidi-font-family: 'Times New Roman'; font-size: 11.0000pt;\"><br /></span><span style=\"mso-spacerun: 'yes'; font-family: Cambria; mso-fareast-font-family: 'MS Mincho'; mso-bidi-font-family: 'Times New Roman'; font-size: 11.0000pt;\">What comment does the speaker make about each of the following serving points in the Food Hall?</span><span style=\"mso-spacerun: 'yes'; font-family: Cambria; mso-fareast-font-family: 'MS Mincho'; mso-bidi-font-family: 'Times New Roman'; font-size: 11.0000pt;\"><br /></span><span style=\"mso-spacerun: 'yes'; font-family: Cambria; mso-fareast-font-family: 'MS Mincho'; mso-bidi-font-family: 'Times New Roman'; font-size: 11.0000pt;\">Choose THREE answers from the box and write the correct letter, A-D, next to Questions 16-18.</span><span style=\"mso-spacerun: 'yes'; font-family: Cambria; mso-fareast-font-family: 'MS Mincho'; mso-bidi-font-family: 'Times New Roman'; font-size: 11.0000pt;\"><br /></span></p>",
+            "startIndex": 16,
+            "endIndex": 18,
+            "questionNum": 3,
+            "matchOptions": [
+              {
+                "index": "A",
+                "content": "pupils help to plan menus"
+              },
+              {
+                "index": "B",
+                "content": "only vegetarian food"
+              },
+              {
+                "index": "C",
+                "content": "different food every week"
+              },
+              {
+                "index": "D",
+                "content": "daily change in menu"
+              }
+            ],
+            "questionsContent": "<p class=\"MsoNormal\"><span style=\"mso-spacerun: 'yes'; font-family: 'MS Mincho'; mso-ascii-font-family: Cambria; mso-hansi-font-family: Cambria; mso-bidi-font-family: 'Times New Roman'; font-size: 11.0000pt;\"><span style=\"font-family: Cambria;\">Food available at serving points in Food Hall</span></span></p>\n<p class=\"MsoNormal\"><span style=\"mso-spacerun: 'yes'; font-family: Cambria; mso-fareast-font-family: 'MS Mincho'; mso-bidi-font-family: 'Times New Roman'; font-size: 11.0000pt;\">16 World Adventures &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;...... &nbsp; &nbsp; &nbsp;&nbsp;</span></p>\n<p class=\"MsoNormal\"><span style=\"mso-spacerun: 'yes'; font-family: Cambria; mso-fareast-font-family: 'MS Mincho'; mso-bidi-font-family: 'Times New Roman'; font-size: 11.0000pt;\">17 Street Life &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; ...... &nbsp; &nbsp;</span></p>\n<p class=\"MsoNormal\"><span style=\"mso-spacerun: 'yes'; font-family: Cambria; mso-fareast-font-family: 'MS Mincho'; mso-bidi-font-family: 'Times New Roman'; font-size: 11.0000pt;\">18 Speedy Italian &nbsp; &nbsp; &nbsp; &nbsp;...... &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;</span></p>",
+            "renderOrder": 0,
+            "indexType": "en",
+            "optionsStyleType": 1,
+            "optionsTitle": "Comments",
+            "showIndex": 1
+          },
+          "answerJson": [
+            {
+              "explain": "serve a different country’s cuisine each day对应daily change，故D。",
+              "correctValue": 3,
+              "sentenceList": [30, 31]
+            },
+            {
+              "explain": "让学生提建议，只有A（help to plan）符合，故A。",
+              "correctValue": 0,
+              "sentenceList": [33, 34]
+            },
+            {
+              "explain": " don’t eat meat or fish对应only vegetarian food，故B。",
+              "correctValue": 1,
+              "sentenceList": [36]
+            }
+          ],
+          "source": null
+        },
+        {
+          "questionId": "6202206061537228",
+          "subjectType": 1,
+          "subjectId": 120220606152413,
+          "questionNavigation": "Question19-20",
+          "questionCount": 2,
+          "questionType": 2,
+          "question": null,
+          "answer": null,
+          "updateId": "170fb551b1f64a489fefca0222770170",
+          "updateName": "朱宁",
+          "createDate": null,
+          "updateDate": "2022-09-02T09:42:22.000+0800",
+          "checkState": null,
+          "sortIndex": 2,
+          "questionJson": {
+            "questionType": "2",
+            "descriptions": "<p class=\"MsoNormal\"><span style=\"mso-spacerun: 'yes'; font-family: Cambria; mso-fareast-font-family: 'MS Mincho'; mso-bidi-font-family: 'Times New Roman'; font-size: 11.0000pt;\">Questions 19 and 20</span><span style=\"mso-spacerun: 'yes'; font-family: Cambria; mso-fareast-font-family: 'MS Mincho'; mso-bidi-font-family: 'Times New Roman'; font-size: 11.0000pt;\"><br /></span><span style=\"mso-spacerun: 'yes'; font-family: Cambria; mso-fareast-font-family: 'MS Mincho'; mso-bidi-font-family: 'Times New Roman'; font-size: 11.0000pt;\">Choose TWO letters, A-E.</span><span style=\"mso-spacerun: 'yes'; font-family: Cambria; mso-fareast-font-family: 'MS Mincho'; mso-bidi-font-family: 'Times New Roman'; font-size: 11.0000pt;\"><br /></span></p>",
+            "startIndex": 19,
+            "endIndex": 20,
+            "questions": [
+              {
+                "number": 2,
+                "content": "Which TWO optional after-school lessons are new?",
+                "options": [
+                  {
+                    "content": "swimming "
+                  },
+                  {
+                    "content": "piano"
+                  },
+                  {
+                    "content": "acting"
+                  },
+                  {
+                    "content": "cycling"
+                  },
+                  {
+                    "content": "theatre sound and lighting"
+                  }
+                ]
+              }
+            ],
+            "questionNum": 2
+          },
+          "answerJson": [
+            {
+              "correctValue": [1, 2],
+              "explain": "学生未来能学钢琴，钢琴课即是新的课程，故B。学生未来会开始上戏剧课，也是新的课程，drama对应acting，故C。",
+              "sentenceList": [42, 45]
+            }
+          ],
+          "source": null
+        }
+      ],
+      "source": null,
+      "showDetailTitle": null,
+      "taskCount": 0,
+      "useFor": 1,
+      "answerShowFlag": null,
+      "type": 0
+    },
+    {
+      "listeningId": "120220606154231",
+      "topicId": "93",
+      "topicName": "讨论",
+      "part": 3,
+      "listenQuestion": "C16-Test 2-Part 3",
+      "subjectData": {
+        "listenDetailList": [
+          {
+            "englishDetail": "So Luke, for our next psychology assignment we have to do something on sleep and dreams.",
+            "translateDetail": "好，卢克，下一份心理学作业我们必须要做一些关于睡眠和做梦相关的了。",
+            "startTime": 52380,
+            "endTime": 59520
+          },
+          {
+            "englishDetail": "Right. I've just read an article suggesting why we tend to forget most of our dreams soon after we wake up.",
+            "translateDetail": "好。我刚看完的一篇文章讲到为什么我们一醒来后就会忘掉刚才梦里的大部分内容。",
+            "startTime": 59520,
+            "endTime": 67550
+          },
+          {
+            "englishDetail": "I mean, most of my dreams aren't that interesting anyway, but what it said was that if we remembered everything,",
+            "translateDetail": "我的意思是说，尽管我们做的许多梦都那么无趣，但是如果你记住了所有的梦，",
+            "startTime": 67550,
+            "endTime": 75080
+          },
+          {
+            "englishDetail": "we might get mixed up about what actually happened and what we dreamed. So it's a sort of protection.I hadn't heard that idea before.",
+            "translateDetail": "我们可能就会把真实发生在生活里的和在梦里发生的事情混在一起。因此这算是一种保护机制吧。我之前并没有听说过。",
+            "startTime": 75080,
+            "endTime": 84850
+          },
+          {
+            "englishDetail": "I'd always assumed that it was just that we didn't have room in our memories for all that stuff.",
+            "translateDetail": "我一直认为是我们的记忆里没有那么多的空间去记住这一切。",
+            "startTime": 84850,
+            "endTime": 89920
+          },
+          {
+            "englishDetail": "Me too. What do you think about the idea that our dreams may predict the future?",
+            "translateDetail": "我也这么觉得。那你觉得我们做的梦会预知未来嘛？",
+            "startTime": 89920,
+            "endTime": 96140
+          },
+          {
+            "englishDetail": "It's a belief that you get all over the world.",
+            "translateDetail": "全世界的人可能都是这么想的。",
+            "startTime": 96140,
+            "endTime": 98660
+          },
+          {
+            "englishDetail": "Yeah, lots of people have a story of it happening to them,",
+            "translateDetail": "嗯，这种事发生在很多人身上，",
+            "startTime": 98660,
+            "endTime": 102850
+          },
+          {
+            "englishDetail": "but the explanation I've read is that for each dream that comes true, we have thousands that don't,",
+            "translateDetail": "但是我之前看书上说是这么解释的，有的梦可能真的发生了，",
+            "startTime": 102850,
+            "endTime": 109720
+          },
+          {
+            "englishDetail": "but we don't notice those, we don't even remember them. ",
+            "translateDetail": "但是还有更多的梦是没有发生在现实的，但是我们就是没有注意，或者说我们压根就记不住了。",
+            "startTime": 109720,
+            "endTime": 113620
+          },
+          {
+            "englishDetail": "We just remember the ones where something in the real world, like a view or an action, happens to trigger a dream memory.",
+            "translateDetail": "我们只能记住一些发生在真实世界中的事，比如说一个风景或者一个动作，从而触发了梦里的记忆。",
+            "startTime": 113620,
+            "endTime": 122750
+          },
+          {
+            "englishDetail": "Right. So it's just a coincidence really. ",
+            "translateDetail": "是的。所以这就是个巧合。",
+            "startTime": 122750,
+            "endTime": 127050
+          },
+          {
+            "englishDetail": "Something else I read about is what they call segmented sleeping.",
+            "translateDetail": "我还读过一些被称为分段睡眠的资料。",
+            "startTime": 127050,
+            "endTime": 131380
+          },
+          {
+            "englishDetail": "That's a theory that hundreds of years ago, people used to get up in the middle of the night and have a chat or something to eat, then go back to bed.So I tried it myself.",
+            "translateDetail": "这个理论是说几百年前，人们半夜起床开始聊天或者吃东西，然后再继续回去睡觉。因此我就自己试了一下 。",
+            "startTime": 131380,
+            "endTime": 142850
+          },
+          {
+            "englishDetail": "Why?",
+            "translateDetail": "为什么？",
+            "startTime": 142850,
+            "endTime": 143850
+          },
+          {
+            "englishDetail": "Well it's meant to make you more creative.I don't know why.",
+            "translateDetail": "嗯，这会让你变得更有创造力。我不知道为什么",
+            "startTime": 143850,
+            "endTime": 147790
+          },
+          {
+            "englishDetail": "But I gave it up after a week. It just didn't fit in with my lifestyle.",
+            "translateDetail": "但是我一周之后就放弃了。这和我的生活方式不搭。",
+            "startTime": 147790,
+            "endTime": 152980
+          },
+          {
+            "englishDetail": "But most pre-school children have a short sleep in the day don't they?",
+            "translateDetail": "但是很多学龄前儿童不是都会在白天小睡一会吗？",
+            "startTime": 152980,
+            "endTime": 157560
+          },
+          {
+            "englishDetail": "There was an experiment some students did here last term to see at what age kids should stop having naps.",
+            "translateDetail": "上个学期一些学生做了个实验去观察哪个年龄段的小孩会在白天不小憩了。",
+            "startTime": 157560,
+            "endTime": 165390
+          },
+          {
+            "englishDetail": "But they didn't really find an answer.",
+            "translateDetail": "但是他们也没得到啥结论。",
+            "startTime": 165390,
+            "endTime": 167860
+          },
+          {
+            "englishDetail": "They spent a lot of time working out the most appropriate methodology,but the results didn't seem to show any obvious patterns.",
+            "translateDetail": "他们花了很多时间去找到一个最合适的方法，但是结果似乎也没呈现出什么明显的模式。",
+            "startTime": 167860,
+            "endTime": 175840
+          },
+          {
+            "englishDetail": "Right. Anyway, let's think about our assignment.",
+            "translateDetail": "是的。算了，还是说一下我们自己的作业吧。",
+            "startTime": 175840,
+            "endTime": 179880
+          },
+          {
+            "englishDetail": "Last time I had problems with the final stage, where we had to describe and justify how successful we thought we'd been. ",
+            "translateDetail": "上次我在最后一个阶段是有问题的，这个阶段要求我们描述并证明我们自认为有多成功。",
+            "startTime": 179880,
+            "endTime": 188320
+          },
+          {
+            "englishDetail": "I struggled a bit with the action plan too.",
+            "translateDetail": "而且我在行动计划上也遇到了一些困难。",
+            "startTime": 188320,
+            "endTime": 190870
+          },
+          {
+            "englishDetail": "I was OK with the planning, but I got marked down for the self-assessment as well.",
+            "translateDetail": "我的计划部分是可以的，但是我也在自我评估的部分被扣分了。",
+            "startTime": 190870,
+            "endTime": 197090
+          },
+          {
+            "englishDetail": "And I had big problems with the statistical stuff, that's where I really lost marks. Right. ",
+            "translateDetail": "我在统计部分是有很大问题的，这才是真正丢分的地方。是的。",
+            "startTime": 197090,
+            "endTime": 205850
+          },
+          {
+            "englishDetail": "So shall we plan what we have to do for this assignment? OK. ",
+            "translateDetail": "因此让我们来计划一下这次作业我们要做的事情吧。好。",
+            "startTime": 250950,
+            "endTime": 255790
+          },
+          {
+            "englishDetail": "First, we have to decide on our research question. So how about 'Is there a relationship between hours of sleep and number of dreams?",
+            "translateDetail": "首先，我们必须要先确定我们的研究问题。“睡眠时间和做梦数量之间有关么？”这个怎么样？",
+            "startTime": 255790,
+            "endTime": 267650
+          },
+          {
+            "englishDetail": "OK. Then we need to think about who we'll do the study on. About 12 people?",
+            "translateDetail": "可以。之后我们要想一下我们要在谁身上做研究？12个人可以吗？",
+            "startTime": 267650,
+            "endTime": 274820
+          },
+          {
+            "englishDetail": "Right. And shall we use other psychology students?",
+            "translateDetail": "好的。那我们找心理系的学生？",
+            "startTime": 274820,
+            "endTime": 279550
+          },
+          {
+            "englishDetail": "Let's use people from a different department. What about history?",
+            "translateDetail": "我们还是找其他院系的同学吧。你觉得历史系的怎么样？",
+            "startTime": 279550,
+            "endTime": 284810
+          },
+          {
+            "englishDetail": "Yes, they might have interesting dreams! Or literature students?",
+            "translateDetail": "可以的，他们的梦可能很有趣！或者是文学系也行吧？",
+            "startTime": 284810,
+            "endTime": 290140
+          },
+          {
+            "englishDetail": "I don't really know any.",
+            "translateDetail": "我一个也不认识。",
+            "startTime": 290140,
+            "endTime": 291880
+          },
+          {
+            "englishDetail": "OK, forget that idea. Then we have to think about our methodology. ",
+            "translateDetail": "好吧，算了。之后我们要想一下我们的研究方法。",
+            "startTime": 291880,
+            "endTime": 297430
+          },
+          {
+            "englishDetail": "So we could use observation, but that doesn't seem appropriate.",
+            "translateDetail": "我们可以用观察法，但又似乎不太合适。",
+            "startTime": 297430,
+            "endTime": 302340
+          },
+          {
+            "englishDetail": "No. It needs to be self-reporting I think. And we could ask them to answer questions online.",
+            "translateDetail": "肯定不行。我觉得得用自我报告的方法。我们可以让他们在线回答问题。",
+            "startTime": 302340,
+            "endTime": 310090
+          },
+          {
+            "englishDetail": "But in this case, paper might be better as they'll be doing it straight after they wake up...in fact while they're still half-asleep.",
+            "translateDetail": "如果这样的话，纸质的问卷可能会更好，因为这样他们就可以在醒来之后直接填写了，毕竟那时他们还处于半睡着状态。",
+            "startTime": 310090,
+            "endTime": 320180
+          },
+          {
+            "englishDetail": "Right. And we'll have to check the ethical guidelines for this sort of research.",
+            "translateDetail": "好的。针对这种研究我们必须要去查一下道德准则。",
+            "startTime": 320180,
+            "endTime": 325660
+          },
+          {
+            "englishDetail": "Mm, because our experiment involves humans, so there are special regulations. Yes, I had a look at those for another assignment I did. ",
+            "translateDetail": "嗯，我们的实验还是涉及到人的，所以肯定有一些特别的要求。是的，我之前的一个作业有看过一些相关的资料。",
+            "startTime": 325660,
+            "endTime": 336750
+          },
+          {
+            "englishDetail": "There's a whole section on risk assessment, and another section on making sure they aren't put under any unnecessary stress.",
+            "translateDetail": "其中有一个部分是风险评估，另外一部分是确保实验者没有受到任何不必要的压力。",
+            "startTime": 336750,
+            "endTime": 344960
+          },
+          {
+            "englishDetail": "Let's hope they don't have any bad dreams!",
+            "translateDetail": "我们还是希望他们不会做噩梦吧！",
+            "startTime": 344960,
+            "endTime": 348230
+          },
+          {
+            "englishDetail": "Yeah.",
+            "translateDetail": "嗯嗯。",
+            "startTime": 348230,
+            "endTime": 349270
+          },
+          {
+            "englishDetail": "Then when we've collected all our data we have to analyse it and calculate the correlation between our two variables,",
+            "translateDetail": "之后我们要去分析所有我们收集到的数据，",
+            "startTime": 349270,
+            "endTime": 358860
+          },
+          {
+            "englishDetail": "that's time sleeping and number of dreams and then present our results visually in a graph.",
+            "translateDetail": "然后计算睡眠时间和做梦数量这两个变量之间的关系，最后以图片的形式来呈现我们的结果。",
+            "startTime": 358860,
+            "endTime": 365990
+          },
+          {
+            "englishDetail": "Right. And the final thing is to think about our research and evaluate it.So that seems quite straight forward.",
+            "translateDetail": "好的。最后就是要回顾一下我们的研究，然后做一个评价。这似乎就简单多了。",
+            "startTime": 365990,
+            "endTime": 373900
+          },
+          {
+            "englishDetail": "Yeah. So now let's ...",
+            "translateDetail": "嗯，我们现在该...",
+            "startTime": 373900,
+            "endTime": 378900
+          }
+        ]
+      },
+      "listenContent": "<div>SUSIE:So Luke, for our next psychology assignment we have to do something on sleep and dreams.</div>\n<div>&nbsp;</div>\n<div>LUKE:Right. I've just read an article suggesting why we tend to forget most of our dreams soon after we wake up. I mean, most of my dreams aren't that interesting anyway, but what it said was that if we remembered everything, we might get mixed up about what actually happened and what we dreamed. So it's a sort of protection.I hadn't heard that idea before. I'd always assumed that it was just that we didn't have room in our memories for all that stuff.</div>\n<div>&nbsp;</div>\n<div>SUSIE:Me too. What do you think about the idea that our dreams may predict the future?</div>\n<div>&nbsp;</div>\n<div>LUKE:It's a belief that you get all over the world.</div>\n<div>&nbsp;</div>\n<div>SUSIE:Yeah, lots of people have a story of it happening to them, but the explanation I've read is that for each dream that comes true, we have thousands that don't, but we don't notice those, we don't even remember them.&nbsp;We just remember the ones where something in the real world, like a view or an action, happens to trigger a dream memory.</div>\n<div>&nbsp;</div>\n<div>LUKE:Right. So it's just a coincidence really.&nbsp;Something else I read about is what they call segmented sleeping. That's a theory that hundreds of years ago, people used to get up in the middle of the night and have a chat or something to eat, then go back to bed.So I tried it myself.</div>\n<div>&nbsp;</div>\n<div>SUSIE:Why?</div>\n<div>&nbsp;</div>\n<div>LUKE:Well it's meant to make you more creative.I don't know why. But I gave it up after a week. It just didn't fit in with my lifestyle.</div>\n<div>&nbsp;</div>\n<div>SUSIE:But most pre-school children have a short sleep in the day don't they? There was an experiment some students did here last term to see at what age kids should stop having naps. But they didn't really find an answer. They spent a lot of time working out the most appropriate methodology,but the results didn't seem to show any obvious patterns.</div>\n<div><br />LUKE:Right. Anyway, let's think about our assignment. Last time I had problems with the final stage, where we had to describe and justify how successful we thought we'd been.&nbsp;I struggled a bit with the action plan too.</div>\n<div>&nbsp;</div>\n<div>SUSIE:I was OK with the planning, but I got marked down for the self-assessment as well. And I had big problems with the statistical stuff, that's where I really lost marks.</div>\n<div>&nbsp;</div>\n<div>LUKE:Right.</div>\n<div>&nbsp;</div>\n<div>SUSIE:So shall we plan what we have to do for this assignment?</div>\n<div>&nbsp;</div>\n<div>LUKE:OK.</div>\n<div>&nbsp;</div>\n<div>SUSIE:First, we have to decide on our research question. So how about &ldquo;Is there a relationship between hours of sleep and number of dreams?&rdquo;</div>\n<div>&nbsp;</div>\n<div>LUKE:OK. Then we need to think about who we'll do the study on. About 12 people?</div>\n<div>&nbsp;</div>\n<div>SUSIE:Right. And shall we use other psychology students?</div>\n<div>&nbsp;</div>\n<div>LUKE:Let's use people from a different department. What about history?</div>\n<div>&nbsp;</div>\n<div>SUSIE:Yes, they might have interesting dreams! Or literature students?</div>\n<div>&nbsp;</div>\n<div>LUKE:I don't really know any.</div>\n<div>&nbsp;</div>\n<div>SUSIE:OK, forget that idea. Then we have to think about our methodology.&nbsp;So we could use observation, but that doesn't seem appropriate.</div>\n<div>&nbsp;</div>\n<div>LUKE:No. It needs to be self-reporting I think. And we could ask them to answer questions online.</div>\n<div>&nbsp;</div>\n<div>SUSIE:But in this case, paper might be better as they'll be doing it straight after they wake up...in fact while they're still half-asleep.</div>\n<div>&nbsp;</div>\n<div>LUKE:Right. And we'll have to check the ethical guidelines for this sort of research.</div>\n<div>&nbsp;</div>\n<div>SUSIE:Mm, because our experiment involves humans, so there are special regulations.</div>\n<div>&nbsp;</div>\n<div>LUKE:Yes, I had a look at those for another assignment I did.&nbsp;There's a whole section on risk assessment, and another section on making sure they aren't out under any unnecessary stress.</div>\n<div>&nbsp;</div>\n<div>SUSIE:Let's hope they don't have any bad dreams!</div>\n<div>&nbsp;</div>\n<div>LUKE:Yeah.</div>\n<div>&nbsp;</div>\n<div>SUSIE:Then when we've collected all our data we have to analyse it and calculate the correlation between our two variables, that's time sleeping and number of dreams and then present our results visually in a graph.</div>\n<div>&nbsp;</div>\n<div>LUKE:Right. And the final thing is to think about our research and evaluate it.So that seems quite straight forward.</div>\n<div>&nbsp;</div>\n<div>SUSIE:Yeah. So now let's ...</div>",
+      "listenDetail": "[00:52.38]So Luke, for our next psychology assignment we have to do something on sleep and dreams.##好，卢克，下一份心理学作业我们必须要做一些关于睡眠和做梦相关的了。\n[00:59.52]Right. I've just read an article suggesting why we tend to forget most of our dreams soon after we wake up.##好。我刚看完的一篇文章讲到为什么我们一醒来后就会忘掉刚才梦里的大部分内容。\n[01:07.55]I mean, most of my dreams aren't that interesting anyway, but what it said was that if we remembered everything,##我的意思是说，尽管我们做的许多梦都那么无趣，但是如果你记住了所有的梦，\n[01:15.08]we might get mixed up about what actually happened and what we dreamed. So it's a sort of protection.I hadn't heard that idea before.##我们可能就会把真实发生在生活里的和在梦里发生的事情混在一起。因此这算是一种保护机制吧。我之前并没有听说过。\n[01:24.85]I'd always assumed that it was just that we didn't have room in our memories for all that stuff.##我一直认为是我们的记忆里没有那么多的空间去记住这一切。\n[01:29.92]Me too. What do you think about the idea that our dreams may predict the future?##我也这么觉得。那你觉得我们做的梦会预知未来嘛？\n[01:36.14]It's a belief that you get all over the world.##全世界的人可能都是这么想的。\n[01:38.66]Yeah, lots of people have a story of it happening to them,##嗯，这种事发生在很多人身上，\n[01:42.85]but the explanation I've read is that for each dream that comes true, we have thousands that don't,##但是我之前看书上说是这么解释的，有的梦可能真的发生了，\n[01:49.72]but we don't notice those, we don't even remember them. ##但是还有更多的梦是没有发生在现实的，但是我们就是没有注意，或者说我们压根就记不住了。\n[01:53.62]We just remember the ones where something in the real world, like a view or an action, happens to trigger a dream memory.##我们只能记住一些发生在真实世界中的事，比如说一个风景或者一个动作，从而触发了梦里的记忆。\n[02:02.75]Right. So it's just a coincidence really. ##是的。所以这就是个巧合。\n[02:07.05]Something else I read about is what they call segmented sleeping.##我还读过一些被称为分段睡眠的资料。\n[02:11.38]That's a theory that hundreds of years ago, people used to get up in the middle of the night and have a chat or something to eat, then go back to bed.So I tried it myself.##这个理论是说几百年前，人们半夜起床开始聊天或者吃东西，然后再继续回去睡觉。因此我就自己试了一下 。\n[02:22.85]Why?##为什么？\n[02:23.85]Well it's meant to make you more creative.I don't know why.##嗯，这会让你变得更有创造力。我不知道为什么\n[02:27.79]But I gave it up after a week. It just didn't fit in with my lifestyle.##但是我一周之后就放弃了。这和我的生活方式不搭。\n[02:32.98]But most pre-school children have a short sleep in the day don't they?##但是很多学龄前儿童不是都会在白天小睡一会吗？\n[02:37.56]There was an experiment some students did here last term to see at what age kids should stop having naps.##上个学期一些学生做了个实验去观察哪个年龄段的小孩会在白天不小憩了。\n[02:45.39]But they didn't really find an answer.##但是他们也没得到啥结论。\n[02:47.86]They spent a lot of time working out the most appropriate methodology,but the results didn't seem to show any obvious patterns.##他们花了很多时间去找到一个最合适的方法，但是结果似乎也没呈现出什么明显的模式。\n[02:55.84]Right. Anyway, let's think about our assignment.##是的。算了，还是说一下我们自己的作业吧。\n[02:59.88]Last time I had problems with the final stage, where we had to describe and justify how successful we thought we'd been. ##上次我在最后一个阶段是有问题的，这个阶段要求我们描述并证明我们自认为有多成功。\n[03:08.32]I struggled a bit with the action plan too.##而且我在行动计划上也遇到了一些困难。\n[03:10.87]I was OK with the planning, but I got marked down for the self-assessment as well.##我的计划部分是可以的，但是我也在自我评估的部分被扣分了。\n[03:17.09]And I had big problems with the statistical stuff, that's where I really lost marks. Right. ##我在统计部分是有很大问题的，这才是真正丢分的地方。是的。\n[03:25.85]\n[04:10.95]So shall we plan what we have to do for this assignment? OK. ##因此让我们来计划一下这次作业我们要做的事情吧。好。\n[04:15.79]First, we have to decide on our research question. So how about 'Is there a relationship between hours of sleep and number of dreams?##首先，我们必须要先确定我们的研究问题。“睡眠时间和做梦数量之间有关么？”这个怎么样？\n[04:27.65]OK. Then we need to think about who we'll do the study on. About 12 people?##可以。之后我们要想一下我们要在谁身上做研究？12个人可以吗？\n[04:34.82]Right. And shall we use other psychology students?##好的。那我们找心理系的学生？\n[04:39.55]Let's use people from a different department. What about history?##我们还是找其他院系的同学吧。你觉得历史系的怎么样？\n[04:44.81]Yes, they might have interesting dreams! Or literature students?##可以的，他们的梦可能很有趣！或者是文学系也行吧？\n[04:50.14]I don't really know any.##我一个也不认识。\n[04:51.88]OK, forget that idea. Then we have to think about our methodology. ##好吧，算了。之后我们要想一下我们的研究方法。\n[04:57.43]So we could use observation, but that doesn't seem appropriate.##我们可以用观察法，但又似乎不太合适。\n[05:02.34]No. It needs to be self-reporting I think. And we could ask them to answer questions online.##肯定不行。我觉得得用自我报告的方法。我们可以让他们在线回答问题。\n[05:10.09]But in this case, paper might be better as they'll be doing it straight after they wake up...in fact while they're still half-asleep.##如果这样的话，纸质的问卷可能会更好，因为这样他们就可以在醒来之后直接填写了，毕竟那时他们还处于半睡着状态。\n[05:20.18]Right. And we'll have to check the ethical guidelines for this sort of research.##好的。针对这种研究我们必须要去查一下道德准则。\n[05:25.66]Mm, because our experiment involves humans, so there are special regulations. Yes, I had a look at those for another assignment I did. ##嗯，我们的实验还是涉及到人的，所以肯定有一些特别的要求。是的，我之前的一个作业有看过一些相关的资料。\n[05:36.75]There's a whole section on risk assessment, and another section on making sure they aren't put under any unnecessary stress.##其中有一个部分是风险评估，另外一部分是确保实验者没有受到任何不必要的压力。\n[05:44.96]Let's hope they don't have any bad dreams!##我们还是希望他们不会做噩梦吧！\n[05:48.23]Yeah.##嗯嗯。\n[05:49.27]Then when we've collected all our data we have to analyse it and calculate the correlation between our two variables,##之后我们要去分析所有我们收集到的数据，\n[05:58.86]that's time sleeping and number of dreams and then present our results visually in a graph.##然后计算睡眠时间和做梦数量这两个变量之间的关系，最后以图片的形式来呈现我们的结果。\n[06:05.99]Right. And the final thing is to think about our research and evaluate it.So that seems quite straight forward.##好的。最后就是要回顾一下我们的研究，然后做一个评价。这似乎就简单多了。\n[06:13.90]Yeah. So now let's ...##嗯，我们现在该...\n[06:18.90]\n",
+      "audioUrl": "https://static.ieltsbro.com/section/audio_file/1654501330881.mp3",
+      "seconds": 415,
+      "difficulty": 1,
+      "status": 0,
+      "answerCharge": 0,
+      "averageTimeSpent": null,
+      "averageAccuracyRate": null,
+      "exercisesCount": null,
+      "sortIndex": null,
+      "updateId": "6a6bab5f7a814a16b632732f3b07e60d",
+      "updateName": "邓泌",
+      "createDate": "2022-06-06T15:42:32.000+0800",
+      "updateDate": "2023-01-17T10:35:19.000+0800",
+      "id": 483,
+      "questionCount": null,
+      "questions": [
+        {
+          "questionId": "6202206061553115",
+          "subjectType": 1,
+          "subjectId": 120220606154231,
+          "questionNavigation": "Question21-24",
+          "questionCount": 4,
+          "questionType": 1,
+          "question": null,
+          "answer": null,
+          "updateId": "6a6bab5f7a814a16b632732f3b07e60d",
+          "updateName": "邓泌",
+          "createDate": "2022-11-07T13:45:18.000+0800",
+          "updateDate": "2022-11-07T13:45:18.000+0800",
+          "checkState": null,
+          "sortIndex": 0,
+          "questionJson": {
+            "questionType": "1",
+            "descriptions": "<p class=\"MsoNormal\"><span style=\"font-family: Cambria; font-size: 11pt;\">Questions 21-24</span><span style=\"font-family: Cambria; font-size: 11pt;\"><br /></span><span style=\"font-family: Cambria; font-size: 11pt;\">Choose the correct letter, A, B or C.</span><span style=\"mso-spacerun: 'yes'; font-family: Cambria; mso-fareast-font-family: 'MS Mincho'; mso-bidi-font-family: 'Times New Roman'; font-size: 11.0000pt;\"><br /></span></p>",
+            "startIndex": 21,
+            "endIndex": 24,
+            "questions": [
+              {
+                "number": 1,
+                "content": " Luke read that one reason why we often forget dreams is that",
+                "options": [
+                  {
+                    "content": "our memories cannot cope with too much information."
+                  },
+                  {
+                    "content": "we might otherwise be confused about what is real. "
+                  },
+                  {
+                    "content": "we do not think they are important. "
+                  }
+                ]
+              },
+              {
+                "number": 1,
+                "content": "What do Luke and Susie agree about dreams predicting the future?",
+                "options": [
+                  {
+                    "content": "It may just be due to chance."
+                  },
+                  {
+                    "content": "It only happens with certain types of event. "
+                  },
+                  {
+                    "content": " lt happens more often than some people think.  "
+                  }
+                ]
+              },
+              {
+                "number": 1,
+                "content": "Susie says that a study on pre-school children having a short nap in the day",
+                "options": [
+                  {
+                    "content": "had controversial results. "
+                  },
+                  {
+                    "content": "used faulty research methodology.  "
+                  },
+                  {
+                    "content": "failed to reach any clear conclusions.  "
+                  }
+                ]
+              },
+              {
+                "number": 1,
+                "content": "In their last assignment, both students had problems with",
+                "options": [
+                  {
+                    "content": "statistical analysis."
+                  },
+                  {
+                    "content": "making an action plan. "
+                  },
+                  {
+                    "content": "self-assessment."
+                  }
+                ]
+              }
+            ],
+            "questionNum": 4
+          },
+          "answerJson": [
+            {
+              "correctValue": 1,
+              "explain": "考察Luke读到（read）的内容，即混淆现实与梦境，故B。",
+              "sentenceList": [4]
+            },
+            {
+              "correctValue": 0,
+              "explain": "两人都同意梦的实现是概率问题，故A。",
+              "sentenceList": [9, 12]
+            },
+            {
+              "correctValue": 2,
+              "explain": "研究人员没有找到答案，conclusions对应answer，故C。",
+              "sentenceList": [20, 21]
+            },
+            {
+              "correctValue": 2,
+              "explain": "Luke和Susie都有自我评估的问题，故C。",
+              "sentenceList": [23, 25]
+            }
+          ],
+          "source": null
+        },
+        {
+          "questionId": "6202206061553116",
+          "subjectType": 1,
+          "subjectId": 120220606154231,
+          "questionNavigation": "Question25-30",
+          "questionCount": 6,
+          "questionType": 0,
+          "question": null,
+          "answer": null,
+          "updateId": "6a6bab5f7a814a16b632732f3b07e60d",
+          "updateName": "邓泌",
+          "createDate": "2022-11-07T13:45:18.000+0800",
+          "updateDate": "2022-11-07T13:45:18.000+0800",
+          "checkState": null,
+          "sortIndex": 1,
+          "questionJson": {
+            "questionType": "0",
+            "descriptions": "<p class=\"MsoNormal\"><span style=\"mso-spacerun: 'yes'; font-family: Cambria; mso-fareast-font-family: 'MS Mincho'; mso-bidi-font-family: 'Times New Roman'; font-size: 11.0000pt;\">Questions 25-30</span><span style=\"mso-spacerun: 'yes'; font-family: Cambria; mso-fareast-font-family: 'MS Mincho'; mso-bidi-font-family: 'Times New Roman'; font-size: 11.0000pt;\"><br /></span><span style=\"mso-spacerun: 'yes'; font-family: Cambria; mso-fareast-font-family: 'MS Mincho'; mso-bidi-font-family: 'Times New Roman'; font-size: 11.0000pt;\">Complete the flow chart below.</span><span style=\"mso-spacerun: 'yes'; font-family: Cambria; mso-fareast-font-family: 'MS Mincho'; mso-bidi-font-family: 'Times New Roman'; font-size: 11.0000pt;\"><br /></span><span style=\"mso-spacerun: 'yes'; font-family: Cambria; mso-fareast-font-family: 'MS Mincho'; mso-bidi-font-family: 'Times New Roman'; font-size: 11.0000pt;\">Write ONE WORD ONLY for each answer.</span><span style=\"mso-spacerun: 'yes'; font-family: Cambria; mso-fareast-font-family: 'MS Mincho'; mso-bidi-font-family: 'Times New Roman'; font-size: 11.0000pt;\"><br /></span></p>",
+            "startIndex": 25,
+            "endIndex": 30,
+            "questionNum": 6,
+            "questionsContent": "<p class=\"MsoNormal\" style=\"text-align: left;\"><strong><span class=\"15\" style=\"font-family: 'Segoe UI'; letter-spacing: 0pt; font-size: 10.5pt;\">Assignment plan</span></strong></p>\n<p class=\"MsoNormal\" style=\"margin-left: 0pt; text-indent: 0pt; text-align: left;\" align=\"center\"><span style=\"font-family: 'Segoe UI'; letter-spacing: 0pt; font-size: 10.5pt;\">Decide on research question:</span></p>\n<p class=\"MsoNormal\" style=\"margin-left: 0pt; text-indent: 0pt; text-align: left;\" align=\"center\"><span style=\"font-family: 'Segoe UI'; letter-spacing: 0pt; font-size: 10.5pt;\">Is there a relationship between hours of sleep and number of dreams?<br /></span><span style=\"font-family: 'Segoe UI'; letter-spacing: 0pt; font-size: 10.5pt;\"><span style=\"font-family: Segoe UI;\">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&darr;</span><br /><span style=\"font-family: Segoe UI;\"><span style=\"font-size: 10.5pt; letter-spacing: 0pt;\">Decide on sample:</span></span></span></p>\n<p class=\"MsoNormal\" style=\"margin-left: 0pt; text-indent: 0pt; text-align: left;\" align=\"center\"><span style=\"font-family: 'Segoe UI'; letter-spacing: 0pt; font-size: 10.5pt;\">Twelve students from the ...... department.</span><span style=\"font-family: 'Segoe UI'; letter-spacing: 0pt; font-size: 10.5pt;\">&nbsp; &nbsp; &nbsp;<br /></span><span style=\"font-family: 'Segoe UI'; letter-spacing: 0pt; font-size: 10.5pt;\"><span style=\"font-family: Segoe UI;\">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&darr;</span><br /><span style=\"font-family: Segoe UI;\"><span style=\"font-size: 10.5pt; letter-spacing: 0pt;\">Decide on methodology:</span></span></span></p>\n<p class=\"MsoNormal\" style=\"margin-left: 0pt; text-indent: 0pt; text-align: left;\" align=\"center\"><span style=\"font-family: 'Segoe UI'; letter-spacing: 0pt; font-size: 10.5pt;\">Self-reporting<br /></span><span style=\"font-family: 'Segoe UI'; letter-spacing: 0pt; font-size: 10.5pt;\">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&darr;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; </span><span style=\"font-family: 'Segoe UI'; font-size: 10.5pt; letter-spacing: 0pt;\">&nbsp; &nbsp; &nbsp;<br /></span><span style=\"font-family: 'Segoe UI'; letter-spacing: 0pt; font-size: 10.5pt;\">Decide on procedure:</span></p>\n<p class=\"MsoNormal\" style=\"margin-left: 0pt; text-indent: 0pt; text-align: left;\" align=\"center\"><span style=\"font-family: 'Segoe UI'; letter-spacing: 0pt; font-size: 10.5pt;\">Answers on ......<br /></span><span style=\"font-family: 'Segoe UI'; letter-spacing: 0pt; font-size: 10.5pt;\"><span style=\"font-family: Segoe UI;\">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&darr;</span><br /><span style=\"font-family: Segoe UI;\"><span style=\"font-size: 10.5pt; letter-spacing: 0pt;\">Check ethical guidelines for working with ......</span></span></span></p>\n<p class=\"MsoNormal\" style=\"margin-left: 0pt; text-indent: 0pt; text-align: left;\" align=\"center\"><span style=\"font-family: 'Segoe UI'; letter-spacing: 0pt; font-size: 10.5pt;\">Ensure that risk is assessed and ...... is kept to a minimum<br /></span><span style=\"font-family: 'Segoe UI'; letter-spacing: 0pt; font-size: 10.5pt;\"><span style=\"font-family: Segoe UI;\">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&darr;</span><br /><span style=\"font-family: Segoe UI;\"><span style=\"font-size: 10.5pt; letter-spacing: 0pt;\">Analyse the results</span></span></span></p>\n<p class=\"MsoNormal\" style=\"margin-left: 0pt; text-indent: 0pt; text-align: left;\" align=\"center\"><span style=\"font-family: 'Segoe UI'; letter-spacing: 0pt; font-size: 10.5pt;\">Calculate the correlation and make a ......</span><span style=\"font-family: 'Segoe UI'; letter-spacing: 0pt; font-size: 10.5pt;\">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;<br /></span><span style=\"font-family: 'Segoe UI'; letter-spacing: 0pt; font-size: 10.5pt;\"><span style=\"font-family: Segoe UI;\">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&darr;</span><br /><span style=\"font-family: Segoe UI;\"><span style=\"font-size: 10.5pt; letter-spacing: 0pt;\">...... the research</span></span></span></p>"
+          },
+          "answerJson": [
+            {
+              "correctValue": "history",
+              "explain": "<p>Luke提出用历史系的学生，Susie赞同，故填history。</p>",
+              "sentenceList": [31, 32]
+            },
+            {
+              "correctValue": "paper",
+              "explain": "<p>Susie认为在纸上回答问题更好，Luke赞同，故填paper。</p>",
+              "sentenceList": [36, 37]
+            },
+            {
+              "correctValue": "humans/people",
+              "explain": "<p class=\"MsoNormal\">由ethical guidelines定位，working with对应involves，故填humans/people。</p>",
+              "sentenceList": [38, 39]
+            },
+            {
+              "correctValue": "stress",
+              "explain": "<p>由risk定位，minimum对应not put unnecessary，故填stress。</p>",
+              "sentenceList": [40]
+            },
+            {
+              "correctValue": "graph",
+              "explain": "<p class=\"MsoNormal\">由correlation定位，用图表展示结果，即要做一个图表，故填graph。</p>",
+              "sentenceList": [43, 44]
+            },
+            {
+              "correctValue": "evaluate",
+              "explain": "<p class=\"MsoNormal\">预判答案为动词，考虑字数限制只能填evaluate。</p>",
+              "sentenceList": [45]
+            }
+          ],
+          "source": null
+        }
+      ],
+      "source": null,
+      "showDetailTitle": null,
+      "taskCount": 0,
+      "useFor": 1,
+      "answerShowFlag": null,
+      "type": 0
+    },
+    {
+      "listeningId": "120220606160141",
+      "topicId": "94",
+      "topicName": "讲座",
+      "part": 4,
+      "listenQuestion": "C16-Test 2-Part 4",
+      "subjectData": {
+        "listenDetailList": [
+          {
+            "englishDetail": "Dancing is something that humans do when they want to have a good time.",
+            "translateDetail": "人们开心的时候就会跳舞。",
+            "startTime": 70850,
+            "endTime": 75970
+          },
+          {
+            "englishDetail": "It’s a universal response to music, found in all cultures. But what's only been discovered recently is that dancing not only makes us feel good, it's also extremely good for our health.",
+            "translateDetail": "这是对音乐共同的反应，所有文化都是一样的。但是最近的研究发现，跳舞不仅可以让我们变得心情愉悦，它对我们的健康也是极好的。",
+            "startTime": 75970,
+            "endTime": 90480
+          },
+          {
+            "englishDetail": "Dancing, like other forms of exercise, releases hormones, such as dopamine, which make us feel relaxed and happy.",
+            "translateDetail": "和其他运动一样，跳舞会分泌像多巴胺这样的荷尔蒙，这会让我们觉得放松和开心。",
+            "startTime": 90480,
+            "endTime": 100160
+          },
+          {
+            "englishDetail": "And it also reduces feelings of stress or anxiety.",
+            "translateDetail": "同时也能减轻压力和焦虑。",
+            "startTime": 100160,
+            "endTime": 105860
+          },
+          {
+            "englishDetail": "Dancing is also a sociable activity, which is another reason it makes us feel good.",
+            "translateDetail": "舞蹈也是一种社交活动，这是另一个让我们觉得开心的原因。",
+            "startTime": 105860,
+            "endTime": 112690
+          },
+          {
+            "englishDetail": "One study compared people's enjoyment of dancing at home in front of a video with dancing in a group in a studio.",
+            "translateDetail": "一个研究对比了在家里看视频跳舞和在工作室与一群人一起跳舞的开心程度。",
+            "startTime": 112690,
+            "endTime": 121980
+          },
+          {
+            "englishDetail": "The people dancing in a group reported feeling happier, whereas those dancing alone did not.",
+            "translateDetail": "那些和大家一起跳舞的人会觉得更开心，而那些在家跳舞的则不然。",
+            "startTime": 121980,
+            "endTime": 130150
+          },
+          {
+            "englishDetail": "In another experiment, university researchers at York and Sheffield took a group of students and sent each of them into a lab where music was played for five minutes.",
+            "translateDetail": "在约克和谢菲尔德大学的研究员们做了另一个实验，他们把一组学生分别放到一个音乐持续播放五分钟的实验室里。",
+            "startTime": 130150,
+            "endTime": 142980
+          },
+          {
+            "englishDetail": "Each had to choose from three options:to sit and listen quietly to the music, to cycle on an exercise bike while they listened,or to get up and dance.",
+            "translateDetail": "每个人都要从以下三件事中选一个去做：坐在那安静的听音乐，一边听音乐一边骑动感单车，或者站起来跳舞。",
+            "startTime": 142980,
+            "endTime": 156550
+          },
+          {
+            "englishDetail": "All were given cognitive tasks to perform before and after.",
+            "translateDetail": "在开始之前和结束之后都让他们去做一些认知任务。",
+            "startTime": 156550,
+            "endTime": 162830
+          },
+          {
+            "englishDetail": "The result showed that those who chose to dance showed much more creativity when doing problem-solving tasks.",
+            "translateDetail": "结果表明在解决问题的任务上那些选择跳舞的人展现出更多的创造力。",
+            "startTime": 162830,
+            "endTime": 172890
+          },
+          {
+            "englishDetail": "Doctor Lovatt at the University of Hertfordshire believes dance could be a very useful way to help people suffering from mental health problems.",
+            "translateDetail": "赫特福德大学博士洛瓦特认为舞蹈是一个帮助人们远离心理疾病的非常好的方式",
+            "startTime": 172890,
+            "endTime": 183760
+          },
+          {
+            "englishDetail": "He thinks dance should be prescribed as therapy to help people overcome issues such as depression.",
+            "translateDetail": "他认为舞蹈可以作为一种帮助人们解决类似于抑郁这样问题的治疗方案。",
+            "startTime": 183760,
+            "endTime": 195720
+          },
+          {
+            "englishDetail": "It's well established that dance is a good way of encouraging adolescent girls to take exercise but what about older people?",
+            "translateDetail": "有实验证实用舞蹈去鼓励青春期的小姑娘锻炼身体是一个很好的方式，那对于老年人呢？",
+            "startTime": 195720,
+            "endTime": 205690
+          },
+          {
+            "englishDetail": "Studies have shown that there are enormous benefits for people in their sixties and beyond. One of the great things about dance is that there are no barriers to participation.",
+            "translateDetail": "有研究表明跳舞对六十岁及以上的人也会有很多的好处。跳舞的一大好处就是无障碍的参与模式。",
+            "startTime": 205690,
+            "endTime": 218550
+          },
+          {
+            "englishDetail": "Anyone can have a go, even those whose standard of fitness is quite low.",
+            "translateDetail": "每个人都可以参加，即使有些人的健康状况并不是很好。",
+            "startTime": 218550,
+            "endTime": 225600
+          },
+          {
+            "englishDetail": "Dance can be especially beneficial for older adults who can't run or do more intense workouts, or for those who don't want to.",
+            "translateDetail": "跳舞对那些不能跑步或者不能参加高强度训练，亦或者是那些不想运动的老年人会有极大的好处。",
+            "startTime": 225600,
+            "endTime": 235900
+          },
+          {
+            "englishDetail": "One 2015 study found that even a gentle dance workout helps to promote a healthy heart.",
+            "translateDetail": "2015年的一个研究表明即使幅度不大的舞蹈锻炼也有助于心脏健康。",
+            "startTime": 235900,
+            "endTime": 244900
+          },
+          {
+            "englishDetail": "And there's plenty of evidence which suggests that dancing lowers the risk of falls, which could result in a broken hip, for example, by helping people to improve their balance.",
+            "translateDetail": "还有更多的证据显示跳舞有助于减少可能导致髋骨骨折的跌倒风险，比如通过提高人的平衡能力。",
+            "startTime": 244900,
+            "endTime": 259900
+          },
+          {
+            "englishDetail": "There are some less obvious benefits of dance for older people too.",
+            "translateDetail": "老年人跳舞还有一些没那么明显的好处。",
+            "startTime": 259900,
+            "endTime": 265750
+          },
+          {
+            "englishDetail": "One thing I hadn't realised before researching this topic was that dance isn't just a physical challenge.",
+            "translateDetail": "有一件事是我在做这个研究之前没意识到的，跳舞不仅仅只是个体力上的挑战。",
+            "startTime": 265750,
+            "endTime": 273420
+          },
+          {
+            "englishDetail": "It also requires a lot of concentration because you need to remember different steps and routines.",
+            "translateDetail": "它还要求你要集中注意力，因为你得记住各种不同的舞步和动作。",
+            "startTime": 273420,
+            "endTime": 281120
+          },
+          {
+            "englishDetail": "For older people, this kind of activity is especially important because it forces their brain to process things more quickly and to retain more information.",
+            "translateDetail": "对老年人来说，这种活动特别重要，因为这会促使他们的大脑更快的处理事务并记住更多的信息。",
+            "startTime": 281120,
+            "endTime": 294900
+          },
+          {
+            "englishDetail": "Current research also shows that dance promotes a general sense of well-being in older participants,which can last up to a week after a class.",
+            "translateDetail": "当前的研究也显示了跳舞能带给老年参与者一种安适愉快的感觉，这种感觉能在跳舞课程之后延续一周之久。",
+            "startTime": 294900,
+            "endTime": 306470
+          },
+          {
+            "englishDetail": "Participants report feeling less tired and having greater motivation to be more active and do daily activities such as gardening or walking to the shops or a park.",
+            "translateDetail": "参与者觉得没那么累，还有更多的积极性参与到一些日常活动中，比如做一些园艺，或者步行去商场或者公园转转。",
+            "startTime": 306470,
+            "endTime": 320890
+          },
+          {
+            "englishDetail": "Ballroom or country dancing, both popular with older people, have to be done in groups.",
+            "translateDetail": "交际舞和土风舞比较受老年人欢迎，都需要大家在一起才能跳舞。",
+            "startTime": 320890,
+            "endTime": 327800
+          },
+          {
+            "englishDetail": "They require collaboration and often involve touching a dance partner, all of which encourages interaction on the dance floor.",
+            "translateDetail": "这些舞蹈需要合作，还会和舞伴有频繁的身体接触，这都促进了在舞池里的互动。",
+            "startTime": 327800,
+            "endTime": 337910
+          },
+          {
+            "englishDetail": "This helps to develop new relationships and can reduce older people's'sense of isolation, which is a huge problem in many countries.",
+            "translateDetail": "通过跳舞还能发展一段新的关系并且降低老年人的孤独感，这在很多国家都是个大问题。",
+            "startTime": 337910,
+            "endTime": 349050
+          },
+          {
+            "englishDetail": "I also looked at the benefits of Zumba.",
+            "translateDetail": "我还研究了尊巴的好处。",
+            "startTime": 349050,
+            "endTime": 352870
+          },
+          {
+            "englishDetail": "Fifteen million people in 180 countries now regularly take a Zumba class, an aerobic workout based on Latin American dance moves.",
+            "translateDetail": "现在180个国家的1500万人都在规律的参加尊巴课程，尊巴是基于拉美舞蹈之上的一个有氧健身活动。",
+            "startTime": 352870,
+            "endTime": 365360
+          },
+          {
+            "englishDetail": "John Porcari,a professor of exercise and sport science at the University of Wisconsin,",
+            "translateDetail": "威斯康星大学的健身与运动科学教授约翰·波卡尼",
+            "startTime": 365360,
+            "endTime": 372550
+          },
+          {
+            "englishDetail": "analysed a group of women who were Zumba regulars and found that a class lasting 40 minutes burns about 370 calories.",
+            "translateDetail": "找了一组经常参加尊巴课的女性，他发现一节持续40分钟的尊巴课会燃烧大约370大卡的热量。",
+            "startTime": 372550,
+            "endTime": 384540
+          },
+          {
+            "englishDetail": "This is similar to moderately intense exercises like step aerobics or kickboxing.",
+            "translateDetail": "这和中等强度训练的消耗是差不多的，比如有氧踏板或拳击。",
+            "startTime": 384540,
+            "endTime": 391980
+          },
+          {
+            "englishDetail": "A study in the American Journal of Health Behavior showed that when women with obesity did Zumba three times a week for 16 weeks,",
+            "translateDetail": "美国健康表现杂志的一项研究表明，患有肥胖症的女性每周参加3次尊巴课程持续16周，",
+            "startTime": 391980,
+            "endTime": 402370
+          },
+          {
+            "englishDetail": "they lost an average of 1.2 kilos and lowered their percentage of body fat by 1%.",
+            "translateDetail": "平均减重1.2公斤，体脂率降低1%。",
+            "startTime": 402370,
+            "endTime": 410860
+          },
+          {
+            "englishDetail": "More importantly, the women enjoyed the class so much that they made it a habit and continued to attend classes at least once a week - very unusual for an aerobic exercise programme.",
+            "translateDetail": "更重要的是，女性很喜欢尊巴课并养成了习惯，之后她们每周也至少会参加一次尊巴课程-这对于有氧健身来说是非常少见的。",
+            "startTime": 410860,
+            "endTime": 427390
+          },
+          {
+            "englishDetail": "Dance is never going to compete with high-intensity workouts when it comes to physical fitness gains,",
+            "translateDetail": "谈到健身增肌，跳舞肯定比不过高强度的训练，",
+            "startTime": 427390,
+            "endTime": 434900
+          },
+          {
+            "englishDetail": "but its popularity is likely to keep on rising because it's such a fun way to keep fit.",
+            "translateDetail": "但是由于这是一种很有趣的保持健康的方式，所以它可能会越来越受欢迎。",
+            "startTime": 434900,
+            "endTime": 442900
+          }
+        ]
+      },
+      "listenContent": "<div>Dancing is something that humans do when they want to have a good time. It&rsquo;s a universal response to music, found in all cultures. But what's only been discovered recently is that dancing not only makes us feel good, it's also extremely good for our health.</div>\n<div>&nbsp;</div>\n<div>Dancing, like other forms of exercise, releases hormones, such as dopamine, which make us feel relaxed and happy. And it also reduces feelings of stress or anxiety. <br /><br />Dancing is also a sociable activity, which is another reason it makes us feel good. <br /><br />One study compared people's enjoyment of dancing at home in front of a video with dancing in a group in a studio.</div>\n<div>&nbsp;</div>\n<div>The people dancing in a group reported feeling happier, whereas those dancing alone did not.</div>\n<div>&nbsp;</div>\n<div>In another experiment, university researchers at York and Sheffield took a group of students and sent each of them into a lab where music was played for five minutes. Each had to choose from three options:to sit and listen quietly to the music, to cycle on an exercise bike while they listened,or to get up and dance. All were given cognitive tasks to perform before and after. The result showed that those who chose to dance showed much more creativity when doing problem-solving tasks.</div>\n<div>&nbsp;</div>\n<div>Doctor Lovatt at the University of Hertfordshire believes dance could be a very useful way to help people suffering from mental health problems. He thinks dance should be prescribed as therapy to help people overcome issues such as depression.</div>\n<div>&nbsp;</div>\n<div>It's well established that dance is a good way of encouraging adolescent girls to take exercise but what about older people? Studies have shown that there are enormous benefits for people in their sixties and beyond. One of the great things about dance is that there are no barriers to participation. Anyone can have a go, even those whose standard of fitness is quite low.</div>\n<div>&nbsp;</div>\n<div>Dance can be especially beneficial for older adults who can't run or do more intense workouts, or for those who don't want to. One 2015 study found that even a gentle dance workout helps to promote a healthy heart. And there's plenty of evidence which suggests that dancing lowers the risk of falls, which could result in a broken hip, for example, by helping people to improve their balance.</div>\n<div>&nbsp;</div>\n<div>There are some less obvious benefits of dance for older people too. One thing I hadn't realised before researching this topic was that dance isn't just a physical challenge. It also requires a lot of concentration because you need to remember different steps and routines. For older people, this kind of activity is especially important because it forces their brain to process things more quickly and to retain more information.</div>\n<div>&nbsp;</div>\n<div>Current research also shows that dance promotes a general sense of well-being in older participants,which can last up to a week after a class. Participants report feeling less tired and having greater motivation to be more active and do daily activities such as gardening or walking to the shops or a park.</div>\n<div>&nbsp;</div>\n<div>Ballroom or country dancing, both popular with older people, have to be done in groups. They require collaboration and often involve touching a dance partner, all of which encourages interaction on the dance floor.This helps to develop new relationships and can reduce older people's'sense of isolation, which is a huge problem in many countries.</div>\n<div>&nbsp;</div>\n<div>I also looked at the benefits of Zumba. Fifteen million people in 180 countries now regularly take a Zumba class, an aerobic workout based on Latin American dance moves. John Porcari,a professor of exercise and sport science at the University of Wisconsin, analysed a group of women who were Zumba regulars and found that a class lasting 40 minutes bums about 370 calories. This is similar to moderately intense exercises like step aerobics or kickboxing.</div>\n<div>&nbsp;</div>\n<div>A study in the American Journal of Health Behavior showed that when women with obesity did Zumba three times a week for 16 weeks,</div>\n<div>&nbsp;</div>\n<div>they lost an average of 1.2 kilos and lowered their percentage of body fat by 1%.</div>\n<div>&nbsp;</div>\n<div>More importantly, the women enjoyed the class so much that they made it a habit</div>\n<div>&nbsp;</div>\n<div>and continued to attend classes at least once a week - very unusual for an aerobic exercise programme.</div>\n<div>&nbsp;</div>\n<div>Dance is never going to compete with high-intensity workouts when it comes to physical fitness gains,</div>\n<div>&nbsp;</div>\n<div>but its popularity is likely to keep on rising because it's such a fun way to keep fit.</div>\n<div>&nbsp;</div>\n<div>&nbsp;</div>",
+      "listenDetail": "[01:10.85]Dancing is something that humans do when they want to have a good time.##人们开心的时候就会跳舞。\n[01:15.97]It’s a universal response to music, found in all cultures. But what's only been discovered recently is that dancing not only makes us feel good, it's also extremely good for our health.##这是对音乐共同的反应，所有文化都是一样的。但是最近的研究发现，跳舞不仅可以让我们变得心情愉悦，它对我们的健康也是极好的。\n[01:30.48]Dancing, like other forms of exercise, releases hormones, such as dopamine, which make us feel relaxed and happy.##和其他运动一样，跳舞会分泌像多巴胺这样的荷尔蒙，这会让我们觉得放松和开心。\n[01:40.16]And it also reduces feelings of stress or anxiety.##同时也能减轻压力和焦虑。\n[01:45.86]Dancing is also a sociable activity, which is another reason it makes us feel good.##舞蹈也是一种社交活动，这是另一个让我们觉得开心的原因。\n[01:52.69]One study compared people's enjoyment of dancing at home in front of a video with dancing in a group in a studio.##一个研究对比了在家里看视频跳舞和在工作室与一群人一起跳舞的开心程度。\n[02:01.98]The people dancing in a group reported feeling happier, whereas those dancing alone did not.##那些和大家一起跳舞的人会觉得更开心，而那些在家跳舞的则不然。\n[02:10.15]In another experiment, university researchers at York and Sheffield took a group of students and sent each of them into a lab where music was played for five minutes.##在约克和谢菲尔德大学的研究员们做了另一个实验，他们把一组学生分别放到一个音乐持续播放五分钟的实验室里。\n[02:22.98]Each had to choose from three options:to sit and listen quietly to the music, to cycle on an exercise bike while they listened,or to get up and dance.##每个人都要从以下三件事中选一个去做：坐在那安静的听音乐，一边听音乐一边骑动感单车，或者站起来跳舞。\n[02:36.55]All were given cognitive tasks to perform before and after.##在开始之前和结束之后都让他们去做一些认知任务。\n[02:42.83]The result showed that those who chose to dance showed much more creativity when doing problem-solving tasks.##结果表明在解决问题的任务上那些选择跳舞的人展现出更多的创造力。\n[02:52.89]Doctor Lovatt at the University of Hertfordshire believes dance could be a very useful way to help people suffering from mental health problems.##赫特福德大学博士洛瓦特认为舞蹈是一个帮助人们远离心理疾病的非常好的方式\n[03:03.76]He thinks dance should be prescribed as therapy to help people overcome issues such as depression.##他认为舞蹈可以作为一种帮助人们解决类似于抑郁这样问题的治疗方案。\n[03:15.72]It's well established that dance is a good way of encouraging adolescent girls to take exercise but what about older people?##有实验证实用舞蹈去鼓励青春期的小姑娘锻炼身体是一个很好的方式，那对于老年人呢？\n[03:25.69]Studies have shown that there are enormous benefits for people in their sixties and beyond. One of the great things about dance is that there are no barriers to participation.##有研究表明跳舞对六十岁及以上的人也会有很多的好处。跳舞的一大好处就是无障碍的参与模式。\n[03:38.55]Anyone can have a go, even those whose standard of fitness is quite low.##每个人都可以参加，即使有些人的健康状况并不是很好。\n[03:45.60]Dance can be especially beneficial for older adults who can't run or do more intense workouts, or for those who don't want to.##跳舞对那些不能跑步或者不能参加高强度训练，亦或者是那些不想运动的老年人会有极大的好处。\n[03:55.90]One 2015 study found that even a gentle dance workout helps to promote a healthy heart.##2015年的一个研究表明即使幅度不大的舞蹈锻炼也有助于心脏健康。\n[04:04.90]And there's plenty of evidence which suggests that dancing lowers the risk of falls, which could result in a broken hip, for example, by helping people to improve their balance.##还有更多的证据显示跳舞有助于减少可能导致髋骨骨折的跌倒风险，比如通过提高人的平衡能力。\n[04:19.90]There are some less obvious benefits of dance for older people too.##老年人跳舞还有一些没那么明显的好处。\n[04:25.75]One thing I hadn't realised before researching this topic was that dance isn't just a physical challenge.##有一件事是我在做这个研究之前没意识到的，跳舞不仅仅只是个体力上的挑战。\n[04:33.42]It also requires a lot of concentration because you need to remember different steps and routines.##它还要求你要集中注意力，因为你得记住各种不同的舞步和动作。\n[04:41.12]For older people, this kind of activity is especially important because it forces their brain to process things more quickly and to retain more information.##对老年人来说，这种活动特别重要，因为这会促使他们的大脑更快的处理事务并记住更多的信息。\n[04:54.90]Current research also shows that dance promotes a general sense of well-being in older participants,which can last up to a week after a class.##当前的研究也显示了跳舞能带给老年参与者一种安适愉快的感觉，这种感觉能在跳舞课程之后延续一周之久。\n[05:06.47]Participants report feeling less tired and having greater motivation to be more active and do daily activities such as gardening or walking to the shops or a park.##参与者觉得没那么累，还有更多的积极性参与到一些日常活动中，比如做一些园艺，或者步行去商场或者公园转转。\n[05:20.89]Ballroom or country dancing, both popular with older people, have to be done in groups.##交际舞和土风舞比较受老年人欢迎，都需要大家在一起才能跳舞。\n[05:27.80]They require collaboration and often involve touching a dance partner, all of which encourages interaction on the dance floor.##这些舞蹈需要合作，还会和舞伴有频繁的身体接触，这都促进了在舞池里的互动。\n[05:37.91]This helps to develop new relationships and can reduce older people's'sense of isolation, which is a huge problem in many countries.##通过跳舞还能发展一段新的关系并且降低老年人的孤独感，这在很多国家都是个大问题。\n[05:49.05]I also looked at the benefits of Zumba.##我还研究了尊巴的好处。\n[05:52.87]Fifteen million people in 180 countries now regularly take a Zumba class, an aerobic workout based on Latin American dance moves.##现在180个国家的1500万人都在规律的参加尊巴课程，尊巴是基于拉美舞蹈之上的一个有氧健身活动。\n[06:05.36]John Porcari,a professor of exercise and sport science at the University of Wisconsin,##威斯康星大学的健身与运动科学教授约翰·波卡尼\n[06:12.55]analysed a group of women who were Zumba regulars and found that a class lasting 40 minutes burns about 370 calories.##找了一组经常参加尊巴课的女性，他发现一节持续40分钟的尊巴课会燃烧大约370大卡的热量。\n[06:24.54]This is similar to moderately intense exercises like step aerobics or kickboxing.##这和中等强度训练的消耗是差不多的，比如有氧踏板或拳击。\n[06:31.98]A study in the American Journal of Health Behavior showed that when women with obesity did Zumba three times a week for 16 weeks,##美国健康表现杂志的一项研究表明，患有肥胖症的女性每周参加3次尊巴课程持续16周，\n[06:42.37]they lost an average of 1.2 kilos and lowered their percentage of body fat by 1%.##平均减重1.2公斤，体脂率降低1%。\n[06:50.86]More importantly, the women enjoyed the class so much that they made it a habit and continued to attend classes at least once a week - very unusual for an aerobic exercise programme.##更重要的是，女性很喜欢尊巴课并养成了习惯，之后她们每周也至少会参加一次尊巴课程-这对于有氧健身来说是非常少见的。\n[07:07.39]Dance is never going to compete with high-intensity workouts when it comes to physical fitness gains,##谈到健身增肌，跳舞肯定比不过高强度的训练，\n[07:14.90]but its popularity is likely to keep on rising because it's such a fun way to keep fit.##但是由于这是一种很有趣的保持健康的方式，所以它可能会越来越受欢迎。\n[07:22.90]",
+      "audioUrl": "https://static.ieltsbro.com/section/audio_file/1667281152545.mp3",
+      "seconds": 514,
+      "difficulty": 1,
+      "status": 0,
+      "answerCharge": 0,
+      "averageTimeSpent": null,
+      "averageAccuracyRate": null,
+      "exercisesCount": null,
+      "sortIndex": null,
+      "updateId": "170fb551b1f64a489fefca0222770170",
+      "updateName": "朱宁",
+      "createDate": "2022-06-06T16:01:41.000+0800",
+      "updateDate": "2023-09-04T11:52:31.000+0800",
+      "id": 484,
+      "questionCount": null,
+      "questions": [
+        {
+          "questionId": "6202206061608567",
+          "subjectType": 1,
+          "subjectId": 120220606160141,
+          "questionNavigation": "Question31-40",
+          "questionCount": 10,
+          "questionType": 0,
+          "question": null,
+          "answer": null,
+          "updateId": "170fb551b1f64a489fefca0222770170",
+          "updateName": "朱宁",
+          "createDate": "2023-09-04T11:52:31.000+0800",
+          "updateDate": "2023-09-04T11:52:31.000+0800",
+          "checkState": null,
+          "sortIndex": 0,
+          "questionJson": {
+            "questionType": "0",
+            "descriptions": "<p class=\"MsoNormal\"><span style=\"mso-spacerun: 'yes'; font-family: Cambria; mso-fareast-font-family: 'MS Mincho'; mso-bidi-font-family: 'Times New Roman'; font-size: 11.0000pt;\">Questions 31-40</span></p>\n<p class=\"MsoNormal\"><span style=\"mso-spacerun: 'yes'; font-family: Cambria; mso-fareast-font-family: 'MS Mincho'; mso-bidi-font-family: 'Times New Roman'; font-size: 11.0000pt;\">Complete the notes below.</span><span style=\"mso-spacerun: 'yes'; font-family: Cambria; mso-fareast-font-family: 'MS Mincho'; mso-bidi-font-family: 'Times New Roman'; font-size: 11.0000pt;\"><br /></span><span style=\"mso-spacerun: 'yes'; font-family: Cambria; mso-fareast-font-family: 'MS Mincho'; mso-bidi-font-family: 'Times New Roman'; font-size: 11.0000pt;\">Write ONE WORD ONLY for each answer.</span><span style=\"mso-spacerun: 'yes'; font-family: Cambria; mso-fareast-font-family: 'MS Mincho'; mso-bidi-font-family: 'Times New Roman'; font-size: 11.0000pt;\"><br /></span></p>",
+            "startIndex": 31,
+            "endIndex": 40,
+            "questionNum": 10,
+            "questionsContent": "<p align=\"center\"><strong>Health benefits of dance</strong></p>\n<p><strong>Recent findings:</strong></p>\n<p>&bull; All forms of dance produce various hormones associated with feelings of happiness.</p>\n<p>&bull; Dancing with others has a more positive impact than dancing alone.</p>\n<p>&bull; An experiment on university students suggested that dance increases ...... .</p>\n<p>&bull; For those with mental illness, dance could be used as a form of ...... .</p>\n<p><strong>Benefits of dance for older people:</strong></p>\n<p><span style=\"background-color: #ffffff; font-family: Arial; font-size: 16px;\">&bull; </span>accessible for people with low levels of ......</p>\n<p><span style=\"background-color: #ffffff; font-family: Arial; font-size: 16px;\">&bull; </span>reduces the risk of heart disease</p>\n<p><span style=\"background-color: #ffffff; font-family: Arial; font-size: 16px;\">&bull; </span>better ...... reduces the risk of accidents</p>\n<p><span style=\"background-color: #ffffff; font-family: Arial; font-size: 16px;\">&bull; </span>improves ...... function by making it work faster</p>\n<p><span style=\"background-color: #ffffff; font-family: Arial; font-size: 16px;\">&bull; </span>improves participants' general well-being</p>\n<p><span style=\"background-color: #ffffff; font-family: Arial; font-size: 16px;\">&bull; </span>gives people more ...... to take exercise</p>\n<p><span style=\"background-color: #ffffff; font-family: Arial; font-size: 16px;\">&bull; </span>can lessen the feeling of ......, very common in older people</p>\n<p><strong>Benefits of Zumba:</strong></p>\n<p><span style=\"background-color: #ffffff; font-family: Arial; font-size: 16px;\">&bull; </span>A study at The University of Wisconsin showed that doing Zumba for 40 minutes uses up as many ...... as other quite intense forms of exercise.</p>\n<p><span style=\"background-color: #ffffff; font-family: Arial; font-size: 16px;\">&bull; </span>The American Journal of Health Behavior&nbsp;study showed that:</p>\n<p>-women suffering from ...... benefited from doing Zumba.</p>\n<p>-Zumba became a ...... for the participants.<br /><br />温馨提示：纸考Part 4结束后有10分钟时间誊写答案，机考Part 4结束后有2分钟时间检查。</p>"
+          },
+          "answerJson": [
+            {
+              "explain": "更多创造力即增加了创造力，more对应increases，故填creativity。",
+              "correctValue": "creativity",
+              "sentenceList": [8, 11]
+            },
+            {
+              "explain": "mental illness对应mental health problems，as a form of对应as，故填therapy。",
+              "correctValue": "therapy",
+              "sentenceList": [12, 13]
+            },
+            {
+              "explain": "low levels of对应low，故填fitness。",
+              "correctValue": "fitness",
+              "sentenceList": [16]
+            },
+            {
+              "explain": "better对应improve，reduces对应lowers，accidents对应falls，故填balance。",
+              "correctValue": "balance",
+              "sentenceList": [19]
+            },
+            {
+              "explain": "预判答案为名词，more quickly对应faster，故填brain。",
+              "correctValue": "brain",
+              "sentenceList": [23]
+            },
+            {
+              "explain": "预判答案为名词，greater对应more，故填motivation。",
+              "correctValue": "motivation",
+              "sentenceList": [25]
+            },
+            {
+              "explain": "lessen对应reduce，feeling对应sense，故填isolation。",
+              "correctValue": "isolation",
+              "sentenceList": [28]
+            },
+            {
+              "explain": "由40 minutes定位，uses up对应burns，many对应370，故填calories。",
+              "correctValue": "calories",
+              "sentenceList": [32, 33]
+            },
+            {
+              "explain": "由women定位，suffer from后填疾病或状态，故填obesity。",
+              "correctValue": "obesity",
+              "sentenceList": [34, 35]
+            },
+            {
+              "explain": "女性养成了跳尊巴的习惯，即跳尊巴对参与者来说成为了一个习惯，故填habit。",
+              "correctValue": "habit",
+              "sentenceList": [36]
+            }
+          ],
+          "source": null
+        }
+      ],
+      "source": null,
+      "showDetailTitle": null,
+      "taskCount": 0,
+      "useFor": 1,
+      "answerShowFlag": null,
+      "type": 0
+    }
+  ],
+  "showMessage": null
+}
