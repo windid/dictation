@@ -4,7 +4,7 @@
       <q-btn flat round dense icon="home" to="/" class="on-left" />
       <span class="text-h4" style="margin-right: 240px">{{ id }}</span>
       <q-btn
-        v-for="(part, i) in parts"
+        v-for="(_, i) in parts"
         :key="i"
         class="q-ma-sm"
         :color="i === currentPartId ? 'primary' : 'grey'"
